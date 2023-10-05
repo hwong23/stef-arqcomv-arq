@@ -72,6 +72,11 @@
         id="id-5595db790dea47a3be38d1e68766a799"
         source="id-8eb52e97c83e42bdbf1d314f091924d8"
         target="id-e7b41aee4eb44181a7822f837e0e6a80">
+      <bendpoints
+          startX="49"
+          startY="-65"
+          endX="-167"
+          endY="7"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-1de83ab3380446dc866af24344a44f59.xml#id-1de83ab3380446dc866af24344a44f59"/>
