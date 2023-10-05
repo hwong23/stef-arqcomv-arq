@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arq.2. Mi Mutual. Contenedores"
     id="id-5fe59b86833c4bf8a7be4069e0b798a8"
-    documentation="La organización de componentes utilizada Mi Mutual, impulsada por Spring Web, antepone como interfaz de uso un API REST. La interfaz se articula con tres componentes utilitarios: Controller, Service y Repository, los cuales están mediados por el componente misional, Mi Mutual, en la imagen. &#xA;&#xA;Esta decisión de organización de los componentes de Mi Mutual, incluyendo al misional del mismo nomnbre, permite estructurar la aplicación de una manera ordenada y, en línea con las restricciones de arquitectura exigidas al sistema, facilita la efectividad de las extensiones y el mantenimiento.&#xA;">
+    documentation="## Organización de Componentes Mi Mutual&#xA;&#xA;La organización de componentes utilizada Mi Mutual, impulsada por Spring Web, antepone como interfaz de uso un API REST. La interfaz se articula con tres componentes utilitarios: Controller, Service y Repository, los cuales están mediados por el componente misional, Mi Mutual, en la imagen. &#xA;&#xA;Esta decisión de organización de los componentes de Mi Mutual, incluyendo al misional del mismo nomnbre, permite estructurar la aplicación de una manera ordenada y, en línea con las restricciones de arquitectura exigidas al sistema, facilita la efectividad de las extensiones y el mantenimiento.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e7b41aee4eb44181a7822f837e0e6a80"
@@ -72,11 +72,6 @@
         id="id-5595db790dea47a3be38d1e68766a799"
         source="id-8eb52e97c83e42bdbf1d314f091924d8"
         target="id-e7b41aee4eb44181a7822f837e0e6a80">
-      <bendpoints
-          startX="49"
-          startY="-65"
-          endX="-167"
-          endY="7"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-1de83ab3380446dc866af24344a44f59.xml#id-1de83ab3380446dc866af24344a44f59"/>
@@ -90,11 +85,57 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-58b5edc10143416e96f6ba8a7c4e1490.xml#id-58b5edc10143416e96f6ba8a7c4e1490"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-52f05ead8f314784b1f7ddec3c0dd066"
+        source="id-8eb52e97c83e42bdbf1d314f091924d8"
+        target="id-c71cd69caeb84ed488481a020efaaad2">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-77304f4996df4eaf99498121be218b88.xml#id-77304f4996df4eaf99498121be218b88"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ad2f6f759b9c4c1f99711a921f4da287"
+        source="id-8eb52e97c83e42bdbf1d314f091924d8"
+        target="id-9c4b076eba0b45b38d7c4922e2728512">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-2bb46382d237463a90e62ee87cf788b0.xml#id-2bb46382d237463a90e62ee87cf788b0"/>
+    </sourceConnections>
     <bounds
-        x="180"
+        x="156"
         y="309"
-        width="120"
-        height="55"/>
+        width="181"
+        height="184"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c71cd69caeb84ed488481a020efaaad2"
+        targetConnections="id-52f05ead8f314784b1f7ddec3c0dd066"
+        type="1">
+      <bounds
+          x="36"
+          y="48"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-add167f84cb544cc91cc780ca5f3dee4.xml#id-add167f84cb544cc91cc780ca5f3dee4"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-9c4b076eba0b45b38d7c4922e2728512"
+        targetConnections="id-ad2f6f759b9c4c1f99711a921f4da287"
+        type="1">
+      <bounds
+          x="36"
+          y="120"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_id-37904db9c67b468fbd0582c1ae965c67.xml#id-37904db9c67b468fbd0582c1ae965c67"/>
+    </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-430516b9b9c44d1da9e734a96a9a9cce.xml#id-430516b9b9c44d1da9e734a96a9a9cce"/>
