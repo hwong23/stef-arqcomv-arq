@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arq.3. Mi Mutual. Dominios"
     id="id-511d7a8908d54b139929810290d77280"
-    documentation="## Organización de Componentes Mi Mutual&#xA;&#xA;La organización de componentes utilizada Mi Mutual, impulsada por Spring Web, antepone como interfaz de uso un API REST. La interfaz se articula con tres componentes utilitarios: Controller, Service y Repository, los cuales están mediados por el componente misional, Mi Mutual, en la imagen. &#xA;&#xA;Esta decisión de organización de los componentes de Mi Mutual, incluyendo al misional del mismo nomnbre, permite estructurar la aplicación de una manera ordenada y, en línea con las restricciones de arquitectura exigidas al sistema, facilita la efectividad de las extensiones y el mantenimiento.&#xA;">
+    documentation="La división por dominios de la aplicación se plantea debido al gran tamaño de la misma y con el fin de agrupar las funcionalidades comunes, para esta solución se contemplan los siguientes microservicios asociados, reclamaciones, protecciones y otros microservicios trasversales como utilidades, motor de reglas y BPM, auditoria, flowable de integración.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e0ee55d0a70b49deb65970931052be68"

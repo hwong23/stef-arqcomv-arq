@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ruteador (proxy)"
+    id="id-37904db9c67b468fbd0582c1ae965c67"
+    documentation="Gateway: Contiene todas las funcionalidades relacionadas con un proxy inverso que reenvía las llamadas relevantes a otros servicios.&#xA;"/>
