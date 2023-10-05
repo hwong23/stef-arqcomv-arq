@@ -1,13 +1,13 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arq.2. Mi Mutual. Contenedores"
-    id="id-5fe59b86833c4bf8a7be4069e0b798a8"
+    name="Arq.3. Mi Mutual. Dominios"
+    id="id-511d7a8908d54b139929810290d77280"
     documentation="## Organización de Componentes Mi Mutual&#xA;&#xA;La organización de componentes utilizada Mi Mutual, impulsada por Spring Web, antepone como interfaz de uso un API REST. La interfaz se articula con tres componentes utilitarios: Controller, Service y Repository, los cuales están mediados por el componente misional, Mi Mutual, en la imagen. &#xA;&#xA;Esta decisión de organización de los componentes de Mi Mutual, incluyendo al misional del mismo nomnbre, permite estructurar la aplicación de una manera ordenada y, en línea con las restricciones de arquitectura exigidas al sistema, facilita la efectividad de las extensiones y el mantenimiento.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e7b41aee4eb44181a7822f837e0e6a80"
-      targetConnections="id-5595db790dea47a3be38d1e68766a799">
+      id="id-e0ee55d0a70b49deb65970931052be68"
+      targetConnections="id-32a6b7b8ecef4beba05431f9502688b1">
     <bounds
         x="396"
         y="237"
@@ -19,12 +19,12 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6acbf54563e348858c5e00f0198c2009">
+      id="id-39de61010a844ad5b8185a8562071f9f">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-bd87ea6dba2b45538041736e70b4fa44"
-        source="id-6acbf54563e348858c5e00f0198c2009"
-        target="id-43bbbc7e35b04b1c97533ab0527d3573">
+        id="id-65ee8a1a08dc49a5805dd4813325fc1a"
+        source="id-39de61010a844ad5b8185a8562071f9f"
+        target="id-cdea1a018968408fa27bb955870861de">
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-51fb46335f8b433f89d6345aed989164.xml#id-51fb46335f8b433f89d6345aed989164"/>
@@ -40,13 +40,13 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-43bbbc7e35b04b1c97533ab0527d3573"
-      targetConnections="id-bd87ea6dba2b45538041736e70b4fa44">
+      id="id-cdea1a018968408fa27bb955870861de"
+      targetConnections="id-65ee8a1a08dc49a5805dd4813325fc1a">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-042651b9b4d34ddd9980c0b81a1b23c0"
-        source="id-43bbbc7e35b04b1c97533ab0527d3573"
-        target="id-8eb52e97c83e42bdbf1d314f091924d8">
+        id="id-199fa2df641d4b2ab2e37ccda370ad84"
+        source="id-cdea1a018968408fa27bb955870861de"
+        target="id-96b57cb6dfc847069366a89f0f8838b0">
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-b534478f4b5c439cb96a57fd630a39cf.xml#id-b534478f4b5c439cb96a57fd630a39cf"/>
@@ -62,22 +62,22 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8eb52e97c83e42bdbf1d314f091924d8"
-      targetConnections="id-042651b9b4d34ddd9980c0b81a1b23c0">
+      id="id-96b57cb6dfc847069366a89f0f8838b0"
+      targetConnections="id-199fa2df641d4b2ab2e37ccda370ad84">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-5595db790dea47a3be38d1e68766a799"
-        source="id-8eb52e97c83e42bdbf1d314f091924d8"
-        target="id-e7b41aee4eb44181a7822f837e0e6a80">
+        id="id-32a6b7b8ecef4beba05431f9502688b1"
+        source="id-96b57cb6dfc847069366a89f0f8838b0"
+        target="id-e0ee55d0a70b49deb65970931052be68">
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-1de83ab3380446dc866af24344a44f59.xml#id-1de83ab3380446dc866af24344a44f59"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-81e3ef4ba57049c4a2856568f822148a"
-        source="id-8eb52e97c83e42bdbf1d314f091924d8"
-        target="id-d9a14cf327434a34b6a6a917c408b3c0">
+        id="id-fee48e21bd314b89b67d00bcd4ce5aef"
+        source="id-96b57cb6dfc847069366a89f0f8838b0"
+        target="id-84c92609f8c2421991e05c132bbce582">
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-58b5edc10143416e96f6ba8a7c4e1490.xml#id-58b5edc10143416e96f6ba8a7c4e1490"/>
@@ -93,8 +93,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-d9a14cf327434a34b6a6a917c408b3c0"
-      targetConnections="id-81e3ef4ba57049c4a2856568f822148a">
+      id="id-84c92609f8c2421991e05c132bbce582"
+      targetConnections="id-fee48e21bd314b89b67d00bcd4ce5aef">
     <bounds
         x="588"
         y="309"
@@ -106,7 +106,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-52819a4e34e74a5aafaee2bbc4b9b6e1"
+      id="id-be1bded68921449dae46b67466f892f9"
       textAlignment="1"
       content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Estructura de componentes, Mi Mutual. Roles de componentes, separación responsabilidades.&#xA;&#xA;versión 0.1">
     <bounds
