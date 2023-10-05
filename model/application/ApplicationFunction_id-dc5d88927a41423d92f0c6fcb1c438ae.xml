@@ -1,5 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestión de Usuarios"
+    name="Gestión Usuarios"
     id="id-dc5d88927a41423d92f0c6fcb1c438ae"
     documentation="Gestión de Usuarios: Administración de la información relacionada con los usuarios del sistema. Este componente se comunica con el servicio unificado de autenticación y autorización que devuelve los permisos que un usuario posee sobre las opciones que proporciona el sistema.&#xA;"/>

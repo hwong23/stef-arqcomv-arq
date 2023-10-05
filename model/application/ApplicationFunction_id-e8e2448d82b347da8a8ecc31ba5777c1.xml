@@ -1,0 +1,5 @@
+<archimate:ApplicationFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autorizaciones"
+    id="id-e8e2448d82b347da8a8ecc31ba5777c1"
+    documentation="Autorizaciones: Administración de peticiones de autorización y sus correspondientes aprobaciones usando el servicio del flujo de procesos"/>
