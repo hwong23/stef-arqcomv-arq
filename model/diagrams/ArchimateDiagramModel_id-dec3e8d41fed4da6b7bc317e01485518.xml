@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arq.5. Mi Mutual. Microservicios"
+    name="Arq.5. Mi Mutual. Servicios"
     id="id-dec3e8d41fed4da6b7bc317e01485518">
   <children
       xsi:type="archimate:DiagramModelNote"
