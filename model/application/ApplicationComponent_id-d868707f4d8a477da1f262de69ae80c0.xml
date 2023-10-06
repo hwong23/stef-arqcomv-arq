@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Mi Mutual"
-    id="id-d868707f4d8a477da1f262de69ae80c0"
-    documentation="Mi Mutual esta concebido como la modernización de Sipas.&#xD;&#xA;&#xD;&#xA;SIPAS es una aplicación web compuesta por distintos módulos de software, que permiten abarcar todas las actividades necesarias que soportan la operación de los productos y servicios que ofrece la Unidad de Solidaridad y Seguros de la Cooperativa.&#xD;&#xA;&#xD;&#xA;La arquitectura utilizada es la propuesta por Spring Web para un api rest donde se encuentran tres componentes principales los cuales son: Controller, Service y Repository. Estos componentes permiten estructurar la aplicación de una manera ordenada y fácil de entender al momento de realizar modificaciones o el mantenimiento de la misma."/>

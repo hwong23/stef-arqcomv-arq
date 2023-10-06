@@ -1,5 +1,4 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Servicio de archivos"
-    id="id-b8b07a257a0e454a841d79dfe7665b7a"
-    documentation="La infraestructura para desplegar Mi Mutual está conformada por servidores con su correspondiente sistema operativo y con las características específicas en ram, disco duro,procesador y un balanceador."/>
+    id="id-b8b07a257a0e454a841d79dfe7665b7a"/>
