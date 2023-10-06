@@ -101,17 +101,17 @@
           href="CompositionRelationship_id-2bb46382d237463a90e62ee87cf788b0.xml#id-2bb46382d237463a90e62ee87cf788b0"/>
     </sourceConnections>
     <bounds
-        x="156"
+        x="168"
         y="309"
-        width="181"
+        width="169"
         height="184"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c71cd69caeb84ed488481a020efaaad2"
         targetConnections="id-52f05ead8f314784b1f7ddec3c0dd066">
       <bounds
-          x="36"
-          y="48"
+          x="24"
+          y="24"
           width="120"
           height="55"/>
       <archimateElement
@@ -123,8 +123,8 @@
         id="id-9c4b076eba0b45b38d7c4922e2728512"
         targetConnections="id-ad2f6f759b9c4c1f99711a921f4da287">
       <bounds
-          x="36"
-          y="120"
+          x="24"
+          y="96"
           width="120"
           height="55"/>
       <archimateElement
