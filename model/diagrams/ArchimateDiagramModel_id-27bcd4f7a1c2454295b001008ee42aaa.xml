@@ -667,12 +667,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e4ce9bd7c80c4f0a8a98114cbce5793a"
+        id="id-a0ff1cd73a1b46a48a37209fb17bfa1f"
         source="id-99749757102c4d1e9f8dc543f41f2e6c"
-        target="id-7cfbb16f263f4dff8a6e695bbd17b442">
+        target="id-62133ae2518740048eed6622002489f1">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-3be99968104e49b18c52e91fa58dc219.xml#id-3be99968104e49b18c52e91fa58dc219"/>
+          href="CompositionRelationship_id-6843c2fcd0974a9f9ecb09de19995b9a.xml#id-6843c2fcd0974a9f9ecb09de19995b9a"/>
     </sourceConnections>
     <bounds
         x="21"
@@ -686,8 +686,8 @@
       <bounds
           x="72"
           y="48"
-          width="152"
-          height="70"/>
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-a9300fcaa5344a5eb8954838777e3740.xml#id-a9300fcaa5344a5eb8954838777e3740"/>
@@ -699,24 +699,24 @@
       <bounds
           x="335"
           y="48"
-          width="152"
-          height="70"/>
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_id-5ededa9eadd04f6faa392e57ae371244.xml#id-5ededa9eadd04f6faa392e57ae371244"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-7cfbb16f263f4dff8a6e695bbd17b442"
-        targetConnections="id-e4ce9bd7c80c4f0a8a98114cbce5793a">
+        id="id-62133ae2518740048eed6622002489f1"
+        targetConnections="id-a0ff1cd73a1b46a48a37209fb17bfa1f">
       <bounds
-          x="592"
+          x="588"
           y="48"
-          width="152"
-          height="70"/>
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
-          href="ApplicationComponent_id-27d890efb4a74a2e9932a1b4771720dd.xml#id-27d890efb4a74a2e9932a1b4771720dd"/>
+          href="ApplicationComponent_id-199591e8e20948ebbf630515ee60c222.xml#id-199591e8e20948ebbf630515ee60c222"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
