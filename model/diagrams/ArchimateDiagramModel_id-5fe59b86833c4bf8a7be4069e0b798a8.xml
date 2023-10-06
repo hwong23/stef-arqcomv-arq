@@ -7,7 +7,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e7b41aee4eb44181a7822f837e0e6a80"
-      targetConnections="id-5595db790dea47a3be38d1e68766a799">
+      targetConnections="id-5595db790dea47a3be38d1e68766a799"
+      type="1">
     <bounds
         x="396"
         y="237"
@@ -41,7 +42,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-43bbbc7e35b04b1c97533ab0527d3573"
-      targetConnections="id-bd87ea6dba2b45538041736e70b4fa44">
+      targetConnections="id-bd87ea6dba2b45538041736e70b4fa44"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-042651b9b4d34ddd9980c0b81a1b23c0"
@@ -63,7 +65,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8eb52e97c83e42bdbf1d314f091924d8"
-      targetConnections="id-042651b9b4d34ddd9980c0b81a1b23c0">
+      targetConnections="id-042651b9b4d34ddd9980c0b81a1b23c0"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-5595db790dea47a3be38d1e68766a799"
@@ -108,7 +111,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c71cd69caeb84ed488481a020efaaad2"
-        targetConnections="id-52f05ead8f314784b1f7ddec3c0dd066">
+        targetConnections="id-52f05ead8f314784b1f7ddec3c0dd066"
+        type="1">
       <bounds
           x="24"
           y="24"
@@ -121,7 +125,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9c4b076eba0b45b38d7c4922e2728512"
-        targetConnections="id-ad2f6f759b9c4c1f99711a921f4da287">
+        targetConnections="id-ad2f6f759b9c4c1f99711a921f4da287"
+        type="1">
       <bounds
           x="24"
           y="96"
@@ -138,7 +143,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d9a14cf327434a34b6a6a917c408b3c0"
-      targetConnections="id-81e3ef4ba57049c4a2856568f822148a">
+      targetConnections="id-81e3ef4ba57049c4a2856568f822148a"
+      type="1">
     <bounds
         x="587"
         y="315"
