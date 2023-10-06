@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eureka - Admin"
+    id="id-9d098c07ceb343039bbe5723e6782e04"
+    documentation="Contiene todas las funcionalidades relacionadas con la consola de administración del estado actual de cada uno de los microservicios."/>

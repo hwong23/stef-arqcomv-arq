@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Microservicios"
+    id="id-6029d9d4298e4b52ba510db354ef23f0"
+    documentation="La infraestructura para desplegar Mi Mutual está conformada por servidores con su correspondiente sistema operativo y con las características específicas en ram, disco duro,procesador y un balanceador."/>

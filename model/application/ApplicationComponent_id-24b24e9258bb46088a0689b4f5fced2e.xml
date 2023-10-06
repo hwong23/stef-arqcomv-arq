@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integración"
+    id="id-24b24e9258bb46088a0689b4f5fced2e"
+    documentation="Contiene todas las funcionalidades relacionadas con integraciones a otros servicios y otras bases de datos."/>

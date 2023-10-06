@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Eureka - Admin"
+    id="id-aabcc1ee7e034e168a1ff2fde8d465d2"
+    documentation="Las bases de datos a utilizar son&#xD;&#xA;DB2 AS400 llamada SIPASDB instalada en un servidor.&#xD;&#xA;Sql Server instalada en un servidor &#xD;&#xA;Oracle instalada en un servidor&#xD;&#xA;"/>

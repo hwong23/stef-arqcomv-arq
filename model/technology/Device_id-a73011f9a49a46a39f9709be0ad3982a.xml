@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Zipking"
+    id="id-a73011f9a49a46a39f9709be0ad3982a"
+    documentation="La infraestructura para desplegar Mi Mutual está conformada por servidores con su correspondiente sistema operativo y con las características específicas en ram, disco duro,procesador y un balanceador."/>

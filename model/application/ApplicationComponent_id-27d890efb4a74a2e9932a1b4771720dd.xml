@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Repositorio"
-    id="id-27d890efb4a74a2e9932a1b4771720dd"/>
+    id="id-27d890efb4a74a2e9932a1b4771720dd"
+    documentation="Para el manejo de la persistencia de datos se utilizará Spring Data el cual se apoya en la especificación de JPA y en la implementación de HIBERNATE además de complementar esta capa de persistencia con nuevas funcionalidades que facilitan el acceso a datos."/>

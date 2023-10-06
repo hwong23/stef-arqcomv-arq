@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mi Mutual"
+    id="id-3b5cafd5aa9042418e57ffc81ec991a3"
+    documentation="Para esta solución se contemplan los siguientes microservicios asociados, reclamaciones, protecciones y otros microservicios trasversales como utilidades, motor de reglas y BPM, auditoria, flowable de integración."/>

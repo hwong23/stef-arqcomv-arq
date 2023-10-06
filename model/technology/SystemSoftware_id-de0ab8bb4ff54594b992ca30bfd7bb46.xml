@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gateway"
+    id="id-de0ab8bb4ff54594b992ca30bfd7bb46"
+    documentation="Las bases de datos a utilizar son&#xD;&#xA;DB2 AS400 llamada SIPASDB instalada en un servidor.&#xD;&#xA;Sql Server instalada en un servidor &#xD;&#xA;Oracle instalada en un servidor&#xD;&#xA;"/>
