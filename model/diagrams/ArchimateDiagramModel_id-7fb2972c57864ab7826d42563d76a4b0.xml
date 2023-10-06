@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arq.6. Mi Mutual. Distribucion"
-    id="id-7fb2972c57864ab7826d42563d76a4b0">
+    id="id-7fb2972c57864ab7826d42563d76a4b0"
+    documentation="Contiene el diagrama de distribución">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-3a865932e7a54fa59676c6cbd418657f"

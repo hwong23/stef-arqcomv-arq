@@ -1,4 +1,5 @@
 <archimate:TechnologyService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Servicio de Base de Datos"
-    id="id-37b9b09ee88a499cbb1aa34d52e37e78"/>
+    id="id-37b9b09ee88a499cbb1aa34d52e37e78"
+    documentation="Las bases de datos a utilizar son&#xD;&#xA;DB2 AS400 llamada SIPASDB instalada en un servidor.&#xD;&#xA;Sql Server instalada en un servidor &#xD;&#xA;Oracle instalada en un servidor"/>

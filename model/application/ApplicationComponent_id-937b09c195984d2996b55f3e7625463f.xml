@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Despliegue Mi Mutual"
-    id="id-937b09c195984d2996b55f3e7625463f"/>
+    id="id-937b09c195984d2996b55f3e7625463f"
+    documentation="Diagrama de despligue"/>
