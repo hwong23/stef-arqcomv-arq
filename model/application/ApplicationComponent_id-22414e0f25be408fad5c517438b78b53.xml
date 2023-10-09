@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="pkg: Web"
+    id="id-22414e0f25be408fad5c517438b78b53"
+    documentation="dto: Almacenan todas las clases (pojos) para manejo de datos."/>

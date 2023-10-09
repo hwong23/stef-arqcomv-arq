@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="pkg: Spring Cloud"
+    id="id-f736cec2b3774e67a64971916bceffd3"
+    documentation="dto: Almacenan todas las clases (pojos) para manejo de datos."/>

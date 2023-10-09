@@ -2,10 +2,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arq.8. Mi Mutual. Dependencias"
-    id="id-cd7711359fb64153aacc8f016b0e85e8">
+    id="id-cd7711359fb64153aacc8f016b0e85e8"
+    documentation="## Paquetes y Dependencias Mi Mutual&#xA;La estructura está basada en spring boot y lenguaje de programación JAVA 8, conformada por componentes de aplicación y administración del ciclo de vida de los objetos.&#xA;&#xA;Nombrado de paquetes para los servicios&#xA;&#xA;* MiMutualWeb&#xA;* MiMutualProtecciones&#xA;* MiMutualReclamaciones &#xA;* MiMutualAsociados&#xA;* MiMutualUtilidades&#xA;* MiMutualBPM&#xA;* MiMutualReglas&#xA;* MiMutualIntegraciones&#xA;* MiMutualAuditoria&#xA;* Mi&lt;utualFLowable&#xA;* MiMutualSpringCloud&#xA;&#xA;&lt;br>&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1e486cd6ab6e45efb4bb60672a6cf634">
+      id="id-1e486cd6ab6e45efb4bb60672a6cf634"
+      targetConnections="id-861cf516633741e2ac3fdeefc4715ba6">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c741a7a953e546e7afc9102444281d23"
@@ -82,7 +84,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-172962b05ee04104aaf5646948b1c4ad"
-      targetConnections="id-4580fbfc19074c148ba1451df4a330f0 id-2333befcbe20476c8227e400025ba684 id-282d878f80b44868b79cb755b19b90b4 id-c741a7a953e546e7afc9102444281d23 id-d4ff69187ecf406b944071fd14289034">
+      targetConnections="id-4580fbfc19074c148ba1451df4a330f0 id-2333befcbe20476c8227e400025ba684 id-282d878f80b44868b79cb755b19b90b4 id-c741a7a953e546e7afc9102444281d23 id-d4ff69187ecf406b944071fd14289034 id-d1911f0209c5426fbef69d7068efeb38">
     <bounds
         x="228"
         y="312"
@@ -189,5 +191,59 @@
         y="24"
         width="229"
         height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-de05aeb73b514ccfb7c4bf5d932025cd">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d1911f0209c5426fbef69d7068efeb38"
+        source="id-de05aeb73b514ccfb7c4bf5d932025cd"
+        target="id-172962b05ee04104aaf5646948b1c4ad">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-c06d07ad0388410785064289b4ac9784.xml#id-c06d07ad0388410785064289b4ac9784"/>
+    </sourceConnections>
+    <bounds
+        x="396"
+        y="492"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-4deb37fbba8242a5aa4ce48c97b01d46.xml#id-4deb37fbba8242a5aa4ce48c97b01d46"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a5be01b0f97846ea8fab18a07fe61f70">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-861cf516633741e2ac3fdeefc4715ba6"
+        source="id-a5be01b0f97846ea8fab18a07fe61f70"
+        target="id-1e486cd6ab6e45efb4bb60672a6cf634">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-6319a4aff2434d94a950d85dc0e39c36.xml#id-6319a4aff2434d94a950d85dc0e39c36"/>
+    </sourceConnections>
+    <bounds
+        x="552"
+        y="192"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-22414e0f25be408fad5c517438b78b53.xml#id-22414e0f25be408fad5c517438b78b53"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-5b505aca7fb7459abe45bb9506fc86b9">
+    <bounds
+        x="552"
+        y="468"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-f736cec2b3774e67a64971916bceffd3.xml#id-f736cec2b3774e67a64971916bceffd3"/>
   </children>
 </archimate:ArchimateDiagramModel>
