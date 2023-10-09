@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="pkg: modelos"
+    id="id-dad9a3e9ab2f4aee97969d2df5ab0eed"
+    documentation="controller: Almacenan todas las clases que constituyen los servicios rest de la aplicación."/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="pkg: reportes"
+    id="id-8bb658b63cd44d6c8f0d87e3c7130276"
+    documentation="controller: Almacenan todas las clases que constituyen los servicios rest de la aplicación."/>
