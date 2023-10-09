@@ -30,7 +30,7 @@
     <bounds
         x="88"
         y="347"
-        width="127"
+        width="153"
         height="52"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
@@ -38,8 +38,7 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-723d28a4b066402c9fd419b7caf9b776"
-      targetConnections="id-2e7ed5221e3b4bd49ca3fa369373b192">
+      id="id-723d28a4b066402c9fd419b7caf9b776">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-b81eb0392ed74e52a1fe2d568304d788"
@@ -52,7 +51,7 @@
     <bounds
         x="349"
         y="347"
-        width="127"
+        width="153"
         height="52"/>
     <archimateElement
         xsi:type="archimate:TechnologyService"
@@ -87,7 +86,7 @@
         x="21"
         y="442"
         width="784"
-        height="207"/>
+        height="231"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-27f1c49bd7e34826a9fc1c5d2cf9afea">
@@ -108,27 +107,6 @@
       <archimateElement
           xsi:type="archimate:SystemSoftware"
           href="SystemSoftware_id-aabcc1ee7e034e168a1ff2fde8d465d2.xml#id-aabcc1ee7e034e168a1ff2fde8d465d2"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-680c287a35a8427aa5eb32b520c7e4af">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-2e7ed5221e3b4bd49ca3fa369373b192"
-          source="id-680c287a35a8427aa5eb32b520c7e4af"
-          target="id-723d28a4b066402c9fd419b7caf9b776">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_id-071f3e8d297b4ef39cc76e6bee80e7b8.xml#id-071f3e8d297b4ef39cc76e6bee80e7b8"/>
-      </sourceConnections>
-      <bounds
-          x="316"
-          y="30"
-          width="153"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:Device"
-          href="Device_id-6029d9d4298e4b52ba510db354ef23f0.xml#id-6029d9d4298e4b52ba510db354ef23f0"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -153,39 +131,27 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-5d6c93e48c65409fa18d882805e34419">
-      <bounds
-          x="570"
-          y="116"
-          width="153"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:Node"
-          href="Node_id-e3968737497145dd8f07851153f5817f.xml#id-e3968737497145dd8f07851153f5817f"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-f126f8c8a80f48558a7ca491211495b7">
-      <bounds
-          x="316"
-          y="116"
-          width="153"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:Device"
-          href="Device_id-a73011f9a49a46a39f9709be0ad3982a.xml#id-a73011f9a49a46a39f9709be0ad3982a"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-28b42d8cd6084da4b8ab5ca646e6c2ba">
+        id="id-e85c4a53420b45eda4800322b594ae37">
       <bounds
           x="51"
-          y="116"
+          y="96"
           width="153"
           height="55"/>
       <archimateElement
           xsi:type="archimate:SystemSoftware"
-          href="SystemSoftware_id-de0ab8bb4ff54594b992ca30bfd7bb46.xml#id-de0ab8bb4ff54594b992ca30bfd7bb46"/>
+          href="SystemSoftware_id-a6e39a4a84374d0685ef7c5439c42835.xml#id-a6e39a4a84374d0685ef7c5439c42835"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-e3fb7dee67bf4664ba3b885a3fe63ce5">
+      <bounds
+          x="51"
+          y="156"
+          width="153"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:SystemSoftware"
+          href="SystemSoftware_id-fba36a95c64f4f2aa97a9a86a47deb1b.xml#id-fba36a95c64f4f2aa97a9a86a47deb1b"/>
     </children>
     <archimateElement
         xsi:type="archimate:TechnologyFunction"
