@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="pkg: Security"
-    id="id-951eec0611694fcc94f389ae2d93783b"/>
+    id="id-951eec0611694fcc94f389ae2d93783b"
+    documentation="security: Almacenan todas las clases que permiten la configuración de seguridad de la aplicación.&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="pkg: Util"
-    id="id-dc6453add6864fe5af98a5eb7ab1d36e"/>
+    id="id-dc6453add6864fe5af98a5eb7ab1d36e"
+    documentation="util: Almacenan todas las clases de utilería para la aplicación."/>

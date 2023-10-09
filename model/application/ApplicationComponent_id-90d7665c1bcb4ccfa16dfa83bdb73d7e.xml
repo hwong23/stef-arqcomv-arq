@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="pkg: Service"
-    id="id-90d7665c1bcb4ccfa16dfa83bdb73d7e"/>
+    id="id-90d7665c1bcb4ccfa16dfa83bdb73d7e"
+    documentation="service: Almacenan todas las interfaces que constituyen la lógica de negocio."/>
