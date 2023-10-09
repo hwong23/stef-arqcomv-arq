@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arq.5. Mi Mutual. Servicios"
-    id="id-dec3e8d41fed4da6b7bc317e01485518">
+    name="Arq.3. Mi Mutual. Dominios"
+    id="id-dec3e8d41fed4da6b7bc317e01485518"
+    documentation="La división por dominios de la aplicación se plantea debido al gran tamaño de la misma y con el fin de agrupar las funcionalidades comunes, para esta solución se contemplan los siguientes microservicios asociados, reclamaciones, protecciones y otros microservicios trasversales como utilidades, motor de reglas y BPM, auditoria, flowable de integración.&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-d19dc576f41045fda414559d24c31a57"
