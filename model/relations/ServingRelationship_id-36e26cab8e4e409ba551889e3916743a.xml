@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="usado"
+    id="id-36e26cab8e4e409ba551889e3916743a">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-8a6d76b0a0d14459b4d99d1fe81f16c8.xml#id-8a6d76b0a0d14459b4d99d1fe81f16c8"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-807eb8b38421488f96f7185bb3f9760d.xml#id-807eb8b38421488f96f7185bb3f9760d"/>
+</archimate:ServingRelationship>

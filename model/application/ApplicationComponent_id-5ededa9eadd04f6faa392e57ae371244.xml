@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Servicios"
+    name="Implementación de Servicios"
     id="id-5ededa9eadd04f6faa392e57ae371244"
     documentation="Los componentes de este tipo se encargan de controlar y almacenar toda la lógica del negocio, validaciones y todo lo referente a procesamiento de datos.&#xA;"/>
