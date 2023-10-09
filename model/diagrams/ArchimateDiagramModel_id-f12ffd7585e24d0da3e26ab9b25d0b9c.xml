@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arq Mi Mutual. 6. Físico"
+    name="Arq Mi Mutual. 5. Físico"
     id="id-f12ffd7585e24d0da3e26ab9b25d0b9c"
     documentation="Especificaciones de despliegue Mi Mutual, 2023, componente central.&#xA;&#xA;* Estándares para el manejo de servicios REST sobre HTTP 1.1&#xA;* Tecnologías para el backend: Java 8 con Spring Boot2.1.4&#xA;* Acceso a Datos: Spring Data 2.1.4&#xA;* Seguridad de las API: Spring Security + Oauth2.0&#xA;* Plataforma de despliegue Backend: Tomcat Spring boot&#xA;* Tecnologías para el frontend: Angular 7&#xA;* Librería de Estilos: Bootstrap 4&#xA;* Servidor web (HTTP 1.1): Apache 2.X&#xA;&#xA;">
   <children
