@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arq.8. Mi Mutual. Dependencias"
+    name="Arq.4a3.. Mi Mutual. Dependencias"
     id="id-cd7711359fb64153aacc8f016b0e85e8"
     documentation="## Paquetes y Dependencias Mi Mutual&#xA;La estructura está basada en spring boot y lenguaje de programación JAVA 8, conformada por componentes de aplicación y administración del ciclo de vida de los objetos.&#xA;&#xA;Nombrado de paquetes para los servicios&#xA;&#xA;* MiMutualWeb&#xA;* MiMutualProtecciones&#xA;* MiMutualReclamaciones &#xA;* MiMutualAsociados&#xA;* MiMutualUtilidades&#xA;* MiMutualBPM&#xA;* MiMutualReglas&#xA;* MiMutualIntegraciones&#xA;* MiMutualAuditoria&#xA;* Mi&lt;utualFLowable&#xA;* MiMutualSpringCloud&#xA;&#xA;&lt;br>&#xA;&#xA;## Entorno de Desarrollo&#xA;Para la etapa de desarrollo la aplicación estará configurada para levantar un servidor Tomcat embebido el cual se encuentra configurado el pom.xml y el cual permite trabajar de forma mucho más ágil.&#xA;&#xA;Para el despliegue entre ambientes se manejará maven profiles con el fin de agregar las configuraciones de cada uno de estos.&#xA;&#xA;El código fuente está alojado en un repositorio de Coomeva.&#xA;">
   <children
