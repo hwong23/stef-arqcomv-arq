@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="pkg: admin"
     id="id-ae20f500435f4c859bc8e8c85db8038a"
-    documentation="controller: Almacenan todas las clases que constituyen los servicios rest de la aplicación."/>
+    documentation="controller: Almacenan todas las clases que constituyen los servicios rest de la aplicación.">
+  <properties
+      key="modulo"
+      value="cotizador"/>
+</archimate:ApplicationComponent>

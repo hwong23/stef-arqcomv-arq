@@ -1,4 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Aplicativo"
-    id="id-483a003b260b44698f485d6a93ceeb61"/>
+    id="id-483a003b260b44698f485d6a93ceeb61">
+  <properties
+      key="modulo"
+      value="cotizador"/>
+</archimate:ApplicationFunction>

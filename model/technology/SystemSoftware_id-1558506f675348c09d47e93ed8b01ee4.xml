@@ -1,0 +1,8 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gateway: tomcat (copy)"
+    id="id-1558506f675348c09d47e93ed8b01ee4">
+  <properties
+      key="modulo"
+      value="cotizador"/>
+</archimate:SystemSoftware>

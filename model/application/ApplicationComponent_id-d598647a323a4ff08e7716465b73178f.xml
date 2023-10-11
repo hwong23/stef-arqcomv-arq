@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="pkg: multiactiva"
     id="id-d598647a323a4ff08e7716465b73178f"
-    documentation="controller: Almacenan todas las clases que constituyen los servicios rest de la aplicación."/>
+    documentation="controller: Almacenan todas las clases que constituyen los servicios rest de la aplicación.">
+  <properties
+      key="modulo"
+      value="cotizador"/>
+</archimate:ApplicationComponent>

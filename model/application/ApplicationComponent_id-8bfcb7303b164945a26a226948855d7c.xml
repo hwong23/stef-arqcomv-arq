@@ -1,5 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Secuencias: zipkin"
+    name="app: Secuencias: zipkin"
     id="id-8bfcb7303b164945a26a226948855d7c"
     documentation="Contiene todas las funcionalidades relacionadas con la generación de IDs para la trazabilidad de los logs."/>

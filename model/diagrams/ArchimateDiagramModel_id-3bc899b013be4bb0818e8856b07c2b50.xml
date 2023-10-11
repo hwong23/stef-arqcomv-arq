@@ -14,6 +14,9 @@
         y="12"
         width="229"
         height="121"/>
+    <properties
+        key="modulo"
+        value="cotizador"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

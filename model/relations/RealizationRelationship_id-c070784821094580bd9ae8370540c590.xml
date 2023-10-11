@@ -2,6 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-c070784821094580bd9ae8370540c590">
+  <properties
+      key="modulo"
+      value="cotizador"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-dad9a3e9ab2f4aee97969d2df5ab0eed.xml#id-dad9a3e9ab2f4aee97969d2df5ab0eed"/>
