@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Reglas negocio"
     id="id-302d832896dd4123bcd67409db1ad75a"
-    documentation="Contiene todas las funcionalidades relacionadas con la validación de reglas usadas en otros microservicios."/>
+    documentation="Contiene todas las funcionalidades relacionadas con la validación de reglas usadas en otros microservicios.">
+  <properties
+      key="modulo"
+      value="mimutual"/>
+</archimate:ApplicationComponent>

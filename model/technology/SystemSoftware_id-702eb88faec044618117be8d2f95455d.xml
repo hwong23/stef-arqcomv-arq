@@ -1,4 +1,8 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Servicios: tomcat"
-    id="id-702eb88faec044618117be8d2f95455d"/>
+    id="id-702eb88faec044618117be8d2f95455d">
+  <properties
+      key="modulo"
+      value="mimutual"/>
+</archimate:SystemSoftware>

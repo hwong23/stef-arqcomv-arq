@@ -3,6 +3,9 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="sirve"
     id="id-de0a49672cdd442d9a6116129342983a">
+  <properties
+      key="modulo"
+      value="mimutual"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-209df2bc0ff14fe1b2fffeb90d6c2e2e.xml#id-209df2bc0ff14fe1b2fffeb90d6c2e2e"/>

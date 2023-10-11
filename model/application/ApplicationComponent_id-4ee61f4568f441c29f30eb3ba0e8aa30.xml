@@ -1,5 +1,9 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Protecciones"
+    name="app: Protecciones"
     id="id-4ee61f4568f441c29f30eb3ba0e8aa30"
-    documentation="Contiene todas las funcionalidades relacionadas con la gestión y configuración de productos y protecciones."/>
+    documentation="Contiene todas las funcionalidades relacionadas con la gestión y configuración de productos y protecciones.">
+  <properties
+      key="modulo"
+      value="mimutual"/>
+</archimate:ApplicationComponent>
