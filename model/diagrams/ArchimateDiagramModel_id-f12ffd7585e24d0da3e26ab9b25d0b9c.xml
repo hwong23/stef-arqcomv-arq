@@ -29,7 +29,7 @@
     </sourceConnections>
     <bounds
         x="360"
-        y="168"
+        y="130"
         width="288"
         height="325"/>
     <children
@@ -129,7 +129,7 @@
     </sourceConnections>
     <bounds
         x="446"
-        y="504"
+        y="466"
         width="202"
         height="133"/>
     <children
@@ -163,7 +163,7 @@
     </sourceConnections>
     <bounds
         x="446"
-        y="648"
+        y="610"
         width="202"
         height="133"/>
     <children
@@ -197,7 +197,7 @@
     </sourceConnections>
     <bounds
         x="662"
-        y="360"
+        y="180"
         width="202"
         height="133"/>
     <children
@@ -231,7 +231,7 @@
     </sourceConnections>
     <bounds
         x="662"
-        y="504"
+        y="322"
         width="202"
         height="133"/>
     <children
