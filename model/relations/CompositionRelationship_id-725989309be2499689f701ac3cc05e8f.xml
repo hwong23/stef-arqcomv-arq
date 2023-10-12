@@ -2,6 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-725989309be2499689f701ac3cc05e8f">
+  <properties
+      key="modulo"
+      value="mimutual"/>
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-2a03cb4bead64c4abed4f3e953bd5294.xml#id-2a03cb4bead64c4abed4f3e953bd5294"/>

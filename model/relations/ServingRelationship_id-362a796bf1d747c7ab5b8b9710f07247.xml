@@ -2,13 +2,10 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="sirve"
-    id="id-86727738a16c4642bdaa98a4924de29a">
-  <properties
-      key="modulo"
-      value="mimutual"/>
+    id="id-362a796bf1d747c7ab5b8b9710f07247">
   <source
-      xsi:type="archimate:ApplicationInterface"
-      href="ApplicationInterface_id-e81a289488aa405c98390e14428da869.xml#id-e81a289488aa405c98390e14428da869"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6fc30eb01673418c99d99597f590c9ff.xml#id-6fc30eb01673418c99d99597f590c9ff"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-1a6dfc1cf9324fc0803e48aa62848322.xml#id-1a6dfc1cf9324fc0803e48aa62848322"/>
