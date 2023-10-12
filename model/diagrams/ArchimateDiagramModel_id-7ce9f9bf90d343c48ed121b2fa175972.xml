@@ -116,7 +116,7 @@
       textAlignment="1">
     <bounds
         x="24"
-        y="588"
+        y="456"
         width="828"
         height="140"/>
     <children
@@ -143,13 +143,37 @@
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-3bc899b013be4bb0818e8856b07c2b50.xml#id-3bc899b013be4bb0818e8856b07c2b50"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-d1c6e4d4dd5d40fcbd59f85acda966e8">
+      <bounds
+          x="336"
+          y="48"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-bc7b34fbb33241e785ae91a9d3102378.xml#id-bc7b34fbb33241e785ae91a9d3102378"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-d8497b15664e4d0da88d5cb2d700c5e8">
+      <bounds
+          x="480"
+          y="48"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-59beffe958dd4af68af3a4d2251241ec.xml#id-59beffe958dd4af68af3a4d2251241ec"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-db137e5ecc2045979d5f06b5a58c1e21.xml#id-db137e5ecc2045979d5f06b5a58c1e21"/>
   </children>
   <properties
       key="devdoc"
-      value="02n.a1.contenido.md"/>
+      value="02n.a2.contenido.md"/>
   <properties
       key="rutaMac"
       value="/Downloads/tmpr/prymd/"/>
