@@ -7,4 +7,7 @@
   <properties
       key="rutaMac"
       value="/Downloads/tmpr/prymd/"/>
+  <properties
+      key="devdoc"
+      value="02n.a1.mimutual.md"/>
 </archimate:ArchimateModel>
