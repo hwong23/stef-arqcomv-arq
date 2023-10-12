@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arq Mi Mutual. 7a. Datos. Aplicación"
     id="id-c4ed2d8934fd40eea1d71556b08da65e"
-    documentation="Modelo físico facilitadas por Coomeva, corte del 2 de mayo de 2022. Contiene las estructuras de configuración de fondo, cliente, planes, cobertura y planes de coberturas.&#xA;&#xA;&#xA;">
+    documentation="Estructuras de datos específicas a la plataforma. Modelo de negocio para las aplicaciones. &#xA;&#xA;Modelo físico facilitadas por Coomeva, corte del 2 de mayo de 2022. Contiene las estructuras de configuración de fondo, cliente, planes, cobertura y planes de coberturas.&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-6c510e2342414033b6f3fb5759415585"
