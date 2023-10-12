@@ -5,9 +5,12 @@
     purpose="ARQUITECTURA DE SOLUCIONES UNIDAD DE TECNOLOGÍA INFORMÁTICA&#xA;&#xA;Mi Mutual, Coomeva&#xA;Proyecto: Modificación Core Unidad de Solidaridad y Seguros&#xA;&#xA;Documentación de arquitectura&#xA;versión 0.3.4&#xA;&#xA;&#xA;Historia&#xA;---&#xA;Mi Mutua. Entidades de negocio&#xA;Mi Mutua. Entidades Solidaridad y Seguros&#xA;Mi Mutual. Cotizador&#xA;Mi Mutual. Central&#xA;&#xA;"
     version="4.9.0">
   <properties
-      key="rutaMac"
+      key="rutaMacMD"
       value="/Downloads/tmpr/prymd/"/>
   <properties
       key="devdoc"
       value="02n.a1.mimutual.md"/>
+  <properties
+      key="rutaMacHTML"
+      value="/Downloads/tmpr/cmvarchidoc/"/>
 </archimate:ArchimateModel>
