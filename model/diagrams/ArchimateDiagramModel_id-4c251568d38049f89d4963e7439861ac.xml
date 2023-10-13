@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arq Mi Mutual. 7b. Datos. Relaciones"
+    name="Arq MiMutual. 7b. Datos. Relaciones"
     id="id-4c251568d38049f89d4963e7439861ac"
     documentation="## Entidades de Negocio Mi Mutual&#xA;&#xA;* Configuración (caracterización de productos, plan)&#xA;* Plan (producto pólizas seguros)&#xA;* Canal (medios del tomador/asociado)&#xA;* Parametros globales (catálogos)&#xA;* Portafolio de asociado&#xA;* Asociado&#xA;* Facturación&#xA;* Beneficiario&#xA;">
   <children
