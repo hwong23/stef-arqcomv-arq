@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Controlador"
-    id="id-6e4e7bd2406d4c298ecf72ca9e603934"/>
+    id="id-6e4e7bd2406d4c298ecf72ca9e603934"
+    documentation="Controlador interno del servicio. Punto de entrada a la lógica de expuesta."/>

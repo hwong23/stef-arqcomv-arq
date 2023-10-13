@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Servicio"
-    id="id-dc37e81064a8485aa599d54b3f5f0c59"/>
+    id="id-dc37e81064a8485aa599d54b3f5f0c59"
+    documentation="Exposición de componentes de negocio.&#xA;"/>

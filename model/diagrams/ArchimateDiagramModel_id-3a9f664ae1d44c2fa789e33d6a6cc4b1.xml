@@ -2,13 +2,14 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ArqCotizador. 4a. Aplicación. Servicios"
-    id="id-3a9f664ae1d44c2fa789e33d6a6cc4b1">
+    id="id-3a9f664ae1d44c2fa789e33d6a6cc4b1"
+    documentation="Composición interna de los servivios de Mi Mutual Central, Mi Mutual Web, Cotizador Web. &#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-95d44e54a3c7483cb131340774dd0fc9">
     <bounds
         x="24"
-        y="48"
+        y="192"
         width="433"
         height="481"/>
     <children
@@ -121,8 +122,8 @@
         id="id-eee49e1c1b5b478c95f30efcfd1b4f96"
         targetConnections="id-549b41b781c1430a8023c4939d4baeea">
       <bounds
-          x="228"
-          y="314"
+          x="252"
+          y="316"
           width="120"
           height="55"/>
       <archimateElement
@@ -170,7 +171,7 @@
       targetConnections="id-53f9aa86b7a34d80aad729beadcab360">
     <bounds
         x="516"
-        y="96"
+        y="240"
         width="120"
         height="55"/>
     <archimateElement
@@ -183,11 +184,22 @@
       targetConnections="id-c11fe7f541514ee79bf983f78a4ef7c1">
     <bounds
         x="516"
-        y="204"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-b928c1ae3abe415897b381fbce408eda.xml#id-b928c1ae3abe415897b381fbce408eda"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-3e3f8ef703c144d9967074dd29e60465"
+      textAlignment="1"
+      content="Mi Mutual. Coomeva, 2023.&#xD;&#xA;&#xD;&#xA;Especificaciones de Servicios. Aplicación Cotizador Web, Mi Mutual. Estado Actual. Estructura interna, comunicación e interfaces.&#xA;&#xD;&#xA;versión 0.1&#xA;">
+    <bounds
+        x="24"
+        y="12"
+        width="241"
+        height="160"/>
   </children>
 </archimate:ArchimateDiagramModel>

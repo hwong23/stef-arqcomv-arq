@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Interfaz"
-    id="id-94d1eb797aeb49eb94a10260debf79d0"/>
+    id="id-94d1eb797aeb49eb94a10260debf79d0"
+    documentation="Interfaz de inversión de dependencia a las clases del servicio.&#xA;"/>
