@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arq MiMutual. 7b. Datos. Relaciones"
     id="id-4c251568d38049f89d4963e7439861ac"
-    documentation="## Entidades de Negocio Mi Mutual&#xA;&#xA;* Configuración (caracterización de productos, plan)&#xA;* Plan (producto pólizas seguros)&#xA;* Canal (medios del tomador/asociado)&#xA;* Parametros globales (catálogos)&#xA;* Portafolio de asociado&#xA;* Asociado&#xA;* Facturación&#xA;* Beneficiario&#xA;">
+    documentation="### Entidades de Negocio Mi Mutual&#xA;&#xA;* Configuración (caracterización de productos, plan)&#xA;* Plan (producto pólizas seguros)&#xA;* Canal (medios del tomador/asociado)&#xA;* Parametros globales (catálogos)&#xA;* Portafolio de asociado&#xA;* Asociado&#xA;* Facturación&#xA;* Beneficiario&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-f930d4064e744ba69089e5b0929ba5d4"

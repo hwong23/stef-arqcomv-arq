@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arq MiMutual. 7. Datos. Negocio"
     id="id-e4ae408c4a5b41a09e47e227c33d467d"
-    documentation="## Entidades de Negocio Mi Mutual&#xA;Dominios de datos de negocio. Entidades independiente de la plataforma y de la tecnología.&#xA;&#xA;* Configuración (caracterización de productos, plan)&#xA;* Plan (producto pólizas seguros)&#xA;* Canal (medios del tomador/asociado)&#xA;* Parametros globales (catálogos)&#xA;* Portafolio de asociado&#xA;* Asociado&#xA;* Facturación&#xA;* Beneficiario&#xA;">
+    documentation="### Entidades de Negocio Mi Mutual&#xA;Dominios de datos de negocio. Entidades independiente de la plataforma y de la tecnología.&#xA;&#xA;* Configuración (caracterización de productos, plan)&#xA;* Plan (producto pólizas seguros)&#xA;* Canal (medios del tomador/asociado)&#xA;* Parametros globales (catálogos)&#xA;* Portafolio de asociado&#xA;* Asociado&#xA;* Facturación&#xA;* Beneficiario&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-f7921ffee4ff4866be4c23feb1bf85d6"
