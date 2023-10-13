@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOD0.classlist.js"
+    id="id-32bcfd19d54241ceb65ebac472feb10c"
+    documentation="Componete para el manejo de listas de datos en las gráficas Documentación: https://www.chartjs.org/docs/latest/"/>

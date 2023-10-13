@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOD0.chart.js"
+    id="id-0e361c598ff0464abb4683463048275a"
+    documentation=" Componente utilizado para el manejo de graficas Documentación: https://www.chartjs.org/docs/latest/"/>

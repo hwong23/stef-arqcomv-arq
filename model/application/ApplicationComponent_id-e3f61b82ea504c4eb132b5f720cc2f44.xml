@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOD0.TranslateModule"
+    id="id-e3f61b82ea504c4eb132b5f720cc2f44"
+    documentation=" Manejo de internacionalización. Documentación: https://github.com/ngx-translate/core"/>

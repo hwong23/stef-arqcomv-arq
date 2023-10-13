@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOD0.cronstrue"
+    id="id-125feee0939543b3a588323d642f8b19"
+    documentation=" Componente para traducir una expresión cron a palabras Documentación: https://github.com/bradymholt/cronstrue"/>

@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOD0.ngx-ui-loader"
+    id="id-b14a0913165f4a82893116cb9d1b2967"
+    documentation="Manejo de Spinner para control de peticiones asíncronas. Documentación: https://github.com/t-ho/ngx-ui-loader"/>

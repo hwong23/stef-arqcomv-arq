@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOD0.JwtModule"
+    id="id-25776572253b4c0eae3130c203a3a622"
+    documentation=" Manejo de token. Documentación: https://github.com/auth0/angular2-jwt"/>

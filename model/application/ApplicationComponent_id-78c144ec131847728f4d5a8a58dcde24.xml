@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOD0.sweetalert2"
+    id="id-78c144ec131847728f4d5a8a58dcde24"
+    documentation="Manejo de alertas de mensajes. Documentación: https://sweetalert2.github.io/"/>

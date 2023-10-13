@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOD0.NgxMaskModule"
+    id="id-ec39a34dc0fe416aa8fa16a7e261b79e"
+    documentation=" Manejo de máscaras de input text. Documentación: https://github.com/JsDaddy/ngx-mask"/>

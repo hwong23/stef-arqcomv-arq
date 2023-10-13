@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="MOD0.file-saver"
+    id="id-12f3b003b931439b94afe0205cd1d1b3"
+    documentation=" Componente para descargar un archivo desde los bytes Documentación: https://github.com/eligrey/FileSaver.js#readme"/>
