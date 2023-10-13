@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="pkg: cotizaciones"
-    id="id-88260efcd3664d9c9e94a6f60c3e873e"
-    documentation="controller: Almacenan todas las clases que constituyen los servicios rest de la aplicación.">
-  <properties
-      key="modulo"
-      value="cotizador"/>
-</archimate:ApplicationComponent>

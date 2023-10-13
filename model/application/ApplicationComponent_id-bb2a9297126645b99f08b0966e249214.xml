@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="pkg: home"
-    id="id-bb2a9297126645b99f08b0966e249214"
-    documentation="controller: Almacenan todas las clases que constituyen los servicios rest de la aplicación.">
-  <properties
-      key="modulo"
-      value="cotizador"/>
-</archimate:ApplicationComponent>

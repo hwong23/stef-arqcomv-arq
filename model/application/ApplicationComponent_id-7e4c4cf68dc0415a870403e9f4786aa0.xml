@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="app: Gateway"
-    id="id-7e4c4cf68dc0415a870403e9f4786aa0"
-    documentation="Contiene todas las funcionalidades relacionadas con un proxy inverso que reenvía las llamadas relevantes a otros servicios.">
-  <properties
-      key="modulo"
-      value="mimutual"/>
-</archimate:ApplicationComponent>

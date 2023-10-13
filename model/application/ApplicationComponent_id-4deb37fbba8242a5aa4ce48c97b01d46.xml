@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="pkg: Reglas"
-    id="id-4deb37fbba8242a5aa4ce48c97b01d46"
-    documentation="dto: Almacenan todas las clases (pojos) para manejo de datos."/>

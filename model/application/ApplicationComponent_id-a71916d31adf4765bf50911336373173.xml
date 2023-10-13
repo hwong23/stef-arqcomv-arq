@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="app: Auditoria"
-    id="id-a71916d31adf4765bf50911336373173"
-    documentation="Contiene todas las funcionalidades relacionadas con el almacenamiento de la auditoria de las peticiones de la aplicación.">
-  <properties
-      key="modulo"
-      value="mimutual"/>
-</archimate:ApplicationComponent>

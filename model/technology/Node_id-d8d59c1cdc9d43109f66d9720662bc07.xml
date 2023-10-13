@@ -1,5 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Spring cloud security"
-    id="id-d8d59c1cdc9d43109f66d9720662bc07"
-    documentation="Se implementará Spring Boot Security y Spring Boot Oauth2 las cuales proveen una capa básica de seguridad entre Vista (Angular 2) y Controlador, obligando a que únicamente permita el acceso si se está autenticado si lo requiere, además para realizar el proceso de autenticación se utilizara la aplicación SISPRO (Coomeva) la cual funciona como un servidor de autenticación.&#xD;&#xA;La validación de roles se realizará a nivel de peticiones en el api rest según corresponda, siempre y cuando sea necesario, también se tendrán en cuenta otras validaciones como:&#xD;&#xA;• Las credenciales que proporcionó no son válidas.&#xD;&#xA;• El usuario esta deshabilitado.&#xD;&#xA;• Las credenciales de usuario han caducado.&#xD;&#xA;• La cuenta de usuario ha caducado.&#xD;&#xA;• La cuenta de usuario está bloqueada."/>

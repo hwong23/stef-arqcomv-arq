@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="pkg: Repository"
-    id="id-0bad72d6931442f49936a965beec63ed"
-    documentation="repository: Almacenan todas las interfaces y clases que constituyen el acceso a&#xA;datos.&#xA;"/>

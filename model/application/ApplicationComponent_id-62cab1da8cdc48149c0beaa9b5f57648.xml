@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="pkg: transporte"
-    id="id-62cab1da8cdc48149c0beaa9b5f57648"
-    documentation="controller: Almacenan todas las clases que constituyen los servicios rest de la aplicación.">
-  <properties
-      key="modulo"
-      value="cotizador"/>
-</archimate:ApplicationComponent>

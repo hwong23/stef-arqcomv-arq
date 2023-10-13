@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Procesos negocio"
-    id="id-69d0857a0d5040ad9e8bf165701e8584"
-    documentation="Contiene todas las funcionalidades relacionadas con los flujos de JBPM, actualmente se hace solo para acceso a datos de la base de datos de JBPM.">
-  <properties
-      key="modulo"
-      value="mimutual"/>
-</archimate:ApplicationComponent>

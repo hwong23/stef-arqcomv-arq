@@ -1,8 +1,0 @@
-<archimate:ApplicationInterface
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="API Mi Mutual"
-    id="id-e81a289488aa405c98390e14428da869">
-  <properties
-      key="modulo"
-      value="mimutual"/>
-</archimate:ApplicationInterface>

@@ -1,9 +1,0 @@
-<archimate:ApplicationFunction
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Util"
-    id="id-2309845b99cd44e891d5f0bafdc9c414"
-    documentation="En la Utilidades se especifican las clases que complementan una funcionalidad de un componente o servicio.&#xA;&#xA;* FormValidate: Clase que implementa un disparador de validación de todos los campos de un formulario.&#xA;* CustomValidators: Creación de validaciones de campos.&#xA;&#xA;&lt;br>&#xA;">
-  <properties
-      key="modulo"
-      value="cotizador"/>
-</archimate:ApplicationFunction>

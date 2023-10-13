@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Utilidades"
-    id="id-31791213b6b04780b752f9c74d300142"
-    documentation="Contiene todas las funcionalidades útiles y trasversales a los microservicios, como envió de correos, generación de archivos Excel, PDF desde Jasper y consulta de parámetros.">
-  <properties
-      key="modulo"
-      value="mimutual"/>
-</archimate:ApplicationComponent>

@@ -1,5 +1,0 @@
-<archimate:SystemSoftware
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SQL Server: (...)"
-    id="id-a6e39a4a84374d0685ef7c5439c42835"
-    documentation="Las bases de datos a utilizar son: &#xA;&#xD;&#xA;* DB2 AS400: SIPASDB&#xD;&#xA;* SQL Server (...)&#xD;&#xA;* Oracle (...)&#xD;&#xA;&#xA;"/>
