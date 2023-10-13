@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="app: Cotizador Web"
     id="id-1a6dfc1cf9324fc0803e48aa62848322"
-    documentation="pkg: MiMutualWeb">
+    documentation="pkg: MiMutualWeb&#xA;&#xA;">
   <properties
       key="modulo"
       value="cotizador"/>
