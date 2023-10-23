@@ -1,11 +1,11 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Cotizador Web"
-    id="id-f8ffedb820474ad1a7259f6f2a7aa84f">
+    name="Flujo Control Excepciones"
+    id="id-06654fb4c9e5449ca494a10d3b7c3dfc">
   <properties
       key="modulo"
       value="relatoria"/>
   <properties
       key="caracteristica"
-      value="técnica, integración"/>
+      value="seguridad"/>
 </archimate:Goal>

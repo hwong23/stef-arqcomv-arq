@@ -1,11 +1,11 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Cotizador Web"
-    id="id-f8ffedb820474ad1a7259f6f2a7aa84f">
+    name="Flujo Activación Promoción"
+    id="id-8680610f9ad54e5fa1651c1c480a4538">
   <properties
       key="modulo"
       value="relatoria"/>
   <properties
       key="caracteristica"
-      value="técnica, integración"/>
+      value="seguridad"/>
 </archimate:Goal>

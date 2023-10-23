@@ -1,11 +1,11 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Cotizador Web"
-    id="id-f8ffedb820474ad1a7259f6f2a7aa84f">
+    name="Activación de Producto"
+    id="id-ad10d5101dfd45fe8a927807c6ff0e10">
   <properties
       key="modulo"
       value="relatoria"/>
   <properties
       key="caracteristica"
-      value="técnica, integración"/>
+      value="seguridad"/>
 </archimate:Goal>
