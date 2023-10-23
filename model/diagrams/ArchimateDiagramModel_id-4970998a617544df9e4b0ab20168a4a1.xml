@@ -177,9 +177,9 @@
           href="AssociationRelationship_id-dcfa02e96297492c828824698efaf5b6.xml#id-dcfa02e96297492c828824698efaf5b6"/>
     </sourceConnections>
     <bounds
-        x="852"
-        y="1170"
-        width="137"
+        x="768"
+        y="1104"
+        width="281"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Goal"
@@ -292,9 +292,9 @@
           href="AssociationRelationship_id-732b7470d1684810bdec9f48992649b6.xml#id-732b7470d1684810bdec9f48992649b6"/>
     </sourceConnections>
     <bounds
-        x="888"
-        y="1298"
-        width="137"
+        x="1111"
+        y="1104"
+        width="281"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Goal"
