@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Idiomas (copy) (copy)"
+    id="id-ac58c3def8ce411bb103cb2ae6a0be95"
+    documentation="Tener en cuenta el idioma del sitio web, para que en el marco del contexto de ubicación pueda ser interpretado, de acuerdo con el país de ubicación."/>
