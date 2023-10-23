@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gobierno. 1. Mapa Producto Cotización"
-    id="id-4970998a617544df9e4b0ab20168a4a1">
+    id="id-4970998a617544df9e4b0ab20168a4a1"
+    documentation="en qué fase están las épicas/módulos?&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7191568d91fe4221805674e73ef10d41"
