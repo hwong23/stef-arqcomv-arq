@@ -240,8 +240,8 @@
       id="id-486a5caa87524b3ca2a163074449b54e"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="624"
-        y="552"
+        x="600"
+        y="1752"
         width="137"
         height="55"/>
     <archimateElement
@@ -253,8 +253,8 @@
       id="id-2d31c721f2cd4cfab79db7eb2252fe34"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="1051"
-        y="732"
+        x="1027"
+        y="1932"
         width="137"
         height="55"/>
     <archimateElement
@@ -266,8 +266,8 @@
       id="id-7ab8f28f6a05438ba4c132e2dbd6641d"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="912"
-        y="612"
+        x="888"
+        y="1812"
         width="137"
         height="55"/>
     <archimateElement
@@ -279,8 +279,8 @@
       id="id-c0d350d3072f4512913a847699c8136a"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="1191"
-        y="672"
+        x="1167"
+        y="1872"
         width="137"
         height="55"/>
     <archimateElement
@@ -292,8 +292,8 @@
       id="id-45e80b5f42cd4e10b46f6d89f52ecefa"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="768"
-        y="612"
+        x="744"
+        y="1812"
         width="137"
         height="55"/>
     <archimateElement
@@ -305,8 +305,8 @@
       id="id-44c2bdeaa65f4fdf905893dcabcae161"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="912"
-        y="732"
+        x="888"
+        y="1932"
         width="137"
         height="55"/>
     <archimateElement
@@ -318,8 +318,8 @@
       id="id-bb2c6a1173854b728dc042c6660d615c"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="768"
-        y="552"
+        x="744"
+        y="1752"
         width="137"
         height="55"/>
     <archimateElement
@@ -522,8 +522,8 @@
       id="id-e0eda2244dc5436ca4d03a26a5a34785"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="768"
-        y="672"
+        x="744"
+        y="1872"
         width="137"
         height="55"/>
     <archimateElement
@@ -535,8 +535,8 @@
       id="id-22ec16456d834761867f5400e20a6d40"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="912"
-        y="672"
+        x="888"
+        y="1872"
         width="137"
         height="55"/>
     <archimateElement
@@ -548,8 +548,8 @@
       id="id-5493a08be2da4794b65a26cf5a5f2888"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="1051"
-        y="792"
+        x="1027"
+        y="1992"
         width="137"
         height="55"/>
     <archimateElement
@@ -561,8 +561,8 @@
       id="id-d52fadf25cde42c09396a5ecba553264"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="772"
-        y="852"
+        x="748"
+        y="2052"
         width="277"
         height="55"/>
     <archimateElement
@@ -573,8 +573,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2ba65f62a800440f8679eb0274ef785d">
     <bounds
-        x="624"
-        y="984"
+        x="600"
+        y="2184"
         width="137"
         height="55"/>
     <archimateElement
@@ -585,8 +585,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4888810d7ff94cd1baaad6f36a29b135">
     <bounds
-        x="768"
-        y="984"
+        x="744"
+        y="2184"
         width="137"
         height="55"/>
     <archimateElement
@@ -597,8 +597,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7ef0624c2b044aa5bdfe9900e6758d28">
     <bounds
-        x="908"
-        y="984"
+        x="884"
+        y="2184"
         width="137"
         height="55"/>
     <archimateElement
@@ -609,8 +609,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0793dccf6a3346ebbd7eacf6454a9277">
     <bounds
-        x="1051"
-        y="984"
+        x="1027"
+        y="2184"
         width="137"
         height="55"/>
     <archimateElement
@@ -621,8 +621,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9fa0c058817a4879a2d304c3efda14a1">
     <bounds
-        x="1191"
-        y="984"
+        x="1167"
+        y="2184"
         width="137"
         height="55"/>
     <archimateElement
@@ -633,8 +633,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9f75daf68b3f43f4a24a3dbefa160888">
     <bounds
-        x="1335"
-        y="984"
+        x="1311"
+        y="2184"
         width="137"
         height="55"/>
     <archimateElement
@@ -645,8 +645,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4475a50e134c4cd0809dd62efd115c9d">
     <bounds
-        x="1479"
-        y="984"
+        x="1455"
+        y="2184"
         width="137"
         height="55"/>
     <archimateElement
@@ -670,8 +670,8 @@
       id="id-01fd587d2da54948a29c36fdf89a5d6a"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="1051"
-        y="672"
+        x="1027"
+        y="1872"
         width="137"
         height="55"/>
     <archimateElement
@@ -755,8 +755,8 @@
       id="id-47bea52bd2114c30962c82c3cf43b902"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="624"
-        y="612"
+        x="600"
+        y="1812"
         width="137"
         height="55"/>
     <archimateElement
@@ -768,8 +768,8 @@
       id="id-7125309794e94b4c8f5788ea850ad6a4"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="1191"
-        y="732"
+        x="1167"
+        y="1932"
         width="137"
         height="55"/>
     <archimateElement
