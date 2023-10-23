@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control de Excepciones (copy)"
+    id="id-c2cce391b9d64b21a76797d8eff4a487">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+  <properties
+      key="caracteristica"
+      value="seguridad"/>
+</archimate:Goal>

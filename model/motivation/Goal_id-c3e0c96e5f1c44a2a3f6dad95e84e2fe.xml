@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cobertura (copy)"
+    id="id-c3e0c96e5f1c44a2a3f6dad95e84e2fe">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+  <properties
+      key="caracteristica"
+      value="seguridad"/>
+</archimate:Goal>
