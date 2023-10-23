@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motor de búsqueda"
+    id="id-61b48e9c85644d4599a952075339db4c">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+</archimate:Capability>

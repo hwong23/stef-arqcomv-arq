@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integración API CMS"
+    id="id-66c396adc6784867bb8c565c84b5454c">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+</archimate:Capability>
