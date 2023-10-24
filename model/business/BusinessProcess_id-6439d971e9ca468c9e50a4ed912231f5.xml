@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Despliegues automatizados de base de datos"
+    id="id-6439d971e9ca468c9e50a4ed912231f5"
+    documentation="Diagnostico: No se cuenta con despliegues automatizados entre ambientes para bases de datos."/>

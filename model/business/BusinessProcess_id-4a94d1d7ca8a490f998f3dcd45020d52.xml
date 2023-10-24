@@ -1,0 +1,5 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Control de versionamiento de base de datos"
+    id="id-4a94d1d7ca8a490f998f3dcd45020d52"
+    documentation="Diagnostico: No se tiene un versionamiento controlado y automatizado de la base de datos."/>
