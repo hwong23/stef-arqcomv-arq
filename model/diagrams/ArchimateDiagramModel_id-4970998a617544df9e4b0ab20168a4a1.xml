@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gobierno. 1. Mapa Producto Cotización"
+    name="Gobierno. 1. Mapa Producto Cotización Ventas"
     id="id-4970998a617544df9e4b0ab20168a4a1"
     documentation="en qué fase están las épicas/módulos?&#xA;">
   <children
@@ -167,8 +167,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4b33d7254c9241d689fc1896b5494133">
     <bounds
-        x="984"
-        y="1104"
+        x="1152"
+        y="228"
         width="281"
         height="55"/>
     <archimateElement
@@ -179,8 +179,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b8f6be4c4a8348eebb1d01be527dd8fc">
     <bounds
-        x="648"
-        y="1164"
+        x="816"
+        y="288"
         width="137"
         height="55"/>
     <archimateElement
@@ -191,8 +191,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b64f3c8e603349c498bab13716cfa0d8">
     <bounds
-        x="648"
-        y="1104"
+        x="816"
+        y="228"
         width="281"
         height="55"/>
     <archimateElement
@@ -203,8 +203,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6638bd1d215d41748c81c0800f5d8620">
     <bounds
-        x="336"
-        y="1224"
+        x="504"
+        y="348"
         width="281"
         height="55"/>
     <archimateElement
@@ -215,8 +215,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9da26068e5f344cc8b6a7ef44a568eb7">
     <bounds
-        x="336"
-        y="1284"
+        x="504"
+        y="408"
         width="137"
         height="55"/>
     <archimateElement
@@ -227,8 +227,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-24a24cf063be4a7f924c475126f13601">
     <bounds
-        x="1327"
-        y="1104"
+        x="1495"
+        y="228"
         width="281"
         height="55"/>
     <archimateElement
@@ -240,8 +240,8 @@
       id="id-486a5caa87524b3ca2a163074449b54e"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="600"
-        y="1752"
+        x="768"
+        y="876"
         width="137"
         height="55"/>
     <archimateElement
@@ -253,8 +253,8 @@
       id="id-2d31c721f2cd4cfab79db7eb2252fe34"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="1027"
-        y="1932"
+        x="1195"
+        y="1056"
         width="137"
         height="55"/>
     <archimateElement
@@ -266,8 +266,8 @@
       id="id-7ab8f28f6a05438ba4c132e2dbd6641d"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="888"
-        y="1812"
+        x="1056"
+        y="936"
         width="137"
         height="55"/>
     <archimateElement
@@ -279,8 +279,8 @@
       id="id-c0d350d3072f4512913a847699c8136a"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="1167"
-        y="1872"
+        x="1335"
+        y="996"
         width="137"
         height="55"/>
     <archimateElement
@@ -292,8 +292,8 @@
       id="id-45e80b5f42cd4e10b46f6d89f52ecefa"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="744"
-        y="1812"
+        x="912"
+        y="936"
         width="137"
         height="55"/>
     <archimateElement
@@ -305,8 +305,8 @@
       id="id-44c2bdeaa65f4fdf905893dcabcae161"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="888"
-        y="1932"
+        x="1056"
+        y="1056"
         width="137"
         height="55"/>
     <archimateElement
@@ -318,8 +318,8 @@
       id="id-bb2c6a1173854b728dc042c6660d615c"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="744"
-        y="1752"
+        x="912"
+        y="876"
         width="137"
         height="55"/>
     <archimateElement
@@ -485,8 +485,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a0fc42448a094d84ab65f5a11dc872bf">
     <bounds
-        x="334"
-        y="1344"
+        x="502"
+        y="468"
         width="137"
         height="55"/>
     <archimateElement
@@ -497,8 +497,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4304752f0909407d97fa111567652b67">
     <bounds
-        x="480"
-        y="1344"
+        x="648"
+        y="468"
         width="137"
         height="55"/>
     <archimateElement
@@ -509,8 +509,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4e17f8c9edba472a9c24fb372270ecbf">
     <bounds
-        x="336"
-        y="1404"
+        x="504"
+        y="528"
         width="137"
         height="55"/>
     <archimateElement
@@ -522,8 +522,8 @@
       id="id-e0eda2244dc5436ca4d03a26a5a34785"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="744"
-        y="1872"
+        x="912"
+        y="996"
         width="137"
         height="55"/>
     <archimateElement
@@ -535,8 +535,8 @@
       id="id-22ec16456d834761867f5400e20a6d40"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="888"
-        y="1872"
+        x="1056"
+        y="996"
         width="137"
         height="55"/>
     <archimateElement
@@ -548,8 +548,8 @@
       id="id-5493a08be2da4794b65a26cf5a5f2888"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="1027"
-        y="1992"
+        x="1195"
+        y="1116"
         width="137"
         height="55"/>
     <archimateElement
@@ -561,8 +561,8 @@
       id="id-d52fadf25cde42c09396a5ecba553264"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="748"
-        y="2052"
+        x="916"
+        y="1176"
         width="277"
         height="55"/>
     <archimateElement
@@ -573,8 +573,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2ba65f62a800440f8679eb0274ef785d">
     <bounds
-        x="600"
-        y="2184"
+        x="768"
+        y="1308"
         width="137"
         height="55"/>
     <archimateElement
@@ -585,8 +585,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4888810d7ff94cd1baaad6f36a29b135">
     <bounds
-        x="744"
-        y="2184"
+        x="912"
+        y="1308"
         width="137"
         height="55"/>
     <archimateElement
@@ -597,8 +597,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7ef0624c2b044aa5bdfe9900e6758d28">
     <bounds
-        x="884"
-        y="2184"
+        x="1052"
+        y="1308"
         width="137"
         height="55"/>
     <archimateElement
@@ -609,8 +609,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0793dccf6a3346ebbd7eacf6454a9277">
     <bounds
-        x="1027"
-        y="2184"
+        x="1195"
+        y="1308"
         width="137"
         height="55"/>
     <archimateElement
@@ -621,8 +621,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9fa0c058817a4879a2d304c3efda14a1">
     <bounds
-        x="1167"
-        y="2184"
+        x="1335"
+        y="1308"
         width="137"
         height="55"/>
     <archimateElement
@@ -633,8 +633,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9f75daf68b3f43f4a24a3dbefa160888">
     <bounds
-        x="1311"
-        y="2184"
+        x="1479"
+        y="1308"
         width="137"
         height="55"/>
     <archimateElement
@@ -645,8 +645,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4475a50e134c4cd0809dd62efd115c9d">
     <bounds
-        x="1455"
-        y="2184"
+        x="1623"
+        y="1308"
         width="137"
         height="55"/>
     <archimateElement
@@ -670,8 +670,8 @@
       id="id-01fd587d2da54948a29c36fdf89a5d6a"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="1027"
-        y="1872"
+        x="1195"
+        y="996"
         width="137"
         height="55"/>
     <archimateElement
@@ -682,8 +682,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2e2d2dff70ad40279bf9d009d9be0d32">
     <bounds
-        x="1615"
-        y="528"
+        x="1908"
+        y="522"
         width="137"
         height="55"/>
     <archimateElement
@@ -694,8 +694,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8393c2d9b1654404bdc50271964b7fd3">
     <bounds
-        x="1615"
-        y="384"
+        x="1908"
+        y="378"
         width="137"
         height="55"/>
     <archimateElement
@@ -706,8 +706,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8e847eb4a34b4001bb373d620b7bc8fa">
     <bounds
-        x="1615"
-        y="246"
+        x="1908"
+        y="240"
         width="137"
         height="55"/>
     <archimateElement
@@ -718,8 +718,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-884c0d29a7614bc9a655782d6ee791e6">
     <bounds
-        x="1615"
-        y="600"
+        x="1908"
+        y="594"
         width="137"
         height="55"/>
     <archimateElement
@@ -730,8 +730,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2d6132683def4664944b203a28c90909">
     <bounds
-        x="1615"
-        y="456"
+        x="1908"
+        y="450"
         width="137"
         height="55"/>
     <archimateElement
@@ -742,8 +742,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d35d8d0dcb4f4399bd87358dcf5797b5">
     <bounds
-        x="480"
-        y="1284"
+        x="648"
+        y="408"
         width="137"
         height="55"/>
     <archimateElement
@@ -755,8 +755,8 @@
       id="id-47bea52bd2114c30962c82c3cf43b902"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="600"
-        y="1812"
+        x="768"
+        y="936"
         width="137"
         height="55"/>
     <archimateElement
@@ -768,8 +768,8 @@
       id="id-7125309794e94b4c8f5788ea850ad6a4"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
     <bounds
-        x="1167"
-        y="1932"
+        x="1335"
+        y="1056"
         width="137"
         height="55"/>
     <archimateElement
@@ -780,8 +780,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b6ce05b9970c435ea07d4a604e7c40b5">
     <bounds
-        x="791"
-        y="1164"
+        x="959"
+        y="288"
         width="137"
         height="55"/>
     <archimateElement
@@ -792,8 +792,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6534bb90886c45a4a21de0c4306a8bac">
     <bounds
-        x="648"
-        y="1224"
+        x="816"
+        y="348"
         width="137"
         height="55"/>
     <archimateElement
@@ -804,8 +804,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a8feb21107d5442cb026e753f91cbbcc">
     <bounds
-        x="791"
-        y="1224"
+        x="959"
+        y="348"
         width="137"
         height="55"/>
     <archimateElement
@@ -816,8 +816,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9ef3b802d42e434da74f3336f69ba7af">
     <bounds
-        x="648"
-        y="1284"
+        x="816"
+        y="408"
         width="137"
         height="55"/>
     <archimateElement
@@ -828,8 +828,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-940b1ce6b8f9496ba8a11473b3ac5f81">
     <bounds
-        x="791"
-        y="1284"
+        x="959"
+        y="408"
         width="137"
         height="55"/>
     <archimateElement
@@ -840,8 +840,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c33078db6f134ae2805cd029c3ff433a">
     <bounds
-        x="648"
-        y="1344"
+        x="816"
+        y="468"
         width="137"
         height="55"/>
     <archimateElement
@@ -852,8 +852,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-12e8cde3029645269a2acafa7ac69e7d">
     <bounds
-        x="791"
-        y="1344"
+        x="959"
+        y="468"
         width="137"
         height="55"/>
     <archimateElement
@@ -864,8 +864,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f1cc7fe77f184bcfbb4b9a35eb62c14b">
     <bounds
-        x="648"
-        y="1404"
+        x="816"
+        y="528"
         width="137"
         height="55"/>
     <archimateElement
@@ -876,8 +876,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e4cdafcb426a42dda748e5f7b9174134">
     <bounds
-        x="791"
-        y="1404"
+        x="959"
+        y="528"
         width="137"
         height="55"/>
     <archimateElement
@@ -888,8 +888,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4e720157af124cd3a03e78b307615a1b">
     <bounds
-        x="648"
-        y="1464"
+        x="816"
+        y="588"
         width="137"
         height="55"/>
     <archimateElement
@@ -900,8 +900,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-eab22745c57a4191bd85fa5f21ff1bdb">
     <bounds
-        x="791"
-        y="1464"
+        x="959"
+        y="588"
         width="137"
         height="55"/>
     <archimateElement
@@ -912,8 +912,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2cda68321a7d48a3a27e14727a1d7ad5">
     <bounds
-        x="648"
-        y="1524"
+        x="816"
+        y="648"
         width="137"
         height="55"/>
     <archimateElement
@@ -924,8 +924,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ce0e4df42a95466697cc6ea018690d28">
     <bounds
-        x="791"
-        y="1524"
+        x="959"
+        y="648"
         width="137"
         height="55"/>
     <archimateElement
@@ -936,8 +936,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5b16ccae85074db8b0660cd85ff9d8eb">
     <bounds
-        x="648"
-        y="1584"
+        x="816"
+        y="708"
         width="137"
         height="55"/>
     <archimateElement
@@ -948,8 +948,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f74644e7d87d41e5aef0ac86250d4924">
     <bounds
-        x="791"
-        y="1584"
+        x="959"
+        y="708"
         width="137"
         height="55"/>
     <archimateElement
@@ -960,8 +960,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8753e9164c01428cb04fbbaeacd3f8d4">
     <bounds
-        x="768"
-        y="1164"
+        x="1152"
+        y="288"
         width="137"
         height="55"/>
     <archimateElement
@@ -972,8 +972,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-89824209523f41d993cf5a4d8330a0fb">
     <bounds
-        x="912"
-        y="1164"
+        x="1296"
+        y="288"
         width="137"
         height="55"/>
     <archimateElement
@@ -984,8 +984,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0fd79947014a4915b8946f6dca8933c3">
     <bounds
-        x="768"
-        y="1224"
+        x="1152"
+        y="348"
         width="137"
         height="55"/>
     <archimateElement
@@ -996,8 +996,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e3d08193d79e4a5b91bf541f83a72a91">
     <bounds
-        x="912"
-        y="1224"
+        x="1296"
+        y="348"
         width="137"
         height="55"/>
     <archimateElement
@@ -1008,8 +1008,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d7b65cb2489d4852ac0be2302b08eea5">
     <bounds
-        x="768"
-        y="1284"
+        x="1152"
+        y="408"
         width="137"
         height="55"/>
     <archimateElement
@@ -1020,8 +1020,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5a8e3f50fbf444bc90fda138d97d77ab">
     <bounds
-        x="912"
-        y="1284"
+        x="1296"
+        y="408"
         width="137"
         height="55"/>
     <archimateElement
@@ -1032,8 +1032,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-647c5d4a9c5248359e3a13cc585b1827">
     <bounds
-        x="1111"
-        y="1164"
+        x="1495"
+        y="294"
         width="137"
         height="55"/>
     <archimateElement
@@ -1044,8 +1044,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-47c9b386c37e409bb188934f0ead24b7">
     <bounds
-        x="1255"
-        y="1164"
+        x="1639"
+        y="294"
         width="137"
         height="55"/>
     <archimateElement

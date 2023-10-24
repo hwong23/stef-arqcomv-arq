@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flujo Control Excepciones (copy) (copy)"
+    id="id-f7793ee59f104bc8859fcd65172d28b6">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+  <properties
+      key="caracteristica"
+      value="seguridad"/>
+</archimate:Goal>

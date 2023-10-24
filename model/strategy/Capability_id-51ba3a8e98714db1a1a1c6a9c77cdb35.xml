@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Componente de autorización SIU (copy)"
+    id="id-51ba3a8e98714db1a1a1c6a9c77cdb35">
+  <properties
+      key="modulo"
+      value="conciliacion"/>
+</archimate:Capability>

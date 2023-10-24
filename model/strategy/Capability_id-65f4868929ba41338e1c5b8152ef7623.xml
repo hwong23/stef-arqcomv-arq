@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Proceso de sincronización automática de contenidos (copy)"
+    id="id-65f4868929ba41338e1c5b8152ef7623">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+</archimate:Capability>
