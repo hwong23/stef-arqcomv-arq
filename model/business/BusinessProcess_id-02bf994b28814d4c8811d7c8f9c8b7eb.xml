@@ -1,5 +1,0 @@
-<archimate:BusinessProcess
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sin integracion continua de desarrollos"
-    id="id-02bf994b28814d4c8811d7c8f9c8b7eb"
-    documentation="Diagnostico: No se cuenta con integraciones para despliegues en DevOps que permitan mayor control y automtización. No se cuenta con serviodres del mismo proveedor de Repo que permita tener automatizaciones."/>
