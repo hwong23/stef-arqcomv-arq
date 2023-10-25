@@ -121,30 +121,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-3182cd13ad864881bae57f9c4525b376">
-    <bounds
-        x="24"
-        y="180"
-        width="217"
-        height="121"/>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-db17ccacfb054319b571164827d03fc1">
-      <bounds
-          x="24"
-          y="36"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:DataObject"
-          href="DataObject_id-a0bf2bb657d0423284d6d9316f1ef278.xml#id-a0bf2bb657d0423284d6d9316f1ef278"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-8a16ad37ccc9471cb916e46b64b8a2fb.xml#id-8a16ad37ccc9471cb916e46b64b8a2fb"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-69867ad59b3c4886a20a8344360bd283">
     <bounds
         x="24"
@@ -178,5 +154,29 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-c3d7a0288d8e46a6b5349731084a6311.xml#id-c3d7a0288d8e46a6b5349731084a6311"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-1e7ca38f8339467ca5ef6dba7f91d94a">
+    <bounds
+        x="24"
+        y="192"
+        width="217"
+        height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-db17ccacfb054319b571164827d03fc1">
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:DataObject"
+          href="DataObject_id-a0bf2bb657d0423284d6d9316f1ef278.xml#id-a0bf2bb657d0423284d6d9316f1ef278"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-eb9cca4af03d41c79bb124b5608aad07.xml#id-eb9cca4af03d41c79bb124b5608aad07"/>
   </children>
 </archimate:ArchimateDiagramModel>
