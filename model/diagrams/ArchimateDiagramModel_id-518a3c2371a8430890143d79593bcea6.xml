@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arquitectura. Modelo negocio"
-    id="id-518a3c2371a8430890143d79593bcea6">
+    id="id-518a3c2371a8430890143d79593bcea6"
+    documentation="### Conceptos Principales&#xA;&#xA;1. Configuración&#xA;1. Vinculación&#xA;1. Venta&#xA;1. Cotización&#xA;1. Factura&#xA;1. Cobertura&#xA;1. Configuración&#xA;1. Plan de producto&#xA;&#xA;&#xA;### Orden Operativo&#xA;&#xA;1. Configuración&#xA;1. Vinculación&#xA;1. Venta o Cotización&#xA;1. Factura&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-07c0df79fc7a4281a9338ae4c890198b">
