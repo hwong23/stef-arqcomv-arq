@@ -16,4 +16,7 @@
   <properties
       key="gh-pages"
       value="https://hwong23.github.io/stef-arqcomv-arq/"/>
+  <properties
+      key="reporte"
+      value="index.html"/>
 </archimate:ArchimateModel>
