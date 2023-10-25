@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Calidad"
     id="id-3b812f9a9a9c4dba934c41f1e705c546"
-    documentation="Diagnóstico:&#xD;&#xA;- No se cuenta con un modelo lógico de base de datos actualizado y centralizado.&#xD;&#xA;&#xD;&#xA;KPI:&#xD;&#xA;- Tasa de errores no detectados.&#xD;&#xA;- Renovación de código."/>
+    documentation="Diagnóstico:&#xD;&#xA;- No se cuenta con un modelo lógico de base de datos actualizado y centralizado.&#xD;&#xA;&#xD;&#xA;KPI:&#xD;&#xA;- Tasa de errores no detectados&#xD;&#xA;- Renovación de código"/>

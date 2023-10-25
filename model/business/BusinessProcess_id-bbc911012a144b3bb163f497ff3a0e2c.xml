@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contrucción"
     id="id-bbc911012a144b3bb163f497ff3a0e2c"
-    documentation="Diagnóstico:&#xD;&#xA;- No se tiene un versionamiento controlado y automatizado de la base de datos.&#xD;&#xA;- No se cuenta con integraciones para despliegues en DevOps que permitan mayor control y automatización. No se cuenta con servidores del mismo proveedor de Repo que permita tener automatizaciones.&#xD;&#xA;&#xD;&#xA;KPI:&#xD;&#xA;- Tasa de cierre de defectos. &#xD;&#xA;- Velocidad de construcción.&#xD;&#xA;- Cobertura de código.&#xD;&#xA;- Simplicidad de código."/>
+    documentation="Diagnóstico:&#xD;&#xA;- No se tiene un versionamiento controlado y automatizado de la base de datos.&#xD;&#xA;- No se cuenta con integraciones para despliegues en DevOps que permitan mayor control y automatización. No se cuenta con servidores del mismo proveedor de Repo que permita tener automatizaciones.&#xD;&#xA;&#xD;&#xA;KPI:&#xD;&#xA;- Tasa de cierre de defectos&#xD;&#xA;- Velocidad de construcción&#xD;&#xA;- Cobertura de código&#xD;&#xA;- Simplicidad de código"/>

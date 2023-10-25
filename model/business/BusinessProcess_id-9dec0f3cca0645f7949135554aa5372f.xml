@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Levantamiento"
     id="id-9dec0f3cca0645f7949135554aa5372f"
-    documentation="Diagnóstico:&#xD;&#xA;- La mayoría de HU's no tienen un anexo técnico resumen de las validaciones u objetos a modificar o crear.&#xD;&#xA;- El cambio del modelo de negocio del cliente genera que las HU no sean funcionales.&#xD;&#xA;&#xD;&#xA;KPI:&#xD;&#xA;- Porcentaje de trazabilidad de los requisitos."/>
+    documentation="Diagnóstico:&#xD;&#xA;- La mayoría de HU's no tienen un anexo técnico resumen de las validaciones u objetos a modificar o crear.&#xD;&#xA;- El cambio del modelo de negocio del cliente genera que las HU no sean funcionales.&#xD;&#xA;&#xD;&#xA;KPI:&#xD;&#xA;- Porcentaje de trazabilidad de los requisitos&#xA;"/>
