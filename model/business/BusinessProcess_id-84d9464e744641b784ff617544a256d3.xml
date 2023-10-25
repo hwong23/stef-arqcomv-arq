@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Analisis"
     id="id-84d9464e744641b784ff617544a256d3"
-    documentation="Diagnóstico:&#xD;&#xA;- No se realizó en análisis previo de cada HU.&#xD;&#xA;&#xD;&#xA;KPI:  &#xD;&#xA;- Tasa de aprobación de HU por cliente&#xD;&#xA;- Estabilidad del código&#xA;"/>
+    documentation="KPI:  &#xD;&#xA;- Tasa de aprobación de HU por cliente&#xD;&#xA;- Estabilidad del código&#xA;"/>
