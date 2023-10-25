@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Transición"
     id="id-11b52343d96e4b16a3dbd99503ad9cfb"
-    documentation="Diagnóstico:&#xD;&#xA;- Poco e informal de documentación técnica.&#xD;&#xA;- Sin manuales técnicos, de configuración ni despliegue.&#xD;&#xA;&#xD;&#xA;KPI:&#xD;&#xA;- Tiempo de ciclo.&#xD;&#xA;- Evolución de la versión.&#xD;&#xA;- Eficiencia de flujo."/>
+    documentation="Diagnóstico:&#xD;&#xA;- Poco e informal de documentación técnica.&#xD;&#xA;- Sin manuales técnicos, de configuración ni despliegue.&#xD;&#xA;&#xD;&#xA;KPI:&#xD;&#xA;- Tiempo de ciclo. &#xD;&#xA;Fuente: Promedio de de dias trascurridos desde el levamamiento de las HU [Azure DevOps]"/>

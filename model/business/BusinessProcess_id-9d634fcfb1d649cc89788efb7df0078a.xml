@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Diseño"
     id="id-9d634fcfb1d649cc89788efb7df0078a"
-    documentation="KPI:&#xD;&#xA;- Flujo acumulado.&#xD;&#xA;- Porcentaje reutilización de código&#xA;"/>
+    documentation="KPI:&#xD;&#xA;- Flujo acumulado.&#xD;&#xA;Fuente: (Cantidad de HU refinadas y aprobadas sin diseño de implementacion [Repo Sharepoint] / Total de cantidad de HU [Azure DevOps])&#xA;"/>
