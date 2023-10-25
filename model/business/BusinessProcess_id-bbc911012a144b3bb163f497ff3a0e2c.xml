@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contrucción"
     id="id-bbc911012a144b3bb163f497ff3a0e2c"
-    documentation="KPI:&#xD;&#xA;- Tasa de cierre de defectos&#xD;&#xA;- Velocidad de construcción&#xD;&#xA;- Cobertura de código&#xD;&#xA;- Simplicidad de código"/>
+    documentation="KPI:&#xD;&#xA;- Velocidad de construcción&#xD;&#xA;Fuente: (Cantidad de puntos de HU ejecutadas [Azure DevOps] / Horas habiles del mes de trabajo [Calculo manual])&#xD;&#xA;- Tasa de cierre de defectos&#xD;&#xA;Fuente: (Cantidad de Bug solucionados [Azure DevOps] / Total de Bugs a corte sin nuevos [Azure DevOps])&#xD;&#xA;- Indice de dependecia de Lider Técnico&#xD;&#xA;Fuente: (Actividades retrazadas semanales segun las HU planeadas / Total de HU planeadas para ejecución)"/>
