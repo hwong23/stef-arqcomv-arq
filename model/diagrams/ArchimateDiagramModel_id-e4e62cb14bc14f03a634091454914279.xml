@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ventas. 1. HU"
-    id="id-e4e62cb14bc14f03a634091454914279">
+    id="id-e4e62cb14bc14f03a634091454914279"
+    documentation="Fuente: planeación SCRUM&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b6a90534da184b508624ff1665ec21b7">
