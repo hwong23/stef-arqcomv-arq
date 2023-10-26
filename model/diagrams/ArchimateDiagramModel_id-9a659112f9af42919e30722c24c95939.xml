@@ -650,8 +650,8 @@
       id="id-ab5fda4076be43faa2e3746925cb991e"
       targetConnections="id-521865b1c75e440d80caa65e831219a4">
     <bounds
-        x="362"
-        y="916"
+        x="360"
+        y="948"
         width="120"
         height="55"/>
     <archimateElement
@@ -680,8 +680,8 @@
           href="AssociationRelationship_id-1a3c55edf4bb45cdacfdceac0427fd93.xml#id-1a3c55edf4bb45cdacfdceac0427fd93"/>
     </sourceConnections>
     <bounds
-        x="211"
-        y="844"
+        x="209"
+        y="876"
         width="120"
         height="55"/>
     <archimateElement
@@ -693,8 +693,8 @@
       id="id-eb42270550f849e483e21881c7295a30"
       targetConnections="id-e33886074e0947bb810f1af0cce153c0">
     <bounds
-        x="361"
-        y="844"
+        x="359"
+        y="876"
         width="120"
         height="55"/>
     <archimateElement
