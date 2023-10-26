@@ -8,8 +8,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-07c0df79fc7a4281a9338ae4c890198b">
     <bounds
-        x="768"
-        y="660"
+        x="767"
+        y="708"
         width="144"
         height="55"/>
     <archimateElement
@@ -20,7 +20,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-dd7cc3645ae24c2da3bd4217c627c971"
       textAlignment="1"
-      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Modelo de negocio Mi Mutual. Conceptos de negocio.&#xA;&#xA;versión 0.1.10">
+      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Modelo de negocio Mi Mutual. Conceptos de negocio.&#xA;&#xA;versión 0.2.10">
     <bounds
         x="12"
         y="12"
@@ -31,8 +31,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3810b471d8c8477a9e3722a089ebae46">
     <bounds
-        x="612"
-        y="660"
+        x="611"
+        y="708"
         width="144"
         height="55"/>
     <archimateElement
@@ -43,8 +43,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-94083c0888a042f0bc0ca1839fc780ee">
     <bounds
-        x="612"
-        y="588"
+        x="611"
+        y="636"
         width="144"
         height="55"/>
     <archimateElement
@@ -120,8 +120,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ece44d7c73934617b75443b1d2f5f3e5">
     <bounds
-        x="612"
-        y="732"
+        x="611"
+        y="780"
         width="144"
         height="55"/>
     <archimateElement
@@ -132,8 +132,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2148b58926ab4e478aad6cee5732666a">
     <bounds
-        x="768"
-        y="588"
+        x="767"
+        y="636"
         width="144"
         height="55"/>
     <archimateElement
@@ -143,7 +143,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-93bb9e1171c1478eb22832d01e84ab96"
-      targetConnections="id-e5cec6737d0e42bab5d731cd18d396bc">
+      targetConnections="id-e5cec6737d0e42bab5d731cd18d396bc id-eed3259e76714983a2cedd90c01fb51b">
     <bounds
         x="612"
         y="282"
@@ -157,8 +157,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b71a4e64718c4e15bb286614644cb1fd">
     <bounds
-        x="768"
-        y="732"
+        x="767"
+        y="780"
         width="144"
         height="55"/>
     <archimateElement
@@ -169,8 +169,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-2bfcb74d6b5f408ea590688dcab7c6dc">
     <bounds
-        x="612"
-        y="804"
+        x="611"
+        y="852"
         width="144"
         height="55"/>
     <archimateElement
@@ -255,8 +255,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-2b8c3d1f63044c28bebe28b916a4623d">
     <bounds
-        x="612"
-        y="912"
+        x="611"
+        y="960"
         width="120"
         height="55"/>
     <referencedModel
@@ -267,8 +267,8 @@
       xsi:type="archimate:DiagramModelReference"
       id="id-46fff7a516894cd19e03324fe6d1c869">
     <bounds
-        x="757"
-        y="912"
+        x="756"
+        y="960"
         width="120"
         height="55"/>
     <referencedModel
@@ -335,8 +335,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b0f500ed88324c49a7e9e0fe479f7c5d">
     <bounds
-        x="415"
-        y="588"
+        x="414"
+        y="636"
         width="144"
         height="55"/>
     <archimateElement
@@ -415,5 +415,26 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-2317f326465e45caab832d128b27bf93.xml#id-2317f326465e45caab832d128b27bf93"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-f828581cb135490aab5393dbd98f723b">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-eed3259e76714983a2cedd90c01fb51b"
+        source="id-f828581cb135490aab5393dbd98f723b"
+        target="id-93bb9e1171c1478eb22832d01e84ab96">
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-abd8d159c3a447b0bfe582e3ead702ed.xml#id-abd8d159c3a447b0bfe582e3ead702ed"/>
+    </sourceConnections>
+    <bounds
+        x="792"
+        y="282"
+        width="144"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-1fa55c7ac36849c3ba1e53a53197b576.xml#id-1fa55c7ac36849c3ba1e53a53197b576"/>
   </children>
 </archimate:ArchimateDiagramModel>
