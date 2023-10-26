@@ -1,5 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAT00. Glosa"
-    id="id-97c04768c9034c9184bf1db7b8b23e8f"
+    name="Auditoría Médica"
+    id="id-85ba01d777d94bd5b860c633906d8a4c"
     documentation="Cuando se glosa una solicitus es porque el auditor medico necesita mas informacion y la reasigna.&#xA;"/>
