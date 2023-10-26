@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DEC05. Dependencia Técnica - Funcional"
     id="id-4b10521fdb5e4c9db8bc9edc7c2057b0"
-    documentation="Gobierno. Afectaciones a la planeación funcional de entregas (mapa producto/entregas)&#xA;&#xA;* Artefactos de salidas de cada proceso (LVT, ANL, DIS, DEV....)&#xA;&#xA;">
+    documentation="Gobierno. Afectaciones a la planeación funcional de entregas (mapa producto/entregas)&#xA;&#xA;* Separación de funciones planación-ejecución: producto, planifica la salida del producto; ingeniería, no&#xA;">
   <properties
       key="fecha"
       value="26/oct/2023"/>
