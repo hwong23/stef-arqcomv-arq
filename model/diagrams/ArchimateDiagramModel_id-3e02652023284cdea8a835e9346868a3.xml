@@ -561,7 +561,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="144"
+        y="168"
         width="876"
         height="337"/>
     <children
@@ -840,5 +840,16 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-1d53101212ff4b038b466d6793cd71c2.xml#id-1d53101212ff4b038b466d6793cd71c2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-fc36f63093204b1dba42f764ffd876e6"
+      textAlignment="1"
+      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Ventas. Planeación HU Mi Mutual. Listas de HU para planificación de trabajo (iteraciones).&#xA;&#xA;versión 0.1.1">
+    <bounds
+        x="21"
+        y="22"
+        width="229"
+        height="133"/>
   </children>
 </archimate:ArchimateDiagramModel>
