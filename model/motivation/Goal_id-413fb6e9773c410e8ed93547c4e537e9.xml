@@ -1,4 +1,5 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DEC01. Goal"
-    id="id-413fb6e9773c410e8ed93547c4e537e9"/>
+    name="DEC01. Contensión líder técnico (LT)"
+    id="id-413fb6e9773c410e8ed93547c4e537e9"
+    documentation="1. Creación rol dueño de iteración&#xA;1. Distribución de información via repositorio (repo arq.)&#xA;"/>
