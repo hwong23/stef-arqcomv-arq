@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arq MiMutual. 7a. Datos. Aplicación"
+    name="MiMutual. 7a. Datos. Aplicación"
     id="id-c4ed2d8934fd40eea1d71556b08da65e"
     documentation="Estructuras de datos específicas a la plataforma. Modelo de negocio para las aplicaciones. &#xA;&#xA;Modelo físico facilitadas por Coomeva, corte del 2 de mayo de 2022. Contiene las estructuras de configuración de fondo, cliente, planes, cobertura y planes de coberturas.&#xA;">
   <children

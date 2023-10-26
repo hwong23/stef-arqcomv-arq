@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DEC03. Gestión de entregas"
     id="id-4d4dea577cce4cf6bbe3cdd2320de23d"
-    documentation="Arquitectura. Entregas. Problemas en el recibimiento de las entregas (dependencias)&#xA;* Formalizar los artefactos de entrega requeridos para el recibimiento: plane de pruebas (STEF), aval funcional (COOMV), versión ejecutable (STEF)&#xA;* Oganizar dependencias, capacidad y programación de liberación&#xA;">
+    documentation="Arquitectura. Entregas. Problemas en el recibimiento de las entregas (dependencias)&#xA;&#xA;* Formalizar los artefactos de entrega requeridos para el recibimiento: plane de pruebas (STEF), aval funcional (COOMV), versión ejecutable (STEF)&#xA;* Oganizar dependencias, capacidad y programación de liberación&#xA;">
   <properties
       key="fecha"
       value="26/oct/2023"/>
