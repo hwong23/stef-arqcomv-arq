@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Levantamiento"
     id="id-9dec0f3cca0645f7949135554aa5372f"
-    documentation="KPI:&#xD;&#xA;- Porcentaje de trazabilidad de los requisitos&#xD;&#xA;Fuente: (Cantidad de HU actualmente [Azure DevOps] / Cantidad de HU inicialmente cotizadas [Repo Sharepoint]) * 100&#xD;&#xA;Dato 26/10/2023: (44/34)*100 =  129,41%"/>
+    documentation="### KPI&#xD;&#xA;- Porcentaje de trazabilidad de los requisitos&#xD;&#xA;Fuente: (Cantidad de HU actualmente [Azure DevOps] / Cantidad de HU inicialmente cotizadas [Repo Sharepoint]) * 100&#xD;&#xA;Dato 26/10/2023: (44/34)*100 =  129,41%"/>
