@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT00.Facturación"
-    id="id-d2996a195392417aa807a2592429d0f9"/>
+    id="id-d2996a195392417aa807a2592429d0f9"
+    documentation="Factura la genera COOMEVA.&#xA;"/>
