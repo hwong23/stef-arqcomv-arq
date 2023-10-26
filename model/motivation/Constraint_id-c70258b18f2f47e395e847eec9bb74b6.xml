@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CONSTR01"
+    id="id-c70258b18f2f47e395e847eec9bb74b6"
+    documentation="### QA (Calidad) &#xA;- No se cuenta con un modelo lógico de base de datos actualizado y centralizado.&#xA;"/>

@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Excepciones"
+    id="id-7b04d983c8734be8bea7c9a4fa1ab258">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+  <properties
+      key="caracteristica"
+      value="técnica, integración"/>
+</archimate:Goal>

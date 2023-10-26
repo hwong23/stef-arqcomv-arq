@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auditoría Médica"
+    id="id-7f1b6843ef22472495d01aa7b3ef192b">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+  <properties
+      key="caracteristica"
+      value="técnica, integración"/>
+</archimate:Goal>

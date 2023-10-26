@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gobierno. 1. Mapa Producto Cotización Ventas"
+    name="Arquitectura. 1. Mapa Producto Cotización Ventas"
     id="id-4970998a617544df9e4b0ab20168a4a1"
     documentation="en qué fase están las épicas/módulos?&#xA;">
   <children
@@ -677,66 +677,6 @@
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_id-1052e5789fe846c199db1c681bab586c.xml#id-1052e5789fe846c199db1c681bab586c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2e2d2dff70ad40279bf9d009d9be0d32">
-    <bounds
-        x="1908"
-        y="522"
-        width="137"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-25ed36d52236492ea53d07c2e899c991.xml#id-25ed36d52236492ea53d07c2e899c991"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8393c2d9b1654404bdc50271964b7fd3">
-    <bounds
-        x="1908"
-        y="378"
-        width="137"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-a6512985383d4544800790fc696ef5e7.xml#id-a6512985383d4544800790fc696ef5e7"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8e847eb4a34b4001bb373d620b7bc8fa">
-    <bounds
-        x="1908"
-        y="240"
-        width="137"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-494781c7910e4e0bae4efde3e7fcbd43.xml#id-494781c7910e4e0bae4efde3e7fcbd43"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-884c0d29a7614bc9a655782d6ee791e6">
-    <bounds
-        x="1908"
-        y="594"
-        width="137"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-557eb475032442a1a7ea872be98e7729.xml#id-557eb475032442a1a7ea872be98e7729"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2d6132683def4664944b203a28c90909">
-    <bounds
-        x="1908"
-        y="450"
-        width="137"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Constraint"
-        href="Constraint_id-e4a63eaf583440bf9a1c28dfa37f1742.xml#id-e4a63eaf583440bf9a1c28dfa37f1742"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
