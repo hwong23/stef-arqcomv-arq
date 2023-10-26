@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arquitectura. Bitácora. 1"
+    name="Arquitectura. 2. Bitácora. 1"
     id="id-ea33772bc4a740cfa1b9f896a527df67">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -169,5 +169,17 @@
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-082ed356b89c407f885d92e44b89ccf7.xml#id-082ed356b89c407f885d92e44b89ccf7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-6d89c2487e254ad288ddf42558a654f6">
+    <bounds
+        x="12"
+        y="240"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Goal"
+        href="Goal_id-4b10521fdb5e4c9db8bc9edc7c2057b0.xml#id-4b10521fdb5e4c9db8bc9edc7c2057b0"/>
   </children>
 </archimate:ArchimateDiagramModel>

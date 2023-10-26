@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DEC05. Dependencia Técnica - Funcional"
+    id="id-4b10521fdb5e4c9db8bc9edc7c2057b0"
+    documentation="Ingeniería. Proceso. Afectaciones a la producción&#xA;&#xA;* Artefactos de salidas de cada proceso (LVT, ANL, DIS, DEV....)&#xA;&#xA;ANL01. Modelo negocio&#xA;ANL02. Estimación / Programación&#xA;ANL03. Dependencias&#xA;">
+  <properties
+      key="fecha"
+      value="26/oct/2023"/>
+</archimate:Goal>
