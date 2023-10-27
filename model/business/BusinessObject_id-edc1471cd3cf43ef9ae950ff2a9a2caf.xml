@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Métrica"
-    id="id-edc1471cd3cf43ef9ae950ff2a9a2caf"/>
+    name="MET.TRAZ"
+    id="id-edc1471cd3cf43ef9ae950ff2a9a2caf"
+    documentation="Cod.&#x9;TRAZ&#xA;Nombre indicador&#x9;Porcentaje de trazabilidad de los requisitos&#xA;Uso&#x9;Sobrecarga / gestión de alcance&#xA;Proceso&#x9;LVT&#xA;Calculo de medición&#x9;(Cantidad de HU actualmente  / Cantidad de HU inicialmente cotizadas ) * 100&#xA;Fuente&#x9;[Azure DevOps], [Repo Sharepoint]&#xA;"/>

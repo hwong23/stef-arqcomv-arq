@@ -1,5 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Analisis"
+    name="ANLS.Analisis"
     id="id-84d9464e744641b784ff617544a256d3"
     documentation="### Salidas&#xA;* Modelo de negocio en el repo&#xA;* Estimación --puede en devops&#xA;* Análisis de dependencia en el repo&#xA;&#xA;### KPI&#xD;&#xA;- Tasa de aprobación de HU por cliente&#xD;&#xA;Fuente: (Cantidad de HU refinadas y aprobadas por cliente [Repo Sharepoint] / Total de cantidad de HU [Azure DevOps])&#xD;&#xA;Dato 26/10/2023: (30/44) = 0,68&#xD;&#xA;&#xD;&#xA;- Tasa de error en Bug por PR entregados&#xD;&#xA;Fuente: (Cantidad de solicitude de cambio en rama (Pull Reqst) de Correcciones (fix) o Regresión (reverts) [Bitbucket] / Cantidad total de PR desplegados [Bitbucket])&#xD;&#xA;Dato 26/10/2023: (8/111)*100 = 7,2%&#xD;&#xA;"/>

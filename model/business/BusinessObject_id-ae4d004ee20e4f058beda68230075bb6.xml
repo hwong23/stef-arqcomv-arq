@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Métrica"
-    id="id-ae4d004ee20e4f058beda68230075bb6"/>
+    name="MET.TERR"
+    id="id-ae4d004ee20e4f058beda68230075bb6"
+    documentation="Cod.&#x9;TERR&#xA;Nombre indicador&#x9;Tasa de error en Defectos por PR entregados&#xA;Uso&#x9;Mejoras de calidad de los desarrollos&#xA;Proceso&#x9;DEV, QA&#xA;Calculo de medición&#x9;Cantidad de solicitude de cambio en rama (Pull Reqst) de Correcciones (fix) o Regresión (reverts) / Cantidad total de PR desplegados&#xA;Fuente&#x9;[Bitbucket]&#xA;Muestra&#x9;Mes&#xA;Segregar&#x9;itearción&#xA;&#x9;Mes&#xA;&#x9;Semana&#xA;&#x9;Día&#xA;"/>
