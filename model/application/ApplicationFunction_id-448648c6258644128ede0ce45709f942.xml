@@ -1,7 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cotizador"
-    id="id-448648c6258644128ede0ce45709f942">
+    id="id-448648c6258644128ede0ce45709f942"
+    documentation="Grupo de páginas web del cotizador.&#xA;">
   <properties
       key="modulo"
       value="cotizador"/>

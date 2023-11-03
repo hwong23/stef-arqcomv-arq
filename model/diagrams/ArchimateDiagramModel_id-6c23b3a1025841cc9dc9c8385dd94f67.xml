@@ -3,12 +3,12 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cotizador. 1. Contexto"
     id="id-6c23b3a1025841cc9dc9c8385dd94f67"
-    documentation="### Contexto Mi Mutual Web&#xA;La aplicación Cotizador Web hace parte de los módulos de interfaz web de Mi Mutual Central, representado por API Mi Mutual en el diagrama. Realizar cotizaciones de los planes de protección luego de la vinculación del asociado.&#xA;&#xA;La estructura por módulos permite realizar aplicaciones escalables y robustas ya que permite organizar las partes de la aplicación, la organización en bloques, extender la aplicación con funcionalidades de libreras externas, proporcionar un entorno de resolución de plantillas y además permite especificar la forma de la carga de cada uno de los componentes y servicios que conforman un módulo.&#xA;&#xA;### Módulos Externos&#xA;Los módulos externos son todas y cada uno de las herramientas que se utilizan para complementar con funcionalidades ya desarrolladas y tomadas desde un repositorio externo (NPM).&#xA;&#xA;* TranslateModule: Manejo de internacionalización. Documentación: https://github.com/ngx-translate/core&#xA;* NgxMaskModule: Manejo de máscaras de input text. Documentación: https://github.com/JsDaddy/ngx-mask&#xA;* JwtModule: Manejo de token. Documentación: https://github.com/auth0/angular2-jwt&#xA;* sweetalert2: Manejo de alertas de mensajes. Documentación: https://sweetalert2.github.io/&#xA;* ngx-ui-loader: Manejo de Spinner para control de peticiones asíncronas. Documentación: https://github.com/t-ho/ngx-ui-loader&#xA;* Ngprime: Manejo de componentes visuales Documentación: https://www.primefaces.org/primeng/#/&#xA;* chart.js: componente utilizado para el manejo de graficas Documentación: https://www.chartjs.org/docs/latest/&#xA;* classlist.js: componete para el manejo de listas de datos en las gráficas Documentación: https://www.chartjs.org/docs/latest/&#xA;* cronstrue: componente para traducir una expresión cron a palabras Documentación: https://github.com/bradymholt/cronstrue&#xA;* file-saver: componente para descargar un archivo desde los bytes Documentación: https://github.com/eligrey/FileSaver.js#readme&#xA;* ngx-tinymce: Editor html para generación de plantillas para cartas Documentación: https://cipchk.github.io/ngx-tinymce/#/&#xA;* quill: componente para editor html Documentación: https://quilljs.com/&#xA;&#xA;&lt;br>&#xA;&#xA;### Servicios Transversales &#xA;&#xA;* AuthGuard: Validación de existencia de autenticación&#xA;* DeaciveGuard: Validación de salida de un componente&#xA;* ErrorInterceptor: Interceptor de Errores del back&#xA;* JwtInterceptor: Interceptor para inyectar el token&#xA;* AutenticationService: Métodos para completar la autenticación&#xA;* TypesService: Consumo de servicios de parametrización&#xA;* IdleTimeoutService: Verificación de timeout del token&#xA;&#xA;&lt;br>&#xA;">
+    documentation="### Contexto Mi Mutual Web&#xA;La aplicación Cotizador Web hace parte de los módulos de interfaz web de Mi Mutual Central, representado por API Mi Mutual en el diagrama. Realizar cotizaciones de los planes de protección luego de la vinculación del asociado.&#xA;&#xA;La estructura por módulos permite realizar aplicaciones escalables y robustas ya que permite organizar las partes de la aplicación, la organización en bloques, extender la aplicación con funcionalidades de libreras externas, proporcionar un entorno de resolución de plantillas y además permite especificar la forma de la carga de cada uno de los componentes y servicios que conforman un módulo.&#xA;&#xA;### Módulos Externos&#xA;Los módulos externos son todas y cada una de las herramientas que se utilizan para complementar con funcionalidades ya desarrolladas y tomadas desde un repositorio externo (NPM).&#xA;&#xA;* TranslateModule: Manejo de internacionalización. Documentación: https://github.com/ngx-translate/core&#xA;* NgxMaskModule: Manejo de máscaras de input text. Documentación: https://github.com/JsDaddy/ngx-mask&#xA;* JwtModule: Manejo de token. Documentación: https://github.com/auth0/angular2-jwt&#xA;* sweetalert2: Manejo de alertas de mensajes. Documentación: https://sweetalert2.github.io/&#xA;* ngx-ui-loader: Manejo de Spinner para control de peticiones asíncronas. Documentación: https://github.com/t-ho/ngx-ui-loader&#xA;* Ngprime: Manejo de componentes visuales Documentación: https://www.primefaces.org/primeng/#/&#xA;* chart.js: componente utilizado para el manejo de graficas Documentación: https://www.chartjs.org/docs/latest/&#xA;* classlist.js: componete para el manejo de listas de datos en las gráficas Documentación: https://www.chartjs.org/docs/latest/&#xA;* cronstrue: componente para traducir una expresión cron a palabras Documentación: https://github.com/bradymholt/cronstrue&#xA;* file-saver: componente para descargar un archivo desde los bytes Documentación: https://github.com/eligrey/FileSaver.js#readme&#xA;* ngx-tinymce: Editor html para generación de plantillas para cartas Documentación: https://cipchk.github.io/ngx-tinymce/#/&#xA;* quill: componente para editor html Documentación: https://quilljs.com/&#xA;&#xA;&lt;br>&#xA;&#xA;### Servicios Transversales &#xA;&#xA;* AuthGuard: Validación de existencia de autenticación&#xA;* DeaciveGuard: Validación de salida de un componente&#xA;* ErrorInterceptor: Interceptor de Errores del back&#xA;* JwtInterceptor: Interceptor para inyectar el token&#xA;* AutenticationService: Métodos para completar la autenticación&#xA;* TypesService: Consumo de servicios de parametrización&#xA;* IdleTimeoutService: Verificación de timeout del token&#xA;&#xA;&lt;br>&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-57c376bd7f0e4ea5bbcc6731498614bc"
       textAlignment="1"
-      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Cotizador Web Mi Mutual. Contexto Mi Mutual: Áreas negocio, componente central Mi Mutual, servicios y funciones.&#xA;&#xA;versión 0.1">
+      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Cotizador Web Mi Mutual. Contexto Mi Mutual: Áreas negocio, componente central Mi Mutual, servicios y funciones.&#xA;&#xA;versión 0.1.3">
     <bounds
         x="12"
         y="12"
@@ -82,18 +82,63 @@
           xsi:type="archimate:AssignmentRelationship"
           href="AssignmentRelationship_id-88be210203fd476481090c5eb5f41d03.xml#id-88be210203fd476481090c5eb5f41d03"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-8ddf5b4ec634466489e6b534a0dcc009"
+        source="id-6e8deddf804949f9a5d52ddae1819446"
+        target="id-51234136b55147fe9f63797fe0acced7">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-2e39f1cb2bc64bce833526f5bdf078bc.xml#id-2e39f1cb2bc64bce833526f5bdf078bc"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-955616d5b1f64dd0a4b55c3d902bce51"
+        source="id-6e8deddf804949f9a5d52ddae1819446"
+        target="id-7e162a9419f0430d87a455760a256eec">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-2a8550bd6a314c56884527eaccb5be76.xml#id-2a8550bd6a314c56884527eaccb5be76"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6a66a41f877f4429a694f9c4b6a4b31f"
+        source="id-6e8deddf804949f9a5d52ddae1819446"
+        target="id-c9d616b1cccc4d07ad7cc69311002b56">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-0af55b664ac740259e38a5838cf6df35.xml#id-0af55b664ac740259e38a5838cf6df35"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1ac68c876c2b4583b4a1d12c7d8e9c14"
+        source="id-6e8deddf804949f9a5d52ddae1819446"
+        target="id-7defd88b80584045bf8c0797d0c28a1e">
+      <archimateRelationship
+          xsi:type="archimate:AssignmentRelationship"
+          href="AssignmentRelationship_id-3410dd12582a476eb74b1d7c9090883f.xml#id-3410dd12582a476eb74b1d7c9090883f"/>
+    </sourceConnections>
     <bounds
         x="12"
         y="180"
-        width="529"
-        height="331"/>
+        width="565"
+        height="397"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-cd43b5efe28a4b20ac004f7175a3d6ab"
         targetConnections="id-ad21fa00b2964639b723cec183d174f8">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-3dceae45b88c4fde826323f3ffc21513"
+          source="id-cd43b5efe28a4b20ac004f7175a3d6ab"
+          target="id-c6154815f3374ee186a4f1ab8cd936d6">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-a8731038eb1e4e5d9209ba758ff0c904.xml#id-a8731038eb1e4e5d9209ba758ff0c904"/>
+      </sourceConnections>
       <bounds
-          x="300"
-          y="108"
+          x="420"
+          y="144"
           width="120"
           height="55"/>
       <archimateElement
@@ -103,10 +148,10 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-42d1413bc32a4a8baf3346c3d695a5f0"
-        targetConnections="id-81ead0ff2a7e4050b11134ac8beedeb8">
+        targetConnections="id-81ead0ff2a7e4050b11134ac8beedeb8 id-78dfe3420e8441c4a66944f52fbab617">
       <bounds
-          x="300"
-          y="48"
+          x="192"
+          y="240"
           width="120"
           height="55"/>
       <archimateElement
@@ -117,9 +162,54 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-100ca87260c741a69f1c4799b5178997"
         targetConnections="id-25bd0060508d4806b744dc5ac617658d">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-78dfe3420e8441c4a66944f52fbab617"
+          source="id-100ca87260c741a69f1c4799b5178997"
+          target="id-42d1413bc32a4a8baf3346c3d695a5f0">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-04045da72dea482ab8e67e76aa9fda2f.xml#id-04045da72dea482ab8e67e76aa9fda2f"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-bac51ff803a8458e8838e20987719840"
+          source="id-100ca87260c741a69f1c4799b5178997"
+          target="id-51234136b55147fe9f63797fe0acced7">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-aab928397a0f4bcda3b2ac621dc7e9b4.xml#id-aab928397a0f4bcda3b2ac621dc7e9b4"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-9d016e3facbc4071bf79f8d056566489"
+          source="id-100ca87260c741a69f1c4799b5178997"
+          target="id-7e162a9419f0430d87a455760a256eec">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-66ede1f54ce44dadbd2715740be16b63.xml#id-66ede1f54ce44dadbd2715740be16b63"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-437b85e0c7214f40b7f425915e2f0b53"
+          source="id-100ca87260c741a69f1c4799b5178997"
+          target="id-c9d616b1cccc4d07ad7cc69311002b56">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-36b73d714f354ff99bd264619a758d59.xml#id-36b73d714f354ff99bd264619a758d59"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-83e61ed9423a456c83317276d801cfde"
+          source="id-100ca87260c741a69f1c4799b5178997"
+          target="id-7defd88b80584045bf8c0797d0c28a1e">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-33cde77e37df4ddb948e171f6fe4af4f.xml#id-33cde77e37df4ddb948e171f6fe4af4f"/>
+      </sourceConnections>
       <bounds
-          x="168"
-          y="108"
+          x="192"
+          y="144"
           width="120"
           height="55"/>
       <archimateElement
@@ -129,10 +219,10 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5c9bb8db25d5410588ed0ba3fcc3ddcf"
-        targetConnections="id-d3ec4330a11142fd8f9165e1b3c238ef">
+        targetConnections="id-d3ec4330a11142fd8f9165e1b3c238ef id-3510bcf0dca34f4ab798280f42d8ed54">
       <bounds
-          x="36"
-          y="108"
+          x="25"
+          y="144"
           width="120"
           height="55"/>
       <archimateElement
@@ -142,9 +232,9 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9619b622af5a4809a039f83f4883eafa"
-        targetConnections="id-8fded249abf94d668100f96b70b2d9df">
+        targetConnections="id-8fded249abf94d668100f96b70b2d9df id-5287ccf947a34adab59908ab349b48fa">
       <bounds
-          x="168"
+          x="192"
           y="48"
           width="120"
           height="55"/>
@@ -156,8 +246,26 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-85a1bfd39bac45e191bb93e57d463b8a"
         targetConnections="id-72cf99ba77d044089897780f9847de9c">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-5287ccf947a34adab59908ab349b48fa"
+          source="id-85a1bfd39bac45e191bb93e57d463b8a"
+          target="id-9619b622af5a4809a039f83f4883eafa">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-a593909a3d7d4f4c9dde8f4753eabbb2.xml#id-a593909a3d7d4f4c9dde8f4753eabbb2"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-3510bcf0dca34f4ab798280f42d8ed54"
+          source="id-85a1bfd39bac45e191bb93e57d463b8a"
+          target="id-5c9bb8db25d5410588ed0ba3fcc3ddcf">
+        <archimateRelationship
+            xsi:type="archimate:AggregationRelationship"
+            href="AggregationRelationship_id-cd93d26e515d4c579586671de9fc130b.xml#id-cd93d26e515d4c579586671de9fc130b"/>
+      </sourceConnections>
       <bounds
-          x="36"
+          x="24"
           y="48"
           width="120"
           height="55"/>
@@ -168,15 +276,67 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c6154815f3374ee186a4f1ab8cd936d6"
-        targetConnections="id-459aced6687a4f58b8244ff4aa8c83a2">
+        targetConnections="id-459aced6687a4f58b8244ff4aa8c83a2 id-3dceae45b88c4fde826323f3ffc21513">
       <bounds
-          x="35"
-          y="168"
+          x="420"
+          y="240"
           width="120"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationFunction"
           href="ApplicationFunction_id-2309845b99cd44e891d5f0bafdc9c414.xml#id-2309845b99cd44e891d5f0bafdc9c414"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-51234136b55147fe9f63797fe0acced7"
+        targetConnections="id-8ddf5b4ec634466489e6b534a0dcc009 id-bac51ff803a8458e8838e20987719840">
+      <bounds
+          x="24"
+          y="324"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationFunction"
+          href="ApplicationFunction_id-1e1bb628705e4e52a20395460e0b9fc4.xml#id-1e1bb628705e4e52a20395460e0b9fc4"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-7e162a9419f0430d87a455760a256eec"
+        targetConnections="id-955616d5b1f64dd0a4b55c3d902bce51 id-9d016e3facbc4071bf79f8d056566489">
+      <bounds
+          x="156"
+          y="324"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationFunction"
+          href="ApplicationFunction_id-a2b0bc1ca9344fb1ae56c8d49ab83e7d.xml#id-a2b0bc1ca9344fb1ae56c8d49ab83e7d"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-c9d616b1cccc4d07ad7cc69311002b56"
+        targetConnections="id-6a66a41f877f4429a694f9c4b6a4b31f id-437b85e0c7214f40b7f425915e2f0b53">
+      <bounds
+          x="288"
+          y="324"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationFunction"
+          href="ApplicationFunction_id-386f8ca838de4708adf2d3320118eb9c.xml#id-386f8ca838de4708adf2d3320118eb9c"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-7defd88b80584045bf8c0797d0c28a1e"
+        targetConnections="id-1ac68c876c2b4583b4a1d12c7d8e9c14 id-83e61ed9423a456c83317276d801cfde">
+      <bounds
+          x="420"
+          y="324"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationFunction"
+          href="ApplicationFunction_id-487578946ce649edbae4a2c92345323e.xml#id-487578946ce649edbae4a2c92345323e"/>
     </children>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"

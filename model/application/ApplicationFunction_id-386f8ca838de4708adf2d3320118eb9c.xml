@@ -1,8 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="admin Páginas"
-    id="id-648bbf43e70841108b1dd721abb42305"
-    documentation="Grupo de páginas web del cotizador.&#xA;">
+    name="Configuracn."
+    id="id-386f8ca838de4708adf2d3320118eb9c"
+    documentation="Grupo de funcionalidad (servicios) de Planes de Configuración del Cotizador Web.">
   <properties
       key="modulo"
       value="cotizador"/>

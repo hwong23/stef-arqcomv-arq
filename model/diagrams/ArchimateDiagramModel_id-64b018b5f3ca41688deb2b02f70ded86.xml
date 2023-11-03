@@ -368,7 +368,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-f802f2fe423a4a56a4cf81a8b80bc5f0"
       textAlignment="1"
-      content="Mi Mutual. Coomeva, 2023.&#xD;&#xA;&#xD;&#xA;Organización de aplicación Cotizador Web, Mi Mutual. Estado Actual. Segmentos (1) frontal, (2) servicios, (3) central/negocio Mi Mutual, (4) infraestructura.&#xD;&#xA;&#xD;&#xA;versión 0.4.1&#xA;">
+      content="Mi Mutual. Coomeva, 2023.&#xD;&#xA;&#xD;&#xA;Organización de aplicación Cotizador Web, Mi Mutual. Estado Actual. Segmentos (1) frontal, (2) servicios, (3) central/negocio Mi Mutual, (4) infraestructura.&#xD;&#xA;&#xD;&#xA;versión 0.4.2">
     <bounds
         x="21"
         y="9"
@@ -450,6 +450,11 @@
         id="id-44e6d91e843540e8848920d8ff028635"
         source="id-9a0ab60308b142e0b276aabb1a606334"
         target="id-b785655e531f4eb5a2335f8fc472a137">
+      <bendpoints
+          startX="-43"
+          startY="-110"
+          endX="270"
+          endY="57"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-c1fd1fea7cd14b919db11ce2d78b53ae.xml#id-c1fd1fea7cd14b919db11ce2d78b53ae"/>

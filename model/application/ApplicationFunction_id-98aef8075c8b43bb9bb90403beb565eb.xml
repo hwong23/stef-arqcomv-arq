@@ -1,7 +1,8 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Compartido"
-    id="id-98aef8075c8b43bb9bb90403beb565eb">
+    name="Módulos Compartidos"
+    id="id-98aef8075c8b43bb9bb90403beb565eb"
+    documentation="Librerías de software base que el Cotizador Web requiere. Dependencias a paquetes de software de base, distintas a los módulos de negocio, necesarios para la ejecución de tareas utilitarias del Cotizador, tales como comunicación, políticas de seguridad, especificación de objetos globales de interfaz, transporte, transformación, entre otras.&#xA;">
   <properties
       key="modulo"
       value="cotizador"/>
