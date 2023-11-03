@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="pkg: directivas"
     id="id-cdc6cb870fa24506baa5e843512c35d4"
-    documentation="controller: Almacenan todas las clases que constituyen los servicios rest de la aplicación.">
+    documentation="controller: contiene las clases que constituyen los llamados a librerías compartidas de la aplicación.">
   <properties
       key="modulo"
       value="cotizador"/>

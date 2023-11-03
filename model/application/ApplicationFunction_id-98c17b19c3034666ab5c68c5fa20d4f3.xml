@@ -1,7 +1,7 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(web) admin Páginas"
-    id="id-648bbf43e70841108b1dd721abb42305"
+    name="(web) Reportes"
+    id="id-98c17b19c3034666ab5c68c5fa20d4f3"
     documentation="Grupo de páginas web del cotizador.&#xA;">
   <properties
       key="modulo"

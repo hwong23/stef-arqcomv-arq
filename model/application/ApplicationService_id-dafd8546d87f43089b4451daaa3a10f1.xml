@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Administración"
+    id="id-dafd8546d87f43089b4451daaa3a10f1"
+    documentation="Servicios de aplicación central que el Cotizador Web usa. Administración.&#xA;"/>

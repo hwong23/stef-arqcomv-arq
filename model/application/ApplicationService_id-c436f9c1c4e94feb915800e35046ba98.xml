@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cliente"
+    id="id-c436f9c1c4e94feb915800e35046ba98"
+    documentation="Servicios de aplicación central que el Cotizador Web usa. Operaciones sobre Clientes.&#xA;"/>

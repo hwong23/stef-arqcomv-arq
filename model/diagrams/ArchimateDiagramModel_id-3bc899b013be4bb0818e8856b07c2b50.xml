@@ -3,12 +3,12 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cotizador. 4a. Dependencias"
     id="id-3bc899b013be4bb0818e8856b07c2b50"
-    documentation="### Paquetes y Dependencias Cotizador Web&#xA;Módulos y componentes que hacen parte de la estructura de la aplicación Cotizador Web (basado en Angular 12 [^1]).&#xA;&#xA;[^1]: Angular 2 tiene una arquitectura Modelo Vista Controlador (MVC) con el fin de hacer el desarrollo gestionado.&#xA;&#xA;### Módulos Cotizador Web&#xA;La estructura por módulos actual apunta a la escalabilidad y mantenimiento del Cotizador en términos de: organizar las partes de la aplicación, organización los bloques, extender la aplicación con libreras externas, proporcionar un entorno de resolución de plantillas y además, distribuir las cargas de los componentes y servicios que usa la aplicación.&#xA;">
+    documentation="### Paquetes y Dependencias Cotizador Web&#xA;Módulos y componentes que hacen parte de la estructura de la aplicación Cotizador Web (basado en Angular 12 [^1]).&#xA;&#xA;[^1]: Angular 2 tiene una arquitectura Modelo Vista Controlador (MVC) con el fin de facilitar el desarrollo gestionado.&#xA;&#xA;### Módulos Cotizador Web&#xA;La estructura por módulos actual apunta a la escalabilidad y mantenimiento del Cotizador en términos de: organizar las partes de la aplicación, organización los bloques, extender la aplicación con libreras externas, proporcionar un entorno de resolución de plantillas y además, distribuir las cargas de los componentes y servicios que usa la aplicación.&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-3d756b0a4f154930a23e5b0aac5c4e92"
       textAlignment="1"
-      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Mi Mutual Web. Paquetes: dependencias, roles, implementación funciones de aplicación.&#xA;&#xA;versión 0.1">
+      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Mi Mutual Web. Paquetes: dependencias, roles, implementación funciones de aplicación.&#xA;&#xA;versión 0.1.10">
     <bounds
         x="12"
         y="12"

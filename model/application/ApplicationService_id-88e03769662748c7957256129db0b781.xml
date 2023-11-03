@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SS02.reporte - estado - cotizacion"
-    id="id-88e03769662748c7957256129db0b781"/>
+    id="id-88e03769662748c7957256129db0b781"
+    documentation="Servicios de aplicación central que el Cotizador Web usa. Cotización.&#xA;"/>

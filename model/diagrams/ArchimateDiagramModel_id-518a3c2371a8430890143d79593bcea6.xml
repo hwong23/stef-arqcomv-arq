@@ -39,7 +39,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-dd7cc3645ae24c2da3bd4217c627c971"
       textAlignment="1"
-      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Modelo de negocio Mi Mutual. Conceptos de negocio.&#xA;&#xA;versión 0.2.14">
+      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Modelo de negocio Mi Mutual. Conceptos de negocio.&#xA;&#xA;versión 0.2.15">
     <bounds
         x="12"
         y="12"
@@ -194,18 +194,6 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-22f8e568a2124617a5bc7bb216a573c2.xml#id-22f8e568a2124617a5bc7bb216a573c2"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2bfcb74d6b5f408ea590688dcab7c6dc">
-    <bounds
-        x="829"
-        y="1116"
-        width="144"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessObject"
-        href="BusinessObject_id-d9b0d2df0c5a4208809c33cb96ac0678.xml#id-d9b0d2df0c5a4208809c33cb96ac0678"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAT00.Plan (producto pólizas seguros)"
-    id="id-fcb900fb5c73428e99aa39d419f96f70"/>
+    name="DAT00.Plan configuración"
+    id="id-fcb900fb5c73428e99aa39d419f96f70"
+    documentation="Plan de configuración: producto pólizas seguros.&#xA;"/>

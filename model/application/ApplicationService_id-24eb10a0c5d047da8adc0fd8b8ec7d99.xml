@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SS02.protecciones- desmemebracion - accidente"
-    id="id-24eb10a0c5d047da8adc0fd8b8ec7d99"/>
+    id="id-24eb10a0c5d047da8adc0fd8b8ec7d99"
+    documentation="Servicios de aplicación central que el Cotizador Web usa. Protección."/>
