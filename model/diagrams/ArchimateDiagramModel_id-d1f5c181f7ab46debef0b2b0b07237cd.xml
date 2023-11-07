@@ -1,18 +1,18 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Cotizador. 9. Administración Configuración"
-    id="id-f50da0889e2e4c918c91c149460696f2"
+    name="Cotizador. 8a. Instalación 1"
+    id="id-d1f5c181f7ab46debef0b2b0b07237cd"
     documentation="Modelo de negocio (lógico) de Mi Mutual, extensible a sus demás módulos, como el Cotizador Web y demás. El modelo de negocio Mi Mutual contiene los conceptos de negocio que se encuentran implementados en el sofware, reglas y funciones de negocio, y el modelo(s) de datos del sistema.&#xA;&#xA;&#xA;### Conceptos Principales&#xA;&#xA;1. Configuración&#xA;1. Vinculación&#xA;1. Venta&#xA;1. Cotización&#xA;1. Factura&#xA;1. Cobertura&#xA;1. Configuración&#xA;1. Plan de producto&#xA;&#xA;&#xA;### Orden Operativo&#xA;&#xA;1. Configuración&#xA;1. Vinculación&#xA;1. Venta o Cotización&#xA;1. Factura&#xA;&#xA;&lt;br>&#xA;&#xA;### Relación Negocio Datos&#xA;La relación entre los conceptos de negocio y el modelo de datos se encuentra en la vista Cotizador. 7. Datos. Negocio.&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
-      id="id-9a9c498708ad47b3ac78a1005b3e3e35"
+      id="id-15899a83f609418aaf8e811ea93680df"
       textAlignment="1"
-      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Manual Técnico Cotizador Web. Administración y organización de versiones (administración de configuración) del código fuente, y entregas.&#xA;&#xA;versión 0.1">
+      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Manual Técnico Cotizador Web. Herramientas y prerequisitos.&#xA;&#xA;versión 0.1">
     <bounds
         x="12"
         y="12"
-        width="253"
-        height="145"/>
+        width="229"
+        height="133"/>
   </children>
 </archimate:ArchimateDiagramModel>
