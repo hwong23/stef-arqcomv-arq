@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cotizador. 7a. Modelo Negocio"
     id="id-04194148b9fc4ccf8542cb79d26c050a"
-    documentation="### Conceptos Principales&#xA;&#xA;1. Configuración&#xA;1. Vinculación&#xA;1. Venta&#xA;1. Cotización&#xA;1. Factura&#xA;1. Cobertura&#xA;1. Configuración&#xA;1. Plan de producto&#xA;&#xA;&#xA;### Orden Operativo&#xA;&#xA;1. Configuración&#xA;1. Vinculación&#xA;1. Venta o Cotización&#xA;1. Factura&#xA;">
+    documentation="### Conceptos Principales&#xA;&#xA;1. Configuración&#xA;1. Vinculación&#xA;1. Venta&#xA;1. Cotización&#xA;1. Factura&#xA;1. Cobertura&#xA;1. Configuración&#xA;1. Plan de producto&#xA;&#xA;&lt;br>&#xA;&#xA;### Orden Operativo&#xA;&#xA;1. Configuración&#xA;1. Vinculación&#xA;1. Venta o Cotización&#xA;1. Factura&#xA;&#xA;&lt;br>&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-db66e78d17b24cf08c782687928c9faf"
