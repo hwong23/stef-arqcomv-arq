@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cotizador. 4a. Aplicación. Servicios"
     id="id-3a9f664ae1d44c2fa789e33d6a6cc4b1"
-    documentation="Composición interna de los servivios de Mi Mutual Central, Mi Mutual Web, Cotizador Web. &#xA;">
+    documentation="Composición interna de los servivios de Mi Mutual Central, Mi Mutual Web, Cotizador Web. La vista muestra el patron de diseño con el que están implementados los servicios de la aplicación.&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-95d44e54a3c7483cb131340774dd0fc9">

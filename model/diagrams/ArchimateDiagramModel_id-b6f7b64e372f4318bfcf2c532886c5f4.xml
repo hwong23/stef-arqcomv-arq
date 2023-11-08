@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cotizador. 8. Instalación"
+    id="id-b6f7b64e372f4318bfcf2c532886c5f4"
+    documentation="## Copia e instalación de recursos necesarios&#xA;El proceso inicia ingresando a la siguiente ruta para descargar los instaladores:&#xA;https://stefaninilatam.sharepoint.com/sites/mimutualscrumteam/Shared%20Documents/Forms/AllIte ms.aspx?RootFolder=%2Fsites%2Fmimutualscrumteam%2FShared%20Documents%2FFuentes%20Mi%2 0Mutual&amp;FolderCTID=0x012000DE4DD055775DC94181E3B9081D8D552A&#xA;&#xA;![Diagram: Cotizador. 2. Contenedores](images/Picture1.jpg){#fig:Picture1 width=}&#xA;&#xA;&lt;br>&#xA;">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-001e0a5a9f1c4681be5b9dd92c0276c8"
+      textAlignment="1"
+      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Manual Técnico Cotizador Web. Herramientas y prerequisitos.&#xA;&#xA;versión 0.1">
+    <bounds
+        x="12"
+        y="12"
+        width="229"
+        height="133"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cotizador. 7a. Modelo Negocio"
     id="id-04194148b9fc4ccf8542cb79d26c050a"
-    documentation="### Conceptos Principales&#xA;&#xA;1. Configuración&#xA;1. Vinculación&#xA;1. Venta&#xA;1. Cotización&#xA;1. Factura&#xA;1. Cobertura&#xA;1. Configuración&#xA;1. Plan de producto&#xA;&#xA;&lt;br>&#xA;&#xA;### Orden Operativo&#xA;&#xA;1. Configuración&#xA;1. Vinculación&#xA;1. Venta o Cotización&#xA;1. Factura&#xA;&#xA;&lt;br>&#xA;">
+    documentation="Modelo de negocio (lógico) de Mi Mutual, extensible a sus demás módulos, como el Cotizador Web y demás. El modelo de negocio Mi Mutual contiene los conceptos de negocio que se encuentran implementados en el sofware, reglas y funciones de negocio, y el modelo(s) de datos del sistema.&#xA;&#xA;&#xA;### Conceptos Principales&#xA;&#xA;1. Configuración&#xA;1. Vinculación&#xA;1. Venta&#xA;1. Cotización&#xA;1. Factura&#xA;1. Cobertura&#xA;1. Configuración&#xA;1. Plan de producto&#xA;&#xA;&#xA;### Orden Operativo&#xA;&#xA;1. Configuración&#xA;1. Vinculación&#xA;1. Venta o Cotización&#xA;1. Factura&#xA;&#xA;&lt;br>&#xA;&#xA;### Relación Negocio Datos&#xA;La relación entre los conceptos de negocio y el modelo de datos se encuentra en la vista Cotizador. 7. Datos. Negocio.&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-db66e78d17b24cf08c782687928c9faf"
@@ -39,7 +39,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-5c1a49b656d34151ba0fc10d9efb76b1"
       textAlignment="1"
-      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Modelo de negocio usado por Cotizador Web. Conceptos de negocio.&#xA;&#xA;versión 0.2.1">
+      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Modelo de negocio usado por Cotizador Web. Conceptos de negocio.&#xA;&#xA;versión 0.2.2">
     <bounds
         x="12"
         y="12"
