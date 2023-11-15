@@ -153,7 +153,7 @@
     <bounds
         x="604"
         y="175"
-        width="227"
+        width="236"
         height="124"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -183,7 +183,7 @@
       <bounds
           x="105"
           y="36"
-          width="115"
+          width="124"
           height="55"/>
       <archimateElement
           xsi:type="archimate:ApplicationService"
@@ -235,7 +235,7 @@
     <bounds
         x="24"
         y="345"
-        width="807"
+        width="816"
         height="224"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
@@ -407,7 +407,7 @@
             href="RealizationRelationship_id-640008ca6f104c55a498c31fde97347d.xml#id-640008ca6f104c55a498c31fde97347d"/>
       </sourceConnections>
       <bounds
-          x="567"
+          x="588"
           y="37"
           width="181"
           height="158"/>
