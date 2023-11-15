@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Riesgos. "
-    id="id-111a6b21af744444b010fcb2f02d94e1">
+    name="Riesgos. 1. Catálogo"
+    id="id-111a6b21af744444b010fcb2f02d94e1"
+    documentation="### Conjunto de riesgos técnicos y arquitectura. Mi Mutua, Coomeva&#xA;&#xA;Componentes de software que impactan al contrato de Mi Mutual. El componente Flowable no es parte de la pila tecnológica de Coomeva, por tanto, el cliente puede exigir legalmente las acciones (p.e. de indemnización) de los perjuicios tecnológicos que considere. Nota: podría exigir la entrega de los desarrollos sin costos para el cliente.&#xA;&#xA;Debilidades en el proceso de ING Mi Mutual. Roles y responsabilidades de los actores del proceso. Falta organización de los roles y responsabilidades actuales.&#xA;Acumulación de defectos de software detectados en QA. Debido a que el proceso de desarrollo omite las pruebas unitarias ocurre que los defectos de software (que no son funcionales) se detectan extemporáneos en el proceso de QA, lo que genera retrasos y reprocesos en el ciclo de producción.&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d3789611b8d543d0bc67cb829ac2717f">
@@ -17,7 +18,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="180"
+        y="36"
         width="685"
         height="349"/>
     <children
