@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="soporta"
     id="id-3067a00819ae4f8fb88ca5ba353dcf3d">
   <source
       xsi:type="archimate:ApplicationComponent"

@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Riesgos. "
+    id="id-111a6b21af744444b010fcb2f02d94e1">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d3789611b8d543d0bc67cb829ac2717f">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-01a5cf8c1fb447cfa88e590aa83ea16e"
+        source="id-d3789611b8d543d0bc67cb829ac2717f"
+        target="id-3efcf88efa9d456eadd50654e5afb5c7">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-ad26a63d018346bb94d7e5f2705cfe7a.xml#id-ad26a63d018346bb94d7e5f2705cfe7a"/>
+    </sourceConnections>
+    <bounds
+        x="24"
+        y="180"
+        width="685"
+        height="349"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-3efcf88efa9d456eadd50654e5afb5c7"
+        targetConnections="id-01a5cf8c1fb447cfa88e590aa83ea16e">
+      <bounds
+          x="24"
+          y="36"
+          width="157"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Constraint"
+          href="Constraint_id-3f6523eef23047ef908c4a41fb1b388e.xml#id-3f6523eef23047ef908c4a41fb1b388e"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_id-c7e4b8d4fde64752a469a2430a604d04.xml#id-c7e4b8d4fde64752a469a2430a604d04"/>
+  </children>
+</archimate:ArchimateDiagramModel>

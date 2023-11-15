@@ -136,7 +136,7 @@
     <bounds
         x="21"
         y="9"
-        width="229"
+        width="257"
         height="160"/>
   </children>
   <children
@@ -445,6 +445,11 @@
         id="id-e7bfc437fb3f4a2ebd097b518cf68ace"
         source="id-99749757102c4d1e9f8dc543f41f2e6c"
         target="id-d5843aad062346d6ad15833337697dc2">
+      <bendpoints
+          startX="268"
+          startY="-221"
+          endX="6"
+          endY="287"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-3067a00819ae4f8fb88ca5ba353dcf3d.xml#id-3067a00819ae4f8fb88ca5ba353dcf3d"/>
