@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MiMutual. 5. Físico (despliegue)"
     id="id-f12ffd7585e24d0da3e26ab9b25d0b9c"
-    documentation="Especificaciones de despliegue Mi Mutual, 2023, componente central.&#xA;&#xA;* Estándares para el manejo de servicios REST sobre HTTP 1.1&#xA;* Tecnologías para el backend: Java 8 con Spring Boot 2.1.4&#xA;* Acceso a Datos: Spring Data 2.1.4&#xA;* Seguridad de las API: Spring Security + Oauth2.0&#xA;* Plataforma de despliegue Backend: Tomcat Spring Boot&#xA;* Tecnologías para el frontend Mi Mutual Central: Angular 9&#xA;* Tecnologías para el frontend Cotizador Web: Angular 14&#xA;* Librería de Estilos: Bootstrap 4.x&#xA;* Servidor web (HTTP 1.1): Apache 2.x&#xA;* Servidor BPM, Flowable, versión 6.5.0 con JRE 8&#xA;* Spring Cloud.version: Greenwich SR2&#xA;* Querydsl, version 4.2.1&#xA;* Bases de datos IBM DB2, versión x.y&#xA;&#xA;&lt;br>&#xA;">
+    documentation="Especificaciones de despliegue Mi Mutual, 2023, componente central.&#xA;&#xA;* Estándares para el manejo de servicios REST sobre HTTP 1.1&#xA;* Tecnologías para el backend: Java 8 con Spring Boot 2.1.4&#xA;* Acceso a Datos: Spring Data 2.1.4&#xA;* Seguridad de las API: Spring Security + Oauth2.0&#xA;* Plataforma de despliegue Backend: Tomcat Spring Boot&#xA;* Tecnologías para el frontend Mi Mutual Central: Angular 9&#xA;* Tecnologías para el frontend Cotizador Web: Angular 14&#xA;* Librería de Estilos Bootstrap 4.x&#xA;* Servidor web (HTTP 1.1): Apache 2.x&#xA;* Servidor BPM, Flowable, versión 6.5.0 con JRE 8&#xA;* Spring Cloud.version: Greenwich SR2&#xA;* Querydsl, version 4.2.1&#xA;* Bases de datos IBM DB2, versión x.y&#xA;&#xA;&lt;br>&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-aa79fd85e3434e77a3f5e6a4c17413cc"
@@ -44,6 +44,15 @@
       <archimateRelationship
           xsi:type="archimate:AccessRelationship"
           href="AccessRelationship_id-431dd82c356d40818c00f31045b9e193.xml#id-431dd82c356d40818c00f31045b9e193"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e5eca125d41f4127b0d5079cffbff420"
+        source="id-a9aa87cd37924f1a8b9394cf5db7abbf"
+        target="id-7c850c99ba484c0b8c6402444d8b9180">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_id-9352dc5012b8478681d4e95b862b54c9.xml#id-9352dc5012b8478681d4e95b862b54c9"/>
     </sourceConnections>
     <bounds
         x="446"
@@ -130,6 +139,15 @@
             xsi:type="archimate:AssignmentRelationship"
             href="AssignmentRelationship_id-0f3f8e50ed504987abf5b5ccd0e3c3b5.xml#id-0f3f8e50ed504987abf5b5ccd0e3c3b5"/>
       </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-39c5db499b04493fb05854fb39615a68"
+          source="id-a0a61ae20db54a11b86c655064c0cc9b"
+          target="id-7c850c99ba484c0b8c6402444d8b9180">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_id-64414c919f054dca801df8a1c053d16d.xml#id-64414c919f054dca801df8a1c053d16d"/>
+      </sourceConnections>
       <bounds
           x="228"
           y="36"
@@ -190,6 +208,19 @@
       <archimateElement
           xsi:type="archimate:Artifact"
           href="Artifact_id-0b518a2138444c2bbf2b5c84c587aca7.xml#id-0b518a2138444c2bbf2b5c84c587aca7"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-7c850c99ba484c0b8c6402444d8b9180"
+        targetConnections="id-e5eca125d41f4127b0d5079cffbff420 id-39c5db499b04493fb05854fb39615a68">
+      <bounds
+          x="468"
+          y="108"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Artifact"
+          href="Artifact_id-803fe850468542a88c09397395faafee.xml#id-803fe850468542a88c09397395faafee"/>
     </children>
     <archimateElement
         xsi:type="archimate:SystemSoftware"
