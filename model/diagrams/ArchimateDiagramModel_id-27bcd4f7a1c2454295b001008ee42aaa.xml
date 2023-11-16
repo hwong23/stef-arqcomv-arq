@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MiMutual. 4. Aplicación"
-    id="id-27bcd4f7a1c2454295b001008ee42aaa">
+    id="id-27bcd4f7a1c2454295b001008ee42aaa"
+    documentation="Componentes&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0eba927d104a4c9a95422617567305bb"
