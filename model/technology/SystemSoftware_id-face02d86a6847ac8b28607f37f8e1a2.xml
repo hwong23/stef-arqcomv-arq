@@ -1,0 +1,5 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BPM: JRE"
+    id="id-face02d86a6847ac8b28607f37f8e1a2"
+    documentation="Entorno de ejecución BPM. &#xA;&#xA;* java.version: 1.8&#xA;* flowable.version: 6.5.0&#xA;* spring-cloud.version: Greenwich.SR2&#xA;* querydsl.version: 4.2.1&#xA;&#xA;&lt;br>&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BUC"
-    id="id-5410d4252bab40fdb2329c7878a7ce9d"/>
+    id="id-5410d4252bab40fdb2329c7878a7ce9d"
+    documentation="Servicio de base. "/>

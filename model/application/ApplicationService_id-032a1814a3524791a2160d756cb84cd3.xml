@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RULES"
-    id="id-032a1814a3524791a2160d756cb84cd3"/>
+    id="id-032a1814a3524791a2160d756cb84cd3"
+    documentation="Servicio de base. Motor de reglas de negocio.&#xA;"/>
