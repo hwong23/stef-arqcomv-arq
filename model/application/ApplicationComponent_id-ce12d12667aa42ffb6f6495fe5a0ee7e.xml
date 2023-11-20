@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Librerías Spring Boot"
     id="id-ce12d12667aa42ffb6f6495fe5a0ee7e"
-    documentation="Librerías backend Spring Boot 2.1.4 para Java 8.&#xA;"/>
+    documentation="Librerías backend Spring Boot 2.1.4 para Java 8.&#xA;&#xA;* Tecnologías para el backend: Java 8 con Spring Boot 2.1.4&#xA;* Acceso a datos: Spring Data 2.1.4&#xA;* Seguridad de las API: Spring Security + Oauth2.0&#xA;* Plataforma de despliegue Backend: Tomcat Spring Boot 2.1.4&#xA;* Spring Cloud, versión Greenwich SR2&#xA;* Querydsl, version 4.2.1&#xA;&#xA;&lt;br>&#xA;"/>

@@ -8,4 +8,7 @@
   <properties
       key="modulo"
       value="mimutual"/>
+  <properties
+      key="brecha"
+      value="60"/>
 </archimate:Node>

@@ -1,9 +1,12 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="mimutual Entorno Java: JRE 1.8"
-    id="id-803fe850468542a88c09397395faafee"
+    name="TypeScript 3.x"
+    id="id-6f39a7b7ba114c19908ebb4888fdc8d3"
     documentation="Librerías backend Spring Boot 2.1.4 para Java 8.&#xA;">
   <properties
       key="brecha"
       value="30"/>
+  <properties
+      key="modulo"
+      value="mimutual"/>
 </archimate:Artifact>

@@ -1,9 +1,11 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="mimutual Entorno Java: JRE 1.8"
-    id="id-5749f98426b04a2bbf1ac21db31519f5">
+    id="id-86b33fe12eb54c5bb15298098bdf23e6">
+  <properties
+      key="modulo"
+      value="mimutual"/>
   <properties
       key="brecha"
       value="30"/>
-  <properties/>
 </archimate:SystemSoftware>

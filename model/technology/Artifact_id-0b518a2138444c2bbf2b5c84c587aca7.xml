@@ -1,5 +1,9 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Spring Boot:2.1.4"
+    name="mimutual Entorno Java: JRE 1.8"
     id="id-0b518a2138444c2bbf2b5c84c587aca7"
-    documentation="Librerías backend Spring Boot 2.1.4 para Java 8.&#xA;"/>
+    documentation="Librerías backend Spring Boot 2.1.4 para Java 8.&#xA;">
+  <properties
+      key="brecha"
+      value="30"/>
+</archimate:Artifact>

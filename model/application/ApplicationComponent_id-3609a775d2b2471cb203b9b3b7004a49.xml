@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Entorno NodeJS"
-    id="id-3609a775d2b2471cb203b9b3b7004a49">
+    id="id-3609a775d2b2471cb203b9b3b7004a49"
+    documentation="Servicios de base utilizados por Mi Mutual. Especificaciones de tecnologías Mi Mutual, 2023.&#xA;&#xA;* Tecnologías para el frontend Mi Mutual Central: Angular 9&#xA;* Tecnologías para el frontend Cotizador Web: Angular 14&#xA;* Entorno de ejecución Javascript: nodejs 14.2.0&#xA;* Librería de Estilos: Bootstrap 4.x&#xA;&#xA;&lt;br>&#xA;">
   <properties
       key="modulo"
       value="cotizador"/>

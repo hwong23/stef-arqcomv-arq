@@ -9,4 +9,7 @@
   <properties
       key="modulo"
       value="mimutual"/>
+  <properties
+      key="brecha"
+      value="30"/>
 </archimate:SystemSoftware>
