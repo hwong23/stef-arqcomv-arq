@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="5 semanas"
+    id="id-3ca4d8dac2ee401dbe0e195f554b9191">
+  <source
+      xsi:type="archimate:WorkPackage"
+      href="WorkPackage_id-5410d17a4e9c4bc1bb668404f9e807d5.xml#id-5410d17a4e9c4bc1bb668404f9e807d5"/>
+  <target
+      xsi:type="archimate:Plateau"
+      href="Plateau_id-1f6d2ff11e8f4a28851a6c1b407db281.xml#id-1f6d2ff11e8f4a28851a6c1b407db281"/>
+</archimate:RealizationRelationship>

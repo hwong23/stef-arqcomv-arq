@@ -1,7 +1,7 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Spring Data 2.1.4"
-    id="id-803fe850468542a88c09397395faafee"
+    name="Spring Boot compatible Java 11"
+    id="id-26ee356067a04a8189f908051bd0d51d"
     documentation="Librerías backend Spring Boot 2.1.4 para Java 8.&#xA;">
   <properties
       key="brecha"

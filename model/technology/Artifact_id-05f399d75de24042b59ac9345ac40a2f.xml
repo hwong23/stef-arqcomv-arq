@@ -1,9 +1,12 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Spring Data 2.1.4"
-    id="id-803fe850468542a88c09397395faafee"
+    name="TypeScript > 3"
+    id="id-05f399d75de24042b59ac9345ac40a2f"
     documentation="Librerías backend Spring Boot 2.1.4 para Java 8.&#xA;">
   <properties
       key="brecha"
       value="30"/>
+  <properties
+      key="modulo"
+      value="mimutual"/>
 </archimate:Artifact>

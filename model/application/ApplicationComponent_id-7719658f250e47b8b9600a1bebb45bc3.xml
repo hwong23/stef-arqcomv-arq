@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="app: Reclamaciones"
+    id="id-7719658f250e47b8b9600a1bebb45bc3"
+    documentation="Contiene todas las funcionalidades relacionadas con la gestión de reclamaciones, liquidaciones y pagos.">
+  <properties
+      key="modulo"
+      value="mimutual"/>
+</archimate:ApplicationComponent>

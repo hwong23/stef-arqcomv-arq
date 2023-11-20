@@ -1,7 +1,7 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="mimutual Entorno JS: node 10.x"
-    id="id-86b33fe12eb54c5bb15298098bdf23e6">
+    name="Entorno Angular: ng compatible Java 11"
+    id="id-3fdccca056da42b8b43dad7b691c83b5">
   <properties
       key="modulo"
       value="mimutual"/>

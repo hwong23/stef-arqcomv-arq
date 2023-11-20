@@ -1,7 +1,7 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="mimutual Entorno JS: node 10.x"
-    id="id-86b33fe12eb54c5bb15298098bdf23e6">
+    name="mimutual Entorno JS: node compatible Java 11"
+    id="id-cd06d47423694094b9a05842bf38eb51">
   <properties
       key="modulo"
       value="mimutual"/>
