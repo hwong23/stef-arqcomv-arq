@@ -1,4 +1,11 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DDSEGUROS"
-    id="id-bfd078819614470186ab5bddb9328e34"/>
+    id="id-bfd078819614470186ab5bddb9328e34">
+  <properties
+      key="alcanseSOA"
+      value="Fase 1.1"/>
+  <properties
+      key="modulo"
+      value="mimutual"/>
+</archimate:SystemSoftware>

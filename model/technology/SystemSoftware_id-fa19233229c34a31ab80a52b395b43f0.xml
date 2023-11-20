@@ -1,4 +1,11 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MiMutual DB"
-    id="id-fa19233229c34a31ab80a52b395b43f0"/>
+    id="id-fa19233229c34a31ab80a52b395b43f0">
+  <properties
+      key="alcanseSOA"
+      value="Fase 1.1"/>
+  <properties
+      key="modulo"
+      value="mimutual"/>
+</archimate:SystemSoftware>

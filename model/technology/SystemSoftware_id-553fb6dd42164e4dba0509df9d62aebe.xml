@@ -2,4 +2,11 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ESB/WS"
     id="id-553fb6dd42164e4dba0509df9d62aebe"
-    documentation="* java.version: 1.8&#xA;* spring-cloud.version: Greenwich.SR2&#xA;&#xA;&lt;br>&#xA;"/>
+    documentation="* java.version: 1.8&#xA;* spring-cloud.version: Greenwich.SR2&#xA;&#xA;&lt;br>&#xA;">
+  <properties
+      key="alcanseSOA"
+      value="Fase 1.1"/>
+  <properties
+      key="modulo"
+      value="mimutual"/>
+</archimate:SystemSoftware>

@@ -1,4 +1,11 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Directorio: eureka: tomcat"
-    id="id-b5a63ae2af3e46bf9326900b7ec1559f"/>
+    id="id-b5a63ae2af3e46bf9326900b7ec1559f">
+  <properties
+      key="alcanseSOA"
+      value="Fase 1.1"/>
+  <properties
+      key="modulo"
+      value="mimutual"/>
+</archimate:SystemSoftware>

@@ -1,4 +1,11 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Identidad: spring cloud security"
-    id="id-32404c5045884511910eadcecfdf222e"/>
+    id="id-32404c5045884511910eadcecfdf222e">
+  <properties
+      key="alcanseSOA"
+      value="Fase 1.1"/>
+  <properties
+      key="modulo"
+      value="mimutual"/>
+</archimate:SystemSoftware>

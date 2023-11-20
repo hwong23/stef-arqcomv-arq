@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entorno NodeJS"
+    id="id-3609a775d2b2471cb203b9b3b7004a49">
+  <properties
+      key="modulo"
+      value="cotizador"/>
+</archimate:ApplicationComponent>

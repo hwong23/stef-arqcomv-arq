@@ -1,4 +1,11 @@
 <archimate:SystemSoftware
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gateway: tomcat"
-    id="id-a15ee09d82e84061aebe059fa41d259c"/>
+    id="id-a15ee09d82e84061aebe059fa41d259c">
+  <properties
+      key="alcanseSOA"
+      value="Fase 1.1"/>
+  <properties
+      key="modulo"
+      value="mimutual"/>
+</archimate:SystemSoftware>
