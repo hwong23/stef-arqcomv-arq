@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="MiMutual. 5.a2. Físico. Tecnologías. Hoja Ruta"
-    id="id-1f182c6b26d646b4be14431906e5d7fa">
+    id="id-1f182c6b26d646b4be14431906e5d7fa"
+    documentation="## Introducción &#xA;Los ítems de arquitectura impactados por el análisis de estado de tecnologías Mi Mutual, 2023 deben ser migrados (actualizados) mediante trabajos de estabilización de arquitectura con el fin de evitar principalmente los riesgos de soporte y actualización del fabricante. &#xA;&#xA;## Hoja de Ruta de Arquitectura Requerida por la Actualización &#xA;La hoja de ruta resultante plantea dos espacios de trabajo, cada uno con su alcance específico, respecto de la actualización tecnológica de Mi Mutual basado en los términos de análisis de estado de tecnologías Mi Mutual presentado antes. Los espacios de trabajo requeridos, Migración Entorno Java: JDK/JRE 8 a 11 y Migración Entorno Angular compatible Java 11, como se muestran en la imagen impactan y generan a su vez versiones nuevas de la arquitectura Mi Mutual, versión 1.1 y 1.2, respectivamente. &#xA;&#xA;La versión 1.1 de la arquitectura, resultado del espacio de trabajo no. 1, Migración Entorno Java: JDK/JRE 8 a 11 toma (aprox.) 5 semanas de trabajo, en razón de los ítems de arquitectura acotados en su alcance denotado por el primer recuadro celeste en la imagen. &#xA;&#xA;La versión 1.2 de la arquitectura, resultado del trabajo no. 2, Migración Entorno Angular compatible Java 11, toma por su parte 4 semanas en razón de los ítems de arquitectura acotados en su alcance presentado en el segundo recuadro celeste. ">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-56a08637fe4f4a72b6bd8bc06e4d5043"
