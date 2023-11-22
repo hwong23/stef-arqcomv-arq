@@ -1,7 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="4 semanas"
+    name="meses: 6 / equipo: 6"
     id="id-2cfa5a2a5e9a487ba888d11c3b1e8470">
   <source
       xsi:type="archimate:WorkPackage"
