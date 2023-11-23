@@ -16,9 +16,9 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-e1a7b9f0173743f4a4a068f6a4125c77">
       <bounds
-          x="216"
-          y="48"
-          width="120"
+          x="192"
+          y="36"
+          width="157"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
@@ -28,9 +28,9 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-34fa325c12d04f3bba7a625bd30b3443">
       <bounds
-          x="48"
-          y="48"
-          width="120"
+          x="24"
+          y="36"
+          width="157"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
@@ -42,7 +42,7 @@
   </children>
   <properties
       key="devdoc"
-      value="02n.tecnologiasMM.md"/>
+      value="02n.a3.tecnologiasMM.md"/>
   <properties
       key="rutaMac"
       value="/Downloads/tmpr/prymd/"/>
