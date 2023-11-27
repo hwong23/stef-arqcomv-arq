@@ -107,18 +107,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-740f7dfa7a614effbec77d1655a4e840">
-      <bounds
-          x="36"
-          y="188"
-          width="144"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-e4ae408c4a5b41a09e47e227c33d467d.xml#id-e4ae408c4a5b41a09e47e227c33d467d"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
         id="id-c09092e327c54830a37f382c9ee1773a">
       <bounds
           x="191"
