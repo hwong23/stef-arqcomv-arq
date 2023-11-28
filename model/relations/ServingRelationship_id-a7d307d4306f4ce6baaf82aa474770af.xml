@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="integra"
+    id="id-a7d307d4306f4ce6baaf82aa474770af">
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-6cea2d884f144a8d8c5bd572212fe849.xml#id-6cea2d884f144a8d8c5bd572212fe849"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_id-3cbde2950feb49cea86d9184db1501cd.xml#id-3cbde2950feb49cea86d9184db1501cd"/>
+</archimate:ServingRelationship>
