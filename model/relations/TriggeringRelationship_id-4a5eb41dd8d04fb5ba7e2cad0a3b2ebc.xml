@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="inicia"
+    id="id-4a5eb41dd8d04fb5ba7e2cad0a3b2ebc">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-c75550d7555a44e88f4e57d2d5cad848.xml#id-c75550d7555a44e88f4e57d2d5cad848"/>
+  <target
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-29f41531b80f4cc7a019925397b3e0bb.xml#id-29f41531b80f4cc7a019925397b3e0bb"/>
+</archimate:TriggeringRelationship>
