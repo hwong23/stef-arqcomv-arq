@@ -1,5 +1,5 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CONSTR01"
+    name="CONSTR02"
     id="id-c1b15cdcb21f4d5d89ce5c75e4c0522b"
-    documentation="### Análisis&#xA;* No se realizó en análisis previo de cada HU.&#xA;"/>
+    documentation="### Análisis&#xA;* No hay análisis / diseño previo de cada requerimiento (HU)&#xA;"/>

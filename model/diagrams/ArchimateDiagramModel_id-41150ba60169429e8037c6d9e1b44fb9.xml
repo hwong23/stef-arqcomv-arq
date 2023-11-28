@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ingenieria. 1a. Procesos Acciones"
+    name="Ingenieria. 1a. Procesos Acciones. General"
     id="id-41150ba60169429e8037c6d9e1b44fb9"
     documentation="Acciones con base en el diagnóstico asociadas al proceso de ing. Mi Mutual.&#xA;">
   <children
@@ -27,7 +27,7 @@
     </sourceConnections>
     <bounds
         x="12"
-        y="252"
+        y="192"
         width="156"
         height="108"/>
     <children
@@ -80,7 +80,7 @@
     </sourceConnections>
     <bounds
         x="180"
-        y="252"
+        y="192"
         width="156"
         height="108"/>
     <children
@@ -133,7 +133,7 @@
     </sourceConnections>
     <bounds
         x="349"
-        y="252"
+        y="192"
         width="156"
         height="108"/>
     <children
@@ -177,7 +177,7 @@
     </sourceConnections>
     <bounds
         x="181"
-        y="504"
+        y="444"
         width="156"
         height="108"/>
     <children
@@ -230,7 +230,7 @@
     </sourceConnections>
     <bounds
         x="179"
-        y="672"
+        y="612"
         width="156"
         height="108"/>
     <children
@@ -283,7 +283,7 @@
     </sourceConnections>
     <bounds
         x="347"
-        y="672"
+        y="612"
         width="156"
         height="108"/>
     <children
@@ -318,7 +318,7 @@
     </sourceConnections>
     <bounds
         x="516"
-        y="672"
+        y="612"
         width="156"
         height="108"/>
     <children
@@ -355,7 +355,7 @@
       targetConnections="id-72004921aff6473484165fe92d9a6a88">
     <bounds
         x="24"
-        y="396"
+        y="336"
         width="120"
         height="55"/>
     <archimateElement
@@ -368,7 +368,7 @@
       targetConnections="id-e14e4c8332544d9dbd05feeed5ee1096">
     <bounds
         x="196"
-        y="396"
+        y="336"
         width="120"
         height="55"/>
     <archimateElement
@@ -381,7 +381,7 @@
       targetConnections="id-7e7327a4aef145f18dddeeb008ffcfc2">
     <bounds
         x="365"
-        y="540"
+        y="480"
         width="120"
         height="55"/>
     <archimateElement
@@ -394,7 +394,7 @@
       targetConnections="id-6d7ad48b12484d84b494c710d3cf6e53">
     <bounds
         x="196"
-        y="816"
+        y="756"
         width="120"
         height="55"/>
     <archimateElement
