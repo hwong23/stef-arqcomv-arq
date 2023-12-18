@@ -428,15 +428,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-58b141b08bff482c96e92f94e60d0e6a"
       targetConnections="id-228c4bb74f864907b82bf1dd04503bb2">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-14ece6f6e2304cc59aee307c32d79a05"
-        source="id-58b141b08bff482c96e92f94e60d0e6a"
-        target="id-fa6491eff9c84ee5929e115e03f5c55a">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_id-efa13a10f64b443ebcb33d8ae4196163.xml#id-efa13a10f64b443ebcb33d8ae4196163"/>
-    </sourceConnections>
     <bounds
         x="564"
         y="434"
@@ -567,6 +558,11 @@
         id="id-1d344163f50f4b29aeef01782b637242"
         source="id-b9183f868f60411d8bd16c3504eca2a5"
         target="id-7387dc18df1a4c81b837c740984f6018">
+      <bendpoints
+          startX="167"
+          startY="-132"
+          endX="4"
+          endY="119"/>
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-3067a00819ae4f8fb88ca5ba353dcf3d.xml#id-3067a00819ae4f8fb88ca5ba353dcf3d"/>
@@ -748,7 +744,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fa6491eff9c84ee5929e115e03f5c55a"
-      targetConnections="id-e7ddb4ed1cc7440cb004f9e0630f9644 id-8257feef5c304219a70532ec554339f8 id-2f8a49d77c1b4211babd7353acbd1025 id-2681737218e6410e92d157bef5f4ee9c id-08b7d41d6e88480f91f12d1bd785b766 id-697c83b23c4e4bb786186ae9a60ba045 id-9312e1ddc2f84f3aace9c65433ac41d0 id-14ece6f6e2304cc59aee307c32d79a05">
+      targetConnections="id-e7ddb4ed1cc7440cb004f9e0630f9644 id-8257feef5c304219a70532ec554339f8 id-2f8a49d77c1b4211babd7353acbd1025 id-2681737218e6410e92d157bef5f4ee9c id-08b7d41d6e88480f91f12d1bd785b766 id-697c83b23c4e4bb786186ae9a60ba045 id-9312e1ddc2f84f3aace9c65433ac41d0">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-fa32d81ee4ea44b196c5faac66a85de2"

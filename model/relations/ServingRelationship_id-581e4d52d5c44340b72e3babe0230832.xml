@@ -4,8 +4,8 @@
     name="sirve"
     id="id-581e4d52d5c44340b72e3babe0230832">
   <source
-      xsi:type="archimate:ApplicationService"
-      href="ApplicationService_id-fefa15be14f6460d9d7a2258f9fb36cd.xml#id-fefa15be14f6460d9d7a2258f9fb36cd"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-2e98e48e265742159a4171c54d205f15.xml#id-2e98e48e265742159a4171c54d205f15"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-d6fb167c65cd4ad89dfc01cfddbd08d8.xml#id-d6fb167c65cd4ad89dfc01cfddbd08d8"/>

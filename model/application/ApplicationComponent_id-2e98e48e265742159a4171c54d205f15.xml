@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="app: Configuración"
+    id="id-2e98e48e265742159a4171c54d205f15"
+    documentation="Contiene todas las funcionalidades útiles y trasversales a los microservicios, como envío de correos, generación de archivos XSLX, PDF (Jasper) y consulta de parámetros.">
+  <properties
+      key="modulo"
+      value="mimutual"/>
+</archimate:ApplicationComponent>
