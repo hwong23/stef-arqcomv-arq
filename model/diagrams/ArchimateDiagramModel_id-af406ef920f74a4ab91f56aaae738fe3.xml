@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ventas. 4a. Dependencias (copy)"
+    name="Ventas. 4b. Dependencias (copy)"
     id="id-af406ef920f74a4ab91f56aaae738fe3"
     documentation="### Paquetes y Dependencias Cotizador Web&#xA;Módulos y componentes que hacen parte de la estructura de la aplicación Cotizador Web (basado en Angular 12 [^1]).&#xA;&#xA;[^1]: Angular 2 tiene una arquitectura Modelo Vista Controlador (MVC) con el fin de facilitar el desarrollo gestionado.&#xA;&#xA;### Módulos Cotizador Web&#xA;La estructura por módulos actual apunta a la escalabilidad y mantenimiento del Cotizador en términos de: organizar las partes de la aplicación, organización los bloques, extender la aplicación con libreras externas, proporcionar un entorno de resolución de plantillas y además, distribuir las cargas de los componentes y servicios que usa la aplicación.&#xA;">
   <children
