@@ -1,35 +1,35 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Doc. 2a. Vistas de Arquitectura Cotizador. Manual"
-    id="id-dc27bd25fd6c4de28d7f05b380dfd497">
+    name="Doc. 5a. Vistas de Arquitectura Ventas"
+    id="id-afc4dba332f142a49568bf8279ea4f62">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ba54125cdad141fca38a2ef7f589e0e6"
+      id="id-4bb3ac0cf3a9434cb9b8128c6494faf8"
       textAlignment="1">
     <bounds
         x="24"
-        y="24"
-        width="841"
-        height="301"/>
+        y="36"
+        width="684"
+        height="264"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-37847bc0c1cc498593a8452b2283b166">
+        id="id-c71389aadaf242efba4e819783e7f765">
       <bounds
-          x="24"
+          x="48"
           y="48"
-          width="157"
+          width="145"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-bc7b34fbb33241e785ae91a9d3102378.xml#id-bc7b34fbb33241e785ae91a9d3102378"/>
+          href="ArchimateDiagramModel_id-6c23b3a1025841cc9dc9c8385dd94f67.xml#id-6c23b3a1025841cc9dc9c8385dd94f67"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-2468043e935347edaa1e391b1492b582">
+        id="id-ab658a368c654bc0ad10b70c130cf54b">
       <bounds
-          x="192"
-          y="48"
+          x="372"
+          y="108"
           width="145"
           height="55"/>
       <referencedModel
@@ -38,11 +38,59 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-471a39f8c4dc4898a2b0abe90f7ab5e1">
+        id="id-c535bfcbcfda47ccab9c39d34c419116">
       <bounds
-          x="348"
+          x="45"
+          y="168"
+          width="145"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-bc7b34fbb33241e785ae91a9d3102378.xml#id-bc7b34fbb33241e785ae91a9d3102378"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-ae88fb8b30fd421794a3370b095d4c52">
+      <bounds
+          x="47"
+          y="108"
+          width="145"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-64b018b5f3ca41688deb2b02f70ded86.xml#id-64b018b5f3ca41688deb2b02f70ded86"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-c9d9c0056cb34d33b8dd1dae7758ceda">
+      <bounds
+          x="204"
+          y="108"
+          width="158"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-3a9f664ae1d44c2fa789e33d6a6cc4b1.xml#id-3a9f664ae1d44c2fa789e33d6a6cc4b1"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-489128d4e9cc4983a06def2b4e0b925e">
+      <bounds
+          x="204"
           y="48"
-          width="157"
+          width="158"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-f2a4384798e643c1a7b24456c69f7a6d.xml#id-f2a4384798e643c1a7b24456c69f7a6d"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-3b54ada6731945b395ba39b0a473c33c">
+      <bounds
+          x="204"
+          y="168"
+          width="158"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
@@ -50,75 +98,27 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-4841a537327b468e9b18410191c8fa80">
+        id="id-2836da38305f46648227cd1db28e1799">
       <bounds
-          x="516"
-          y="48"
-          width="157"
+          x="372"
+          y="168"
+          width="145"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-59beffe958dd4af68af3a4d2251241ec.xml#id-59beffe958dd4af68af3a4d2251241ec"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-f98b07a7452f49a183611c64d71e48c2">
-      <bounds
-          x="24"
-          y="120"
-          width="157"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-b6f7b64e372f4318bfcf2c532886c5f4.xml#id-b6f7b64e372f4318bfcf2c532886c5f4"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-9f7fc00a57e44fc2b149562c6d54beed">
-      <bounds
-          x="684"
-          y="48"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-da6ce446cf1c459b84b8cf85af09527f.xml#id-da6ce446cf1c459b84b8cf85af09527f"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-2b04117579fc452fb7083f4637de992a">
-      <bounds
-          x="192"
-          y="120"
-          width="145"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-f50da0889e2e4c918c91c149460696f2.xml#id-f50da0889e2e4c918c91c149460696f2"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-e36276962353431db6aa71dfdc71cfef">
-      <bounds
-          x="348"
-          y="120"
-          width="156"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-dab538979c6440cea80371968c2e522d.xml#id-dab538979c6440cea80371968c2e522d"/>
-    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
-        href="Grouping_id-d1d124510aa145cea9561f0d92179ebc.xml#id-d1d124510aa145cea9561f0d92179ebc"/>
+        href="Grouping_id-db137e5ecc2045979d5f06b5a58c1e21.xml#id-db137e5ecc2045979d5f06b5a58c1e21"/>
   </children>
   <properties
       key="devdoc"
-      value="03n.cotizdr-mnltecn.md"/>
+      value="02n.a2.contenido.md"/>
   <properties
       key="rutaMac"
       value="/Downloads/tmpr/prymd/"/>
   <properties
       key="alias"
-      value="arqdocCotzMT"/>
+      value="docVentas"/>
 </archimate:ArchimateDiagramModel>

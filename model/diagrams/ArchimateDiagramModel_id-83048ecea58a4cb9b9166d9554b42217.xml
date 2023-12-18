@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Doc. 4. Vistas de Arquitectura Ventas. Manual"
+    name="Doc. 5b. Vistas de Arquitectura Ventas. Manual"
     id="id-83048ecea58a4cb9b9166d9554b42217">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -214,5 +214,5 @@
       value="/Downloads/tmpr/prymd/"/>
   <properties
       key="alias"
-      value="ventasdoc"/>
+      value="ventasManual"/>
 </archimate:ArchimateDiagramModel>
