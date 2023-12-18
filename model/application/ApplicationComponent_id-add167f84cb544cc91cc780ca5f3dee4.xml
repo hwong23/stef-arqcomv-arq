@@ -1,9 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Registro Servicios: eureka"
-    id="id-add167f84cb544cc91cc780ca5f3dee4"
-    documentation="Eureka: Contiene todas las funcionalidades relacionadas con registrar y localizar microservicios existentes, informar de su localización, su estado y datos relevantes de cada uno de ellos.&#xA;">
-  <properties
-      key="modulo"
-      value="mimutual"/>
-</archimate:ApplicationComponent>

@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ventas. 4a. Aplicación. Servicios (copy)"
+    name="Ventas. 4a. Aplicación. Servicios"
     id="id-1cf6521ddcb940bf8d8543e086eaa9fe"
     documentation="Composición interna de los servivios de Mi Mutual Central, Mi Mutual Web, Cotizador Web. La vista muestra el patron de diseño con el que están implementados los servicios de la aplicación.&#xA;&#xA;">
   <children

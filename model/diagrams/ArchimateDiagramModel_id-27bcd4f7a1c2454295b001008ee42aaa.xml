@@ -133,7 +133,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-70034cb2c2f24ce88d8e6359df1a6611"
       textAlignment="1"
-      content="Mi Mutual. Coomeva, 2023.&#xD;&#xA;&#xD;&#xA;Organización de componentes de aplicación Mi Mutual. Estado Actual. Segmentos (1) frontal, (2) servicios, (3) central/negocio Mi Mutual, (4) infraestructura.&#xD;&#xA;&#xD;&#xA;versión 0.4.1&#xA;">
+      content="Mi Mutual. Coomeva, 2023.&#xD;&#xA;&#xD;&#xA;Organización de componentes de aplicación Mi Mutual. Estado Actual. Segmentos (1) frontal, (2) servicios, (3) central/negocio Mi Mutual, (4) infraestructura.&#xD;&#xA;&#xD;&#xA;versión 0.4.2&#xA;">
     <bounds
         x="21"
         y="9"
@@ -368,7 +368,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-99749757102c4d1e9f8dc543f41f2e6c"
-      targetConnections="id-75fda13460db4afaa99f7c4416261fb5 id-cd92efe379d840009a208f60737007d6 id-00358bea18874598a372ba54eebbac63">
+      targetConnections="id-75fda13460db4afaa99f7c4416261fb5 id-cd92efe379d840009a208f60737007d6 id-00358bea18874598a372ba54eebbac63 id-7b9b9e4d478e4c1386f8e472bb9e3a32">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-ced6a9e20e1041d3b7ce6ed7e4f00179"
@@ -906,5 +906,26 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-dde5c207066d478d90704c6faa3a9dc0.xml#id-dde5c207066d478d90704c6faa3a9dc0"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-316230bb54404d19a972e22425aea688">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7b9b9e4d478e4c1386f8e472bb9e3a32"
+        source="id-316230bb54404d19a972e22425aea688"
+        target="id-99749757102c4d1e9f8dc543f41f2e6c">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-de0a49672cdd442d9a6116129342983a.xml#id-de0a49672cdd442d9a6116129342983a"/>
+    </sourceConnections>
+    <bounds
+        x="876"
+        y="936"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-209df2bc0ff14fe1b2fffeb90d6c2e2e.xml#id-209df2bc0ff14fe1b2fffeb90d6c2e2e"/>
   </children>
 </archimate:ArchimateDiagramModel>

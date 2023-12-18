@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ventas. 7a. Modelo Negocio (copy)"
+    name="Ventas. 7a. Modelo Negocio"
     id="id-89a74cef16fe42f0bd8ee5465886ee19"
     documentation="Modelo de negocio (lógico) de Mi Mutual, Mi Mutual Web, extensible a sus demás módulos, como el Cotizador Web y otros. El modelo de negocio Mi Mutual contiene los conceptos de negocio que se encuentran implementados en el sofware, reglas y funciones de negocio, y el modelo(s) de datos del sistema.&#xA;&#xA;&#xA;### Conceptos Principales&#xA;&#xA;1. Venta&#xA;1. Cotización&#xA;1. Configuración&#xA;1. Vinculación&#xA;1. Factura&#xA;1. Cobertura&#xA;1. Configuración&#xA;1. Plan de producto&#xA;&#xA;&#xA;### Orden Operativo&#xA;&#xA;1. Configuración&#xA;1. Vinculación&#xA;1. Venta o Cotización&#xA;1. Factura&#xA;&#xA;&lt;br>&#xA;&#xA;### Relación Negocio Datos&#xA;La relación entre los conceptos de negocio y el modelo de datos se encuentra en la vista Cotizador. 7. Datos. Negocio.&#xA;&#xA;">
   <children

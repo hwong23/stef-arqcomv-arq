@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ventas. 7. Datos. Negocio (copy)"
+    name="Ventas. 7. Datos. Negocio"
     id="id-30f38253cf284282919b06d79110136b"
     documentation="La relación del modelo de negocio Mi Mutual con el modelo de datos del Cotizador Web orienta la navegación en el modelo de datos en aquellas historias de usuario que impliquen a alguna de estas entidades.&#xA;&#xA;Este modelo de relación negocio-datos es evolutivo: irá cambiando en la medida de que el negocio o el modelo de datos cambien.&#xA;&#xA;### Entidades de Negocio Mi Mutual&#xA;Dominios de datos de negocio. Entidades independiente de la plataforma y de la tecnología.&#xA;&#xA;* Configuración (caracterización de productos, plan)&#xA;* Plan (producto pólizas seguros)&#xA;* Canal (medios del tomador/asociado)&#xA;* Parametros globales (catálogos)&#xA;* Portafolio de asociado&#xA;* Asociado&#xA;* Facturación&#xA;* Beneficiario&#xA;&#xA;&lt;br>&#xA;">
   <children
