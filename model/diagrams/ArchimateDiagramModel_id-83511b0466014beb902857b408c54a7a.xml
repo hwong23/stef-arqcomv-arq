@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Ventas. 7a. Datos. Físico (copy)"
+    id="id-83511b0466014beb902857b408c54a7a"
+    documentation="Para apreciación del contenido del modelo entidad-relación del Cotizador Web, vinculamos este documento al archivo original.&#xA;&#xA;Anexo 1. Referencia al modelo entidad relación del Cotizador Web, Mi Mutual, 2023.&#xA;&#xA;URL:&#xA;">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-54f2a8c7d513486391b7a65d278a669a"
+      textAlignment="1"
+      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Mi Mutual Web. Anexo. Modelo entidad relación: Estructuras, objeto, relaciones.&#xA;&#xA;versión 0.1.1">
+    <bounds
+        x="24"
+        y="24"
+        width="229"
+        height="121"/>
+  </children>
+</archimate:ArchimateDiagramModel>
