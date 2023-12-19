@@ -121,4 +121,7 @@
   <properties
       key="alias"
       value="docVentas"/>
+  <properties
+      key="titulo"
+      value="Vista de Arquitectura Cotización y Ventas Mi Mutual"/>
 </archimate:ArchimateDiagramModel>
