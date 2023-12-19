@@ -651,7 +651,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-2dc4f46465294041a0467a4838d11a5e"
       textAlignment="1"
-      content="Mi Mutual. Coomeva, 2023.&#xD;&#xA;&#xD;&#xA;Distribución física Cotizador Web, Mi Mutual. Especificaciones de Despliegue Cotizador Web, detalles de configuración, librerías de desarrollo (frameworks), lenguajes.&#xA;&#xD;&#xA;versión 0.3.1&#xA;">
+      content="Mi Mutual. Coomeva, 2023.&#xD;&#xA;&#xD;&#xA;Distribución física del dominio Cotización y Ventas, Mi Mutual. Especificaciones de despliegue del dominio, detalles de configuración, librerías de desarrollo (frameworks), lenguajes.&#xA;&#xD;&#xA;versión 0.2.1&#xA;">
     <bounds
         x="12"
         y="12"
