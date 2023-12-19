@@ -1,5 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Interfaz transporte"
+    name="Interfaz integración"
     id="id-73f02eb5815e4370a19695b1f7ad3d20"
     documentation="Feign Client.&#xA;&#xA;Integración con otros sistemas para facilitar los procesos de vinculación, retiro, reactivación o fallecimiento de asociados."/>

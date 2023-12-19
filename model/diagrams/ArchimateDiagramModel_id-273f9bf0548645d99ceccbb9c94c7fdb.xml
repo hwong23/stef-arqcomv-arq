@@ -3,12 +3,12 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ventas. 2. Contenedores"
     id="id-273f9bf0548645d99ceccbb9c94c7fdb"
-    documentation="Especificación y organizción de contenedores principales de Cotización y Ventas Mi Mutual.&#xA;">
+    documentation="Especificación y organizción de contenedores principales de Cotización y Ventas Mi Mutual.&#xA;&#xA;&#xA;### Contenedores Principales Cotización y Ventas&#xA;&#xA;* app: Cotización y Ventas&#xA;* app: Configuración&#xA;* app: Eureka admin&#xA;* submódulo Utilidades&#xA;* submódulo Integración&#xA;* app: Mi Mutual Central&#xA;&#xA;&lt;br>&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-1745ca6b2009401d9e4907edc230750b"
       textAlignment="1"
-      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Estructura de componentes principales, Cotización y Ventas Mi Mutual. Roles de componentes, separación responsabilidades.&#xA;&#xA;versión 0.2.1">
+      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Estructura de componentes principales, Cotización y Ventas Mi Mutual. Roles de componentes, separación responsabilidades.&#xA;&#xA;versión 0.2.2">
     <bounds
         x="12"
         y="12"
