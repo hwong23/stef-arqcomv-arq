@@ -1,6 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="Doc. 5b. Ventas. Manual"
     id="id-83048ecea58a4cb9b9166d9554b42217">
   <children
@@ -32,18 +33,6 @@
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-e4e62cb14bc14f03a634091454914279.xml#id-e4e62cb14bc14f03a634091454914279"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-20dda35a514d466c8abb72cacdc61ad7">
-      <bounds
-          x="157"
-          y="102"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-1a2fb967da924afa9e613f7afec78ce5.xml#id-1a2fb967da924afa9e613f7afec78ce5"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -107,18 +96,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-52957823bae348edacc41a37323bf9a4">
-      <bounds
-          x="685"
-          y="36"
-          width="120"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-83511b0466014beb902857b408c54a7a.xml#id-83511b0466014beb902857b408c54a7a"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
         id="id-3c5294ac62f04827bef572e5f1bf4d7f">
       <bounds
           x="421"
@@ -140,6 +117,30 @@
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-3e9f0b064ac44c449ed2820c1dfbcf1b.xml#id-3e9f0b064ac44c449ed2820c1dfbcf1b"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-473462fbd21a47e2b9d3853f27d16c93">
+      <bounds
+          x="684"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="canvas:CanvasModel"
+          href="CanvasModel_id-aba46c11675c4dfe83a642a9431ea0a5.xml#id-aba46c11675c4dfe83a642a9431ea0a5"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-b72a43cffa824ac0a6c8ecb5b9444231">
+      <bounds
+          x="157"
+          y="102"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="canvas:CanvasModel"
+          href="CanvasModel_id-19d6f49660ca41a1b075d568ddf1faf2.xml#id-19d6f49660ca41a1b075d568ddf1faf2"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
