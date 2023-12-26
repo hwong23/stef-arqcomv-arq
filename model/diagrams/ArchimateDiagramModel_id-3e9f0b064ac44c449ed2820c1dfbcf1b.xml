@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ventas. 9. Administración Configuración (copy)"
+    name="Ventas. 9. Administración Configuración"
     id="id-3e9f0b064ac44c449ed2820c1dfbcf1b"
     documentation="La administración de configuración del Cotizador Web, Mi Mutual, consta de dos partes.&#xA;1.&#x9;Gestión del código fuente&#xA;2.&#x9;Gestión de los ambientes de trabajo y despliegues&#xA;&#xA;A continuación vinculamos ese documento con la información con cada uno.&#xA;&#xA;&#xA;Anexo 1. Referencia al modelo entidad relación del Cotizador Web, Mi Mutual, 2023.&#xA;&#xA;URL: &#xA;&#xA;">
   <children
