@@ -6,6 +6,104 @@
     documentation="Cómo organizar las líneas de prodcc, principal (que responde al mapa del producto) y contingentes (que responden a ing).&#xA;&#xA;&#xA;### Diagnóstico Procesos de Ingeniería&#xA;&#xA;### Levantamiento&#xA;* La mayoría de HU no tienen un anexo técnico resumen de las validaciones u objetos a modificar o crear&#xA;* El cambio del modelo de negocio del cliente genera que las HU no sean funcionales&#xA;&#xA;### Indicadores&#xA;* Porcentaje de trazabilidad de los requisitos&#xA;&#xA;### Análisis&#xA;Diagnóstico:&#xA;* No se realizó en análisis previo de cada HU.&#xA;&#xA;### Indicadores&#xA;* Tasa de aprobación de HU por cliente&#xA;* Estabilidad del código&#xA;&#xA;### Diseño&#xA;* No se realizó en diseño previo de cada HU&#xA;* Los modelos físicos son propiedad del cliente&#xA;&#xA;### Indicadores&#xA;* Flujo acumulado&#xA;* Porcentaje reutilización de código&#xA;&#xA;### Construcción&#xA;* No se tiene un versionamiento controlado y automatizado de la base de datos&#xA;* No se cuenta con integraciones para despliegues en DevOps que permitan mayor control y automatización. &#xA;* No se cuenta con repositorios del mismo proveedor que faciliten las automatizaciones (CI)&#xD;&#xA;* Sobredependencia del Lider Técnico&#xA;&#xA;### Indicadores&#xA;* Tasa de cierre de defectos&#xA;* Velocidad de construcción&#xA;* Cobertura de código&#xA;* Simplicidad de código&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-12d300e4cc79457d880806bb46edf3d4"
+      textAlignment="1"
+      fillColor="#73fdff"
+      alpha="50"
+      type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9d04089bca0a4c07b94bb1d7cca003fe"
+        source="id-12d300e4cc79457d880806bb46edf3d4"
+        target="id-60820e0195b240b08916082af00e22fc">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-bdaa877b1d95497384caf9eeb301f118.xml#id-bdaa877b1d95497384caf9eeb301f118"/>
+    </sourceConnections>
+    <bounds
+        x="840"
+        y="780"
+        width="372"
+        height="105"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-60820e0195b240b08916082af00e22fc"
+        targetConnections="id-611fbf8f398447449581b53eb5f100de id-9d04089bca0a4c07b94bb1d7cca003fe">
+      <bounds
+          x="24"
+          y="24"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Plateau"
+          href="Plateau_id-7ef960c44ef747b7adaca1f88c300867.xml#id-7ef960c44ef747b7adaca1f88c300867"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-e4a6bc97a77645ecbd3b24c549d74ed2.xml#id-e4a6bc97a77645ecbd3b24c549d74ed2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0d8f38d0be8445deb415c6df64afac82"
+      textAlignment="1"
+      fillColor="#73fdff"
+      alpha="50"
+      type="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-36f637ce8c8f43e3b8dc5a1cc59ddfe6"
+        source="id-0d8f38d0be8445deb415c6df64afac82"
+        target="id-fb7ba60e767a4d60be93f92530c2fe0c">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-8191d22ee7f54cc88f7b167661121264.xml#id-8191d22ee7f54cc88f7b167661121264"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d1554c1f429a411990111c34e3f33c37"
+        source="id-0d8f38d0be8445deb415c6df64afac82"
+        target="id-44d23e62df114a9e97d5f2b11fae3489">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-7b3e35354fa8483186b503d057b6e05e.xml#id-7b3e35354fa8483186b503d057b6e05e"/>
+    </sourceConnections>
+    <bounds
+        x="840"
+        y="567"
+        width="372"
+        height="105"/>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-fb7ba60e767a4d60be93f92530c2fe0c"
+        targetConnections="id-66c3dc7bf1a9439fb3ed12968ee2a81c id-36f637ce8c8f43e3b8dc5a1cc59ddfe6">
+      <bounds
+          x="24"
+          y="24"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Plateau"
+          href="Plateau_id-88af7f85dc73401f9b62491a067be8ca.xml#id-88af7f85dc73401f9b62491a067be8ca"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-44d23e62df114a9e97d5f2b11fae3489"
+        targetConnections="id-d1554c1f429a411990111c34e3f33c37 id-94f8433d31694b218d63843d25fcba4e">
+      <bounds
+          x="156"
+          y="24"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:Plateau"
+          href="Plateau_id-46557feb2da041179ccea888d565682f.xml#id-46557feb2da041179ccea888d565682f"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-7968e18cd4c3463399423816abe4d6ae.xml#id-7968e18cd4c3463399423816abe4d6ae"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b5d6ef3e7d5e4af790d4f8118fbe9dea"
       textAlignment="1"
       fillColor="#73fdff"
@@ -15,14 +113,14 @@
         x="840"
         y="324"
         width="372"
-        height="144"/>
+        height="105"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a1dffbd60c7a4654aa604cdb8ddfda88"
         targetConnections="id-aeee9b1481754bb1a6c361797b743340">
       <bounds
           x="156"
-          y="48"
+          y="24"
           width="120"
           height="55"/>
       <archimateElement
@@ -140,7 +238,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-853b7eee1e26478ebb5bc747246f0bbc"
       textAlignment="1"
-      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Proceso de ingeniería Mi Mutual. KPI, salidas y procedimientos.&#xA;&#xA;versión 0.1.6">
+      content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Proceso de ingeniería Mi Mutual. KPI, salidas y procedimientos.&#xA;&#xA;versión 0.1.7">
     <bounds
         x="11"
         y="12"
@@ -394,7 +492,7 @@
         x="648"
         y="480"
         width="516"
-        height="55"/>
+        height="48"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-3cbde2950feb49cea86d9184db1501cd.xml#id-3cbde2950feb49cea86d9184db1501cd"/>
@@ -431,9 +529,9 @@
     </sourceConnections>
     <bounds
         x="648"
-        y="684"
-        width="252"
-        height="55"/>
+        y="696"
+        width="312"
+        height="48"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-6cea2d884f144a8d8c5bd572212fe849.xml#id-6cea2d884f144a8d8c5bd572212fe849"/>
@@ -463,7 +561,7 @@
         x="648"
         y="888"
         width="156"
-        height="55"/>
+        height="48"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-0489406067fd444baf33fa7dadad07ca.xml#id-0489406067fd444baf33fa7dadad07ca"/>
@@ -768,50 +866,11 @@
       targetConnections="id-9df246db65904447b079be5e7ecdd1c0">
     <bounds
         x="864"
-        y="372"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Plateau"
         href="Plateau_id-faf277869fde4a0698abc44eba46c53d.xml#id-faf277869fde4a0698abc44eba46c53d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-fb7ba60e767a4d60be93f92530c2fe0c"
-      targetConnections="id-66c3dc7bf1a9439fb3ed12968ee2a81c">
-    <bounds
-        x="840"
-        y="611"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Plateau"
-        href="Plateau_id-88af7f85dc73401f9b62491a067be8ca.xml#id-88af7f85dc73401f9b62491a067be8ca"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-44d23e62df114a9e97d5f2b11fae3489"
-      targetConnections="id-94f8433d31694b218d63843d25fcba4e">
-    <bounds
-        x="972"
-        y="611"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Plateau"
-        href="Plateau_id-46557feb2da041179ccea888d565682f.xml#id-46557feb2da041179ccea888d565682f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-60820e0195b240b08916082af00e22fc"
-      targetConnections="id-611fbf8f398447449581b53eb5f100de">
-    <bounds
-        x="840"
-        y="816"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Plateau"
-        href="Plateau_id-7ef960c44ef747b7adaca1f88c300867.xml#id-7ef960c44ef747b7adaca1f88c300867"/>
   </children>
 </archimate:ArchimateDiagramModel>
