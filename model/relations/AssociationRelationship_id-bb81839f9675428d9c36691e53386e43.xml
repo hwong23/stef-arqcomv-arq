@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="trabajo"
+    id="id-bb81839f9675428d9c36691e53386e43">
+  <source
+      xsi:type="archimate:Capability"
+      href="Capability_id-7610c78fb977492db4cc6b1a560fc638.xml#id-7610c78fb977492db4cc6b1a560fc638"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-bd6a2e3f1c76405b91cf8c6497d95a5a.xml#id-bd6a2e3f1c76405b91cf8c6497d95a5a"/>
+</archimate:AssociationRelationship>
