@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="app: Mi Mutual Central (despliegue)"
+    id="id-3e423f6c658f473082be68032f21298c"
+    documentation="Antes SIPAS, Mi Mutual es una aplicación web compuesta por distintos módulos de software con arreglo a todas las actividades necesarias que soportan la operación de los productos y servicios que ofrece la Unidad de Solidaridad y Seguros de la Cooperativa.">
+  <properties
+      key="modulo"
+      value="mimutual"/>
+</archimate:ApplicationComponent>

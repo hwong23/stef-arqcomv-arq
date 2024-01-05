@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="causa asociada"
+    id="id-a33dacf023c44ccc9fd064a98e81c150">
+  <source
+      xsi:type="archimate:Outcome"
+      href="Outcome_id-d0f0b48f0c6b4339bd123749d18fd81c.xml#id-d0f0b48f0c6b4339bd123749d18fd81c"/>
+  <target
+      xsi:type="archimate:Driver"
+      href="Driver_id-bd6a2e3f1c76405b91cf8c6497d95a5a.xml#id-bd6a2e3f1c76405b91cf8c6497d95a5a"/>
+</archimate:AssociationRelationship>
