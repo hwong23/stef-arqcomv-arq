@@ -1,0 +1,8 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API Operaciones"
+    id="id-09fef8e4a2e64dddac26b92d195376c1">
+  <properties
+      key="modulo"
+      value="mimutual"/>
+</archimate:ApplicationInterface>

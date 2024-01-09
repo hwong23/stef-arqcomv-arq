@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vista web"
+    id="id-ce4bb8bab28644c4af79100d2c1c3029">
+  <properties
+      key="plataforma"
+      value="html"/>
+</archimate:ApplicationComponent>
