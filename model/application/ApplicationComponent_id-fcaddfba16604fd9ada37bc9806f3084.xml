@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="app: Módulo Web Operaciones"
     id="id-fcaddfba16604fd9ada37bc9806f3084"
-    documentation="pkg: MiMutualWeb&#xA;&#xA;">
+    documentation="Contenedor web de Operaciones Mi Mutual.&#xA;&#xA;pkg: MiMutualWeb&#xA;&#xA;">
   <properties
       key="modulo"
       value="cotizador"/>

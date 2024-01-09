@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Controlador frontal web"
+    name="Controlador frontal (web)"
     id="id-da31f62c3236441f8b26f81ba5bccf46"
     documentation="-&#x9;Verificados los SSL, se recomienda adquirir SSL seguros, con entidades certificadoras. &#xD;&#xA;Si se desea continuar con SSL de Let's Encrypt, se recomienda automatizar el proceso de actualización dado que al dejar estos en modo actualización manual es probable el olvido de esta actualización (Estos certificados se deben actualizar trimestralmente y no cuentan con las características de seguridad necesarias. &#xD;&#xA;">
   <properties
