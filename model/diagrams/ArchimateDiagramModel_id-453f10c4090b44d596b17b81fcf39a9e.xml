@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Operaciones. 1. Contexto"
     id="id-453f10c4090b44d596b17b81fcf39a9e"
-    documentation="El Conjunto de funciones al que llamamos Operaciones es la composición de varios módulos de software organizados al  negocio de Operaciones correspondencia (mapa del producto).&#xA;&#xA;El sistema principal de fondo Mi Mutual Central es la composición de las funciones de negocio de la Unidad de Solidaridad de Coomeva. Las funciones de negocio referidas, como Gestión Beneficiarios, Certificados, Gestión Beneficiarios, aparecen dentro del componente principal en la imagen.&#xA;&#xA;">
+    documentation="El Conjunto de funciones al que llamamos Operaciones es la composición de aplicativos de software independientes e interrelacionados, organizados en correspondencia del lenguaje de negocio de Operaciones. Esta organización parte del insumo del mapa del producto de Operaciones.&#xA;&#xA;El contexto de módulo de Operaciones (conjuinto de aplicativos independientes) está separado físicamente de otros módulos Mi Mutual y dell sistema de fondo Mi Mutual Central.&#xA;&#xA;Nota: el sistema de fondo Mi Mutual Central es la composición de las funciones de negocio de la Unidad de Solidaridad de Coomeva. Las funciones de negocio referidas, como Gestión Beneficiarios, Certificados, Gestión Beneficiarios, aparecen dentro del componente principal en la imagen.&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-73890eba13324e74a38695dc6ef9d739">

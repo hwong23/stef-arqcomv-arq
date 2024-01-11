@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="app: Rescate"
-    id="id-d2fd97b55fd9488a94eb621d0907c1c2"/>
+    id="id-d2fd97b55fd9488a94eb621d0907c1c2"
+    documentation="Aplicativo autónomo de Operaciones."/>

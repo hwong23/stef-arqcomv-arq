@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="app: Receso"
-    id="id-5e5d456a4f2e49fc93bc7e43e7e6c9e2"/>
+    id="id-5e5d456a4f2e49fc93bc7e43e7e6c9e2"
+    documentation="Aplicativo autónomo de Operaciones."/>

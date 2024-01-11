@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="app: Reactivaciones"
-    id="id-cf01ffcc03ee46dd8c3e8f48b79d217f"/>
+    id="id-cf01ffcc03ee46dd8c3e8f48b79d217f"
+    documentation="Aplicativo autónomo de Operaciones."/>

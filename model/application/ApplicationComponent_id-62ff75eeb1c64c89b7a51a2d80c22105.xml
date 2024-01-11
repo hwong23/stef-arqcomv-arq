@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="app: Estudio de Cuenta"
-    id="id-62ff75eeb1c64c89b7a51a2d80c22105"/>
+    id="id-62ff75eeb1c64c89b7a51a2d80c22105"
+    documentation="Aplicativo autónomo de Operaciones."/>

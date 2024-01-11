@@ -1,4 +1,5 @@
 <archimate:ApplicationFunction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Implementación Funcionalidad Operaciones"
-    id="id-7b1cc3274cf34599b98321157d35763c"/>
+    id="id-7b1cc3274cf34599b98321157d35763c"
+    documentation="Funcionalidad pura (caso de uso, historia de usuario, o escenario de HU) del aplicativo de Operaciones Mi Mutual.&#xA;"/>

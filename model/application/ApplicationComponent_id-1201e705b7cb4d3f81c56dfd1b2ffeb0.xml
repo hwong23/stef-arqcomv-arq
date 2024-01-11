@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="app: Cancelaciones"
-    id="id-1201e705b7cb4d3f81c56dfd1b2ffeb0"/>
+    id="id-1201e705b7cb4d3f81c56dfd1b2ffeb0"
+    documentation="Aplicativo autónomo de Operaciones."/>

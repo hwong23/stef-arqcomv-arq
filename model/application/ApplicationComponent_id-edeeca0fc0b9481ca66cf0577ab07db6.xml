@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="app: Crediperseverados"
-    id="id-edeeca0fc0b9481ca66cf0577ab07db6"/>
+    id="id-edeeca0fc0b9481ca66cf0577ab07db6"
+    documentation="Aplicativo autónomo de Operaciones."/>

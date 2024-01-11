@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="app: Reserva Matemática"
-    id="id-64aebe2378cd4258879ef8699921958f"/>
+    id="id-64aebe2378cd4258879ef8699921958f"
+    documentation="Aplicativo autónomo de Operaciones."/>
