@@ -439,7 +439,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-0443b223477d47e394c0eace549880e7"
       textAlignment="1"
-      content="Versiones&#xA;&#xA;Aprendizaje y realimientación de producto">
+      content="Versiones&#xA;&#xA;Aprendizaje y realimientación de desarrollo">
     <sourceConnections
         id="id-642545f0faf44a9fb0650f8595ac2c1d"
         source="id-0443b223477d47e394c0eace549880e7"
@@ -454,7 +454,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-5bd07793b2074e8dbb7d506938831584"
       textAlignment="1"
-      content="Versión candidata QA/UAT">
+      content="Versión candidata QA/UAT&#xA;&#xA;Aprendizaje y realimientación de producto">
     <sourceConnections
         id="id-736b79b57c8043e9ac7c80140f9e8ac9"
         source="id-5bd07793b2074e8dbb7d506938831584"
