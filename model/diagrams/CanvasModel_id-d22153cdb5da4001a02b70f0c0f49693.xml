@@ -1,0 +1,17 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Ingenieria. 3b.1. Mapa del Producto"
+    id="id-d22153cdb5da4001a02b70f0c0f49693">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-da997d6c4fde4bcc88959d7668fe8f77"
+      name="Image"
+      imagePath="images/_L2nE8LGNEe6OAcPPPHdhQg.png">
+    <bounds
+        x="72"
+        y="84"
+        width="673"
+        height="421"/>
+  </children>
+</canvas:CanvasModel>
