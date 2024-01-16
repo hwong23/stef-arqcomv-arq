@@ -1,5 +1,5 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RSG10. Licenciamiento Flowable"
+    name="RSG10. Licenciamiento herramienta Flowable"
     id="id-64355a7b2e2346cea150108aeead174a"
-    documentation="Pérdida de asistencia del fabricante; impacto en portabilidad y resolución de problemas.  "/>
+    documentation="Pérdida de asistencia del fabricante; impacto en la escalabilidad productiva de la herramienta (ambientes de producción); impactos en asistencia de la portabilidad, e impacto en laos tiempos de resolución de problemas. "/>

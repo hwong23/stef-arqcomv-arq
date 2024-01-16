@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Riesgos. 1. Catálogo"
+    name="Riesgos. 1a. Catálogo"
     id="id-111a6b21af744444b010fcb2f02d94e1"
     documentation="### Conjunto de riesgos técnicos y arquitectura. Mi Mutua, Coomeva&#xA;&#xA;Componentes de software que impactan al contrato de Mi Mutual. El componente Flowable no es parte de la pila tecnológica de Coomeva, por tanto, el cliente puede exigir legalmente las acciones (p.e. de indemnización) de los perjuicios tecnológicos que considere. Nota: podría exigir la entrega de los desarrollos sin costos para el cliente.&#xA;&#xA;Debilidades en el proceso de ING Mi Mutual. Roles y responsabilidades de los actores del proceso. Falta organización de los roles y responsabilidades actuales.&#xA;Acumulación de defectos de software detectados en QA. Debido a que el proceso de desarrollo omite las pruebas unitarias ocurre que los defectos de software (que no son funcionales) se detectan extemporáneos en el proceso de QA, lo que genera retrasos y reprocesos en el ciclo de producción.&#xA;&#xA;">
   <children
@@ -64,7 +64,7 @@
       <bounds
           x="24"
           y="36"
-          width="157"
+          width="193"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
@@ -77,7 +77,7 @@
       <bounds
           x="24"
           y="96"
-          width="157"
+          width="193"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
@@ -88,9 +88,9 @@
         id="id-3fb46dfa66b24081929af5759cbdcbc7"
         targetConnections="id-ec69b1cb1a6f4347af6a597335e4fa43">
       <bounds
-          x="360"
+          x="432"
           y="36"
-          width="157"
+          width="193"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
@@ -101,9 +101,9 @@
         id="id-752a292ae3f845a68c106163e69b76b7"
         targetConnections="id-e6cdb093b02542909ad6e0a964d0046f">
       <bounds
-          x="192"
+          x="228"
           y="36"
-          width="157"
+          width="193"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
@@ -114,9 +114,9 @@
         id="id-6db5097f9ded4f9d9e0cdfc05b27ddaa"
         targetConnections="id-2ead1ede16394552ae310d15250394ae">
       <bounds
-          x="192"
+          x="228"
           y="96"
-          width="157"
+          width="193"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
