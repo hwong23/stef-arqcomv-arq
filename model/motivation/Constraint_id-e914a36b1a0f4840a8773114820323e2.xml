@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RSG12. Demanda de Administración de Configuración"
+    id="id-e914a36b1a0f4840a8773114820323e2"
+    documentation="Administración y disponibilidad infraestructura: la demanda de infraestructura a razón de los nuevos desarrollos (Operaciones) dificultan la administración de la configuración en términos de ambientes, aplicaciones y datos; impacta la disponibilidad de recursos para desarrollo y entregas."/>

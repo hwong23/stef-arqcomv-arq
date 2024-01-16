@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RSG11. Migración Tecnológica Mi Mutual"
+    id="id-5b2834b7c6ac4636acaeca1086229173"
+    documentation="Migración Java/Angular. Las opciones de migración de tecnología  revisadas por el Comité T. tienen impacto en la compatibilidad entre versiones de la interfaz web y componentes de base."/>
