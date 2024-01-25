@@ -1,11 +1,12 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="Ventas. 7a. Datos. Físico"
-    id="id-aba46c11675c4dfe83a642a9431ea0a5">
+    name="Cotizador. 7a. Datos. Físico"
+    id="id-f1fa444424fd493d81467616a870c1e1"
+    documentation="Para apreciación del contenido del modelo entidad-relación del Cotizador Web, vinculamos este documento al archivo original.&#xA;&#xA;Anexo 1. Referencia al modelo entidad relación del Cotizador Web, Mi Mutual, 2023.&#xA;&#xA;URL:&#xA;">
   <children
       xsi:type="canvas:CanvasModelSticky"
-      id="id-ae0866b719e64268b7ad643d54b9e0a3"
+      id="id-e2e5847dd15f488d9018c57d40110f6c"
       fillColor="#ffffff"
       content="Mi Mutual. Coomeva, 2023.&#xA;&#xA;Mi Mutual Web. Anexo. Modelo entidad relación: Estructuras, objeto, relaciones.&#xA;&#xA;versión 0.1.1"
       borderColor="#C0C0C0"
@@ -13,17 +14,17 @@
     <bounds
         x="12"
         y="12"
-        width="229"
-        height="138"/>
+        width="195"
+        height="133"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelImage"
-      id="id-f723754dcf7f489a9b09c66fb3fb0067"
+      id="id-c4ddfda055904439922a2320dfff912f"
       name="Image"
       imagePath="images/_xY6YILuSEe6sddkAxQ6gGg.png">
     <bounds
         x="12"
-        y="192"
+        y="168"
         width="2227"
         height="2064"/>
   </children>
