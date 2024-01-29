@@ -1,6 +1,7 @@
 <archimate:RealizationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="despliegue"
     id="id-2bff6ac58b384bb48deb8d99206323a3">
   <source
       xsi:type="archimate:Plateau"

@@ -282,7 +282,7 @@
         type="1">
       <bounds
           x="336"
-          y="336"
+          y="360"
           width="97"
           height="37"/>
       <archimateElement
@@ -324,7 +324,7 @@
         type="1">
       <bounds
           x="228"
-          y="336"
+          y="348"
           width="97"
           height="37"/>
       <archimateElement
@@ -337,8 +337,8 @@
         targetConnections="id-806175cc54bb4f57b0c0facc6afa271c"
         type="1">
       <bounds
-          x="360"
-          y="144"
+          x="372"
+          y="168"
           width="97"
           height="37"/>
       <archimateElement
@@ -352,7 +352,7 @@
         type="1">
       <bounds
           x="252"
-          y="144"
+          y="156"
           width="97"
           height="37"/>
       <archimateElement
@@ -411,7 +411,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-0443b223477d47e394c0eace549880e7"
       textAlignment="1"
-      content="Versiones realimentación desarrollo.&#xA;&#xA;Aprendizaje y durante el desarrollo mediante pruebas unitarias.">
+      content="Versiones realimentación interna (funcional).&#xA;&#xA;Aprendizaje y durante el desarrollo mediante pruebas unitarias.">
     <sourceConnections
         id="id-642545f0faf44a9fb0650f8595ac2c1d"
         source="id-0443b223477d47e394c0eace549880e7"

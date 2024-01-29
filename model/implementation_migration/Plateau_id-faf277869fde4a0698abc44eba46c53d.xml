@@ -1,4 +1,5 @@
 <archimate:Plateau
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="ITR"
-    id="id-faf277869fde4a0698abc44eba46c53d"/>
+    id="id-faf277869fde4a0698abc44eba46c53d"
+    documentation="alcance de la QA funcional (de esa ITR).&#xA;"/>
