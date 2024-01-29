@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ingenieria. 3f. Proceso Roles"
+    name="Ingenieria. 3f. Proceso Roles. Trabajo Conjunto"
     id="id-642299514c67445d8075cecb86823d30"
     documentation="## Definición Roles y Respnsb. Mi Mutual&#xA;&#xA;&#xA;1. LVT (levantamiento). &#xA;Rol/Resp: Funcional, Dueño producto / cliente&#xA;Roles de relevo: LT, ARQ*&#xA;&#xA;Resultado: HU elaboradas en el formato y repositorio de gestión documental designado.&#xA;&#xA;Actualmente: el Adm BD participa desde el levantamiento, mezcla conceptos técnicos con negocio, y bloquea las HU.&#xA;&#xA;Condición: por efectividad del proceso y del entendimiento de negocio, las HU deben construirse estrictamente con conceptos de negocio y sin referencias a, ni condicionamientos, tecnológicos ni del software.&#xA;&#xA;(*) o quien haga las veces del ARQ.&#xA;&#xA;&#xA;2. ANSS (análisis). Rol/Resp&#xA;Scrum, Funcional, Dueño producto cliente (requiere conocimiento del negocio).&#xA;&#xA;Resultado: 1. relación de las HU con el modelo de negocio y con los conceptos de negocio en el repositorio de ARQ. 2; relación de HU con otras (diagrama de CU); 3. Identificación preliminar de tareas de construcción&#xA;Actualmente: no hay resultados de este proceso.&#xA;Ejemplo del modelo de negocio&#xA;&#xA;&#xA;&#xA;3. DISÑ (diseño). R/Re&#xA;LT, Admon BD y ARQ*.&#xA;&#xA;Resultado: 1. solución en términos de componentes de software/hardware, ej., definición de servicios, funciones, datos, servidores, bdd, red, impacto, riesgo técnico, etc, en el repositorio de ARQ Mi Mutual; 2. la planeación de producción y la creación de ítems de trabajo en azrDvs.&#xA;Actualmente: no hay resultados de este proceso.&#xA;&#xA;Ejemplo del planeación de producción en Azr Dps.&#xA;&#xA;&#xA;&#xA;Ejemplo de ítem de trabajo (los ítems de trabajo no son HU)&#xA;&#xA;&#xA;&#xA;&#xA;4. DEV (construcción). R/Re:&#xA;ING Sr. Desarrolladores. y LT*, ARQ*.&#xA;&#xA;Resultado: código fuente, ejecutable, y gestionado ramas de trabajo (adm. config.) en el CSM (bitbckt).&#xA;Actualmente: el desarrollador se organiza con el funcional, otras veces con LT sin documentación de análisis / diseño. Por tanto, prima la interpretación de la HU.&#xA;&#xA;&#xA;5. ACEP (calidad y aceptación). R/Re&#xA;Scrum, QA, ING Sr., Funcional, Dueño producto cliente*.&#xA;&#xA;Resultado: 1) resultado ejecución del plan de pruebas, el margen de error, y la planeación de producción (Az Dvp) de corrección, y 2) comprobación y vo.bo. de criterios de acept. de la HU.&#xA;Actualmente: los Scrum y QA se centran más en los errores software que en las faltas funcionales (negocio).&#xA;6. TRNS (transición y liberación). R/Re&#xA;LT, ING Sr., Funcional, Dueño producto cliente.&#xA;Resultado: es una versión (superior) del software ejecutada en ambiente hilo de UAT, o definitivo PROD del cliente. (validar: la gestión de las entregas mediante la herramienta Azr Dvps. Release Manager.&#xA;&#xA;Actualmente: no sucede una entrega formal de la versión del producto, esto es, una entrega documentada de la versión, con la doc. técnica actual (repositorio de ARQ)., y el recibido del cliente de que puede iniciar los procesos de aceptación (UAT).&#xA;&#xA;&#xA;### Definiciones SCRUM para Mi Mutual&#xA;Seguimiento diario: actualizar el avance/detención de las HU en el mapa del producto Mi Mutual (va de la mano con la gestión del producto del cliente) en términos de una métrica de progreso, como puntos de función/día, velocidad, despliegues/día. Por efectividad, realizar únicamente con el LT, o ING Sr encargado de cada iteración., o ARQ*. La información resultante es el mapa del producto actualizado, el cual alimenta el reporte gerencial o cronograma.&#xA;&#xA;Ejemplo de los temas que se consideran en el 'diario' y que son difíciles de traducir a avance.&#xA;&#xA;Las 'dependencias' no se resuelven desde la perspectiva funcional, por tanto, no hacen parte del seguimiento diario, sino que se resuelven por ING en el ANSS y, con mayor detalle, en el DISÑ, y se materializan en el plan de producción (DISÑ).&#xA;&#xA;Retrospectiva: gestión de riesgos gerencia y riesgos técnicos.&#xA;Gestión del producto (pila de trabajo): Importante. Llevar cuenta de la entrega de valor (no de tecnología), mediante una métrica de valor al cliente, como el valor ganado (VE), versiones liberadas, o características funcionales en uso. Normalmente es grafica.&#xA;&#xA;">
   <children
@@ -687,15 +687,6 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-78bb61044f2645d0b22e4f25cf5d9725.xml#id-78bb61044f2645d0b22e4f25cf5d9725"/>
     </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-0ddf3457494d4d5b883628fe7ad3574c"
-        source="id-ee484c85f4944d2eb89d8d137b4d8716"
-        target="id-71996e89cb1441edb0c9257a83ae7726">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-d04dafe750ac4ca7a6b84dad2946434e.xml#id-d04dafe750ac4ca7a6b84dad2946434e"/>
-    </sourceConnections>
     <bounds
         x="648"
         y="216"
@@ -1196,7 +1187,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-71996e89cb1441edb0c9257a83ae7726"
-      targetConnections="id-0ddf3457494d4d5b883628fe7ad3574c id-8d4d7a36705845b780ccc2fcb220a12b id-09bad84aec274688aaec08ca9da216b7">
+      targetConnections="id-8d4d7a36705845b780ccc2fcb220a12b id-09bad84aec274688aaec08ca9da216b7">
     <bounds
         x="1428"
         y="202"
