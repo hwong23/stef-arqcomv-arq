@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RSG15. Administración condicionada de los ambientes de trabajo DEV y QA"
+    id="id-004f14140b5b4a20923c7d3b2ea749cf"
+    documentation="Formalizar el protocolo de para la recolección de retroalimentación con el concurso del cliente; impacta en la calidad de los entregas y, a mediano plazo, dificulta la aceptación de las versiones."/>
