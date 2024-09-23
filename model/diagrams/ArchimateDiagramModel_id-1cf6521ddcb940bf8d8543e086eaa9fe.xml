@@ -15,7 +15,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-91e97718184e48e68c3771c748406847"
-        targetConnections="id-1c169b0bf89143508435d4511f00eee2">
+        targetConnections="id-1c169b0bf89143508435d4511f00eee2"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-fdc221037c6a493a9bbbe6fe9de3f503"
@@ -42,7 +43,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-fd1edb07b58d4df0ab167cd6160e92fc"
-          targetConnections="id-fdc221037c6a493a9bbbe6fe9de3f503 id-84bbcb9b5a724594b447d34834c839b8">
+          targetConnections="id-fdc221037c6a493a9bbbe6fe9de3f503 id-84bbcb9b5a724594b447d34834c839b8"
+          type="1">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-87a833c773dd4cc89743022ccaf81ff8"
@@ -67,7 +69,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-20f33c72b3d6444a9b04a0e5af399e41">
+        id="id-20f33c72b3d6444a9b04a0e5af399e41"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-f14094ccb6634eb3b76d975093ee1593"
@@ -98,7 +101,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-56944656d9cc4c7ba893bbb7cae7c9bc"
-        targetConnections="id-f14094ccb6634eb3b76d975093ee1593">
+        targetConnections="id-f14094ccb6634eb3b76d975093ee1593"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-1c169b0bf89143508435d4511f00eee2"
@@ -120,7 +124,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-d63dfffe5f244acf81684163c80d1643"
-        targetConnections="id-87a833c773dd4cc89743022ccaf81ff8">
+        targetConnections="id-87a833c773dd4cc89743022ccaf81ff8"
+        type="1">
       <bounds
           x="252"
           y="316"

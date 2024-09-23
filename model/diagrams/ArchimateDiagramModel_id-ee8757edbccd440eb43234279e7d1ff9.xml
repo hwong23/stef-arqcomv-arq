@@ -82,7 +82,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-02093b86fcd2473493e5ec874e963572"
-      targetConnections="id-53aa88da695d4bd0aba5aa59e20b1040 id-17c1e51c21984d27bcffcededcc6809e id-329d03c13eda41fdba7e5b024cc18a0f">
+      targetConnections="id-53aa88da695d4bd0aba5aa59e20b1040 id-17c1e51c21984d27bcffcededcc6809e id-329d03c13eda41fdba7e5b024cc18a0f"
+      type="1">
     <bounds
         x="21"
         y="180"
@@ -162,7 +163,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-c6fc95d283be4a1d8e2972111df654f6">
+      id="id-c6fc95d283be4a1d8e2972111df654f6"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-06ca8b070f584913985bcc8b6b34e3c7"
