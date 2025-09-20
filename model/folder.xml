@@ -3,7 +3,7 @@
     name="STEF-CMMV"
     id="id-67874df60b114ec5b05baca386ae988c"
     purpose="ARQUITECTURA DE SOLUCIONES UNIDAD DE TECNOLOGÍA INFORMÁTICA&#xA;&#xA;Mi Mutual, Coomeva&#xA;Proyecto: Modificación Core Unidad de Solidaridad y Seguros&#xA;&#xA;Documentación de arquitectura&#xA;versión 0.9.1&#xA;&#xA;&#xA;Historia&#xA;---&#xA;Ingeniería. Cadena de producción&#xA;Operaciones. CI&#xA;Operaciones. Modelos iniciales C1, C2, C3&#xA;Modelo datos Mi Mutual&#xA;Modelo negocio Cotizador Web&#xA;Gobierno. Ventas. HU&#xA;Diagnóstico Proceso ING&#xA;Modelo de negocio&#xA;Mi Mutual Web. Entidades de negocio&#xA;Mi Mutua. Entidades de negocio&#xA;Mi Mutua. Entidades Solidaridad y Seguros&#xA;Mi Mutual Web. Cotizador&#xA;Mi Mutual. Central&#xA;&#xA;&#xA;https://hwong23.github.io/stef-arqcomv-arq/&#xA;"
-    version="4.9.0">
+    version="5.0.0">
   <properties
       key="rutaMacMD"
       value="/Downloads/tmpr/prymd/"/>

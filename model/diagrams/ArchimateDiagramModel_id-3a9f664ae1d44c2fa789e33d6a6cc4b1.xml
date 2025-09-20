@@ -15,8 +15,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-935c969f462744c08ec8666a28748758"
-        targetConnections="id-7aa0227390b64857a8625d629a138d65"
-        type="1">
+        targetConnections="id-7aa0227390b64857a8625d629a138d65">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-4999c1f99dcd4813a4d2d0a92a5bff7f"
@@ -43,8 +42,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="id-55e2383ca34b4203917a977b892d22dc"
-          targetConnections="id-4999c1f99dcd4813a4d2d0a92a5bff7f id-02b4690d9ce74e839ef68c76695e85e3"
-          type="1">
+          targetConnections="id-4999c1f99dcd4813a4d2d0a92a5bff7f id-02b4690d9ce74e839ef68c76695e85e3">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="id-549b41b781c1430a8023c4939d4baeea"
@@ -69,8 +67,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-113d02b2b9814a49af224d7929fe6086"
-        type="1">
+        id="id-113d02b2b9814a49af224d7929fe6086">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-1080cf35aac84158a8c022d111cd7e48"
@@ -101,8 +98,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c1b0d38b99344c92a8267bf3e0fffc03"
-        targetConnections="id-1080cf35aac84158a8c022d111cd7e48"
-        type="1">
+        targetConnections="id-1080cf35aac84158a8c022d111cd7e48">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-7aa0227390b64857a8625d629a138d65"
@@ -124,8 +120,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-eee49e1c1b5b478c95f30efcfd1b4f96"
-        targetConnections="id-549b41b781c1430a8023c4939d4baeea"
-        type="1">
+        targetConnections="id-549b41b781c1430a8023c4939d4baeea">
       <bounds
           x="252"
           y="316"

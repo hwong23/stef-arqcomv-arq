@@ -445,7 +445,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-27ec1a61437347e598bb6aa0355a92ea"
-        targetConnections="id-ddc55ddb77ed46f0963a8d37c655b379">
+        targetConnections="id-ddc55ddb77ed46f0963a8d37c655b379"
+        type="1">
       <bounds
           x="696"
           y="42"
@@ -475,7 +476,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3989781ec8524fdeb2a6763d0f1fdb4a"
-      targetConnections="id-c33a23e4c23241eea794a9cf827ba938">
+      targetConnections="id-c33a23e4c23241eea794a9cf827ba938"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-5a327b3a914a46e194d034e73f132610"
@@ -506,7 +508,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9c6f75adaaff4055842d392c6e703556"
-      targetConnections="id-11b46b71b310444e83d2b2c0bb119ab1">
+      targetConnections="id-11b46b71b310444e83d2b2c0bb119ab1"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-792d2e8b32224d9d9bbe94722edd08c7"
@@ -533,7 +536,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-295433d393d34b31af20c673d0435cb6"
-      targetConnections="id-48166557f05543d988286dffba5b1c62">
+      targetConnections="id-48166557f05543d988286dffba5b1c62"
+      type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-fc3771c6ea6747ea90a9e6762d618163"

@@ -34,8 +34,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b59aa9d63665475b9c7ae846eeb5ceb4"
-        targetConnections="id-d213101a96f64f308ec972beefcb0d3e"
-        type="1">
+        targetConnections="id-d213101a96f64f308ec972beefcb0d3e">
       <bounds
           x="12"
           y="36"
@@ -79,8 +78,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f234fdea72a545e9b2b4553596d02c4d"
-        targetConnections="id-bf317f62a0b14c7484a99008e10fd501"
-        type="1">
+        targetConnections="id-bf317f62a0b14c7484a99008e10fd501">
       <bounds
           x="12"
           y="36"
@@ -124,8 +122,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-93329fdbb6414314aef43fbded303757"
-        targetConnections="id-6f7322a2dbb44b839b59a820b766cf82"
-        type="1">
+        targetConnections="id-6f7322a2dbb44b839b59a820b766cf82">
       <bounds
           x="12"
           y="36"
@@ -169,8 +166,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0e18cca5261d483d8df69f8b2105b211"
-        targetConnections="id-0c0f9182b2bd4232a85ca9abba3933cc"
-        type="1">
+        targetConnections="id-0c0f9182b2bd4232a85ca9abba3933cc">
       <bounds
           x="12"
           y="36"
@@ -214,8 +210,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-6453a5c509804222b3744d93bcb708be"
-        targetConnections="id-4e966c837f8d40c291a0bdaeccfd5cd8"
-        type="1">
+        targetConnections="id-4e966c837f8d40c291a0bdaeccfd5cd8">
       <bounds
           x="12"
           y="36"
@@ -259,8 +254,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0c5065bb046f4946acfdc86cadf94733"
-        targetConnections="id-01a4da6eee234119a21db07ffb6cb602"
-        type="1">
+        targetConnections="id-01a4da6eee234119a21db07ffb6cb602">
       <bounds
           x="12"
           y="36"
@@ -295,8 +289,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-af8296f723b94a03b8500637c9f68124"
-        targetConnections="id-692393374eea441a8060d953aaa1c188"
-        type="1">
+        targetConnections="id-692393374eea441a8060d953aaa1c188">
       <bounds
           x="24"
           y="36"

@@ -6,8 +6,7 @@
     documentation="Fuente: planeación SCRUM&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6c3ff746e40f4d9f81cb26bda16ac71d"
-      type="1">
+      id="id-6c3ff746e40f4d9f81cb26bda16ac71d">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-ad04e37b6a944a5fbb129bffc115258a"
